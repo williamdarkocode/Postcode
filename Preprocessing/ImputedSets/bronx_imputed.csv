@@ -1,0 +1,701 @@
+Borough,Area,Address,Num_Beds,Num_Baths,Sq-Ft,Rent
+bronx,Tremont,2065 Ryer Avenue,2.0,1.0,719.0,2217.0
+bronx,Crotona Park East,1169 Hoe Avenue,2.0,1.0,848.76,2425.0
+bronx,Highbridge,1515 Macombs Road,1.0,1.0,631.43,1800.0
+bronx,Norwood,31 West Mosholu Parkway North,2.0,1.0,833.22,1950.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,675.0,3132.0
+bronx,Kingsbridge Heights,114 West 238th Street,1.0,1.0,450.0,1700.0
+bronx,Fordham,2692 Creston Avenue,1.0,1.0,642.88,2150.0
+bronx,Fordham,2692 Creston Avenue,2.0,1.0,846.31,2350.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,571.95,2991.0
+bronx,University Heights,2265 University Avenue,1.0,1.0,629.79,1750.0
+bronx,Tremont,2095 Grand Concourse,1.0,1.0,622.43,1525.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,581.76,3291.0
+bronx,Tremont,2095 Grand Concourse,2.0,1.0,825.86,1725.0
+bronx,Riverdale,3240 Henry Hudson Parkway East,2.0,2.0,1171.26,2850.0
+bronx,New_Dev,2401 3rd Avenue,2.0,2.0,1240.69,4972.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,677.69,3214.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1182.71,3200.0
+bronx,Riverdale,5421 Sylvan Avenue,1.0,1.0,626.52,1650.0
+bronx,New_Dev,2401 3rd Avenue,3.0,2.0,1439.31,5025.0
+bronx,University Heights,2471 Grand Avenue,3.0,1.0,1048.1,2500.0
+bronx,Throgs Neck,2879 Philip Avenue,1.0,1.0,637.15,1975.0
+bronx,Riverdale,5530 Netherland Avenue,2.0,1.0,847.94,2400.0
+bronx,Soundview,102 Lighthouse Court,2.0,1.0,800.0,2100.0
+bronx,Woodlawn,108 East 237th Street,3.0,1.0,1500.0,3000.0
+bronx,North New York,522 East 142nd Street,2.0,1.0,725.0,2395.0
+bronx,Bronxwood,2700 Bronx Park East,1.0,1.0,483.0,1625.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,453.0,2943.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,686.32,3478.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,453.0,2943.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,580.62,3256.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,439.0,2905.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,675.0,3132.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,675.0,3132.0
+bronx,North New York,408 East 134th Street,1.0,1.0,642.88,2150.0
+bronx,University Heights,2201 Jerome Avenue,1.0,1.0,633.06,1850.0
+bronx,Parkchester,2240 East Tremont Avenue,0.5,1.0,395.0,1350.0
+bronx,University Heights,2265 University Avenue,0.5,1.0,522.35,1475.0
+bronx,Riverdale,3636 Fieldston Road,1.0,1.0,800.0,2000.0
+bronx,New_Dev,228 East 135th Street,0.5,1.0,545.25,2175.0
+bronx,Bronx,22 East 212th Street,2.0,1.0,841.4,2200.0
+bronx,Morris Heights,1633 Macombs Road,1.0,1.0,633.06,1850.0
+bronx,New_Dev,228 East 135th Street,2.0,1.0,861.03,2800.0
+bronx,New_Dev,276 Grand Concourse,2.0,2.0,1194.16,3550.0
+bronx,New_Dev,2401 3rd Avenue,2.0,2.0,1240.69,4972.0
+bronx,New_Dev,228 East 135th Street,1.0,1.0,645.99,2245.0
+bronx,Concourse,343 East 173rd Street,1.0,1.0,629.79,1750.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,453.0,2943.0
+bronx,City Island,456 City Island Avenue,1.0,1.0,627.99,1695.0
+bronx,Morris Heights,1635 Macombs Road,1.0,1.0,633.06,1850.0
+bronx,Belmont,518 East 187th Street,1.0,1.0,620.8,1475.0
+bronx,Spuyten Duyvil,2728 Henry Hudson Parkway,1.0,1.0,850.0,2250.0
+bronx,Kingsbridge Heights,3340 Fort Independence Street,0.5,1.0,527.26,1625.0
+bronx,Concourse,1254 Sherman Avenue,1.0,1.0,600.0,1050.0
+bronx,Fordham,2700 Creston Avenue,1.0,1.0,626.75,1657.0
+bronx,Bronxwood,2720 Bronx Park East,1.0,1.0,625.7,1625.0
+bronx,Spuyten Duyvil,2465 Palisade Avenue,1.0,1.0,1000.0,3300.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,575.35,3095.0
+bronx,Belmont,502 East 189th Street,1.0,1.0,630.38,1768.0
+bronx,Morris Park,2106 Wallace Avenue,0.5,1.0,650.0,1500.0
+bronx,Spuyten Duyvil,2600 Netherland Avenue,2.0,2.0,1250.0,3375.0
+bronx,New_Dev,228 East 135th Street,2.0,1.0,861.03,2800.0
+bronx,Bronxwood,2760 Barnes Avenue,2.0,1.0,1000.0,2100.0
+bronx,Riverdale,6425 Broadway,1.0,1.0,633.06,1850.0
+bronx,Concourse,1200 College Avenue,1.0,1.0,629.79,1750.0
+bronx,Mott Haven,101 Bruckner Boulevard,1.0,2.0,998.91,3600.0
+bronx,Mott Haven,101 Bruckner Boulevard,1.0,1.0,647.79,2300.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1185.99,3300.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1182.71,3200.0
+bronx,Kingsbridge,3422 Irwin Avenue,5.0,3.0,2108.15,4000.0
+bronx,Riverdale,3820 Waldo Avenue,1.0,1.0,633.06,1850.0
+bronx,Williamsbridge,900A East 213rd Street,3.0,1.0,1039.92,2250.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,581.76,3291.0
+bronx,Riverdale,3707 Blackstone Avenue,3.0,2.0,1735.0,6900.0
+bronx,Riverdale,4705 Henry Hudson Parkway,1.0,1.0,644.51,2200.0
+bronx,New_Dev,2401 3rd Avenue,2.0,2.0,1234.93,4796.0
+bronx,Riverdale,4901 Henry Hudson Parkway West,1.0,1.0,644.51,2200.0
+bronx,Country Club,1130 Stadium Avenue,1.0,1.0,634.54,1895.0
+bronx,Melrose,381 East 151st Street,1.0,1.0,623.25,1550.0
+bronx,Pelham Parkway,2120 Cruger Avenue,1.0,1.0,629.79,1750.0
+bronx,Spuyten Duyvil,2728 Henry Hudson Parkway,3.0,2.0,1200.0,3250.0
+bronx,Concourse,85 Mcclellan Street,1.0,1.0,631.26,1795.0
+bronx,North New York,443 East 141st Street,3.0,2.5,1522.45,2850.0
+bronx,North New York,466 Concord Avenue,2.0,1.0,834.86,2000.0
+bronx,Fordham,2376 Ryer Avenue,2.0,1.0,825.86,1725.0
+bronx,New_Dev,276 Grand Concourse,0.5,1.0,544.93,2165.0
+bronx,New_Dev,276 Grand Concourse,1.0,1.0,664.96,2825.0
+bronx,West Farms,984 Bronx Park South,2.0,1.0,825.86,1725.0
+bronx,Pelham Parkway,1025 Esplanade,1.0,1.0,629.79,1750.0
+bronx,New_Dev,2401 3rd Avenue,2.0,2.0,1240.36,4962.0
+bronx,Mott Haven,101 Bruckner Boulevard,1.0,1.0,647.79,2300.0
+bronx,Concourse,1515 Grand Concourse,1.0,1.0,629.79,1750.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1185.99,3300.0
+bronx,Fordham,2825 Grand Concourse,2.0,1.0,834.86,2000.0
+bronx,Norwood,1 East 213rd Street,1.0,1.0,618.34,1400.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1182.71,3200.0
+bronx,Throgs Neck,3153 Lafayette Avenue,3.0,1.0,980.0,2700.0
+bronx,Riverdale,3660 Waldo Avenue,2.0,1.0,851.22,2500.0
+bronx,Bronxwood,2702 Bronx Park East,1.0,1.0,625.7,1625.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,579.47,3221.0
+bronx,Crotona Park East,1536 Longfellow Avenue,4.0,1.0,1240.08,2350.0
+bronx,Castle Hill,2068 Story Avenue,3.0,1.0,1039.92,2250.0
+bronx,Kingsbridge,3415 Corlear Avenue,3.0,2.0,1368.15,2850.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,453.0,2943.0
+bronx,Wakefield,1012 East 223rd Street,3.0,1.5,1215.49,2900.0
+bronx,Riverdale,3707 Blackstone Avenue,1.0,1.0,900.0,3500.0
+bronx,Fordham,2721 Morris Avenue,1.0,1.0,621.45,1495.0
+bronx,West Farms,932 Bronx Park South,0.5,1.0,523.17,1500.0
+bronx,Westchester Square,1502 Hone Avenue,0.5,1.0,514.99,1250.0
+bronx,Bedford Park,207 East 205th Street,3.0,2.0,1000.0,2850.0
+bronx,West Farms,926 Bronx Park South,2.0,1.0,837.97,2095.0
+bronx,Riverdale,4475 Henry Hudson Parkway West,2.0,2.0,1158.64,2464.0
+bronx,University Heights,2391 Davidson Avenue,3.0,1.0,1039.11,2225.0
+bronx,Parkchester,2240 East Tremont Avenue,0.5,1.0,395.0,1350.0
+bronx,Spuyten Duyvil,2600 Netherland Avenue,2.0,2.0,1250.0,3375.0
+bronx,Riverdale,3660 Waldo Avenue,2.0,1.0,849.58,2450.0
+bronx,University Heights,2512 University Avenue,1.0,1.0,623.54,1559.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,571.95,2991.0
+bronx,University Heights,2512 University Avenue,2.0,1.0,838.13,2100.0
+bronx,Country Club,3284 Griswold Avenue,0.5,1.0,529.71,1700.0
+bronx,Pelham Bay,2023 Burr Avenue,0.5,1.0,523.14,1499.0
+bronx,Riverdale,630 West 246th Street,2.0,1.5,1031.52,3295.0
+bronx,Morris Park,1964 Lurting Avenue,2.0,1.0,834.86,2000.0
+bronx,Bronxwood,2700 Bronx Park East,1.0,1.0,479.0,1625.0
+bronx,Kingsbridge,3045 Godwin Terrace,1.0,1.0,750.0,1850.0
+bronx,Pelham Parkway,2102 Holland Avenue,1.0,1.0,629.3,1735.0
+bronx,Melrose,421 East 158th Street,1.0,1.0,631.4,1799.0
+bronx,New_Dev,228 East 135th Street,2.0,1.0,861.03,2800.0
+bronx,New_Dev,276 Grand Concourse,0.5,1.0,544.93,2165.0
+bronx,Bronxwood,2550 Olinville Avenue,0.5,1.0,519.87,1399.0
+bronx,New_Dev,224 East 135th Street,2.0,1.0,881.71,3432.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,675.0,3132.0
+bronx,New_Dev,224 East 135th Street,1.0,1.0,654.85,2516.0
+bronx,Schuylerville,3189 East Tremont Avenue,1.0,1.0,626.52,1650.0
+bronx,New_Dev,224 East 135th Street,1.0,1.0,644.51,2200.0
+bronx,New_Dev,224 East 135th Street,2.0,1.0,861.03,2800.0
+bronx,University Heights,200 West Kingsbdge Road,1.0,1.0,629.79,1750.0
+bronx,Concourse,860 Grand Concourse,1.0,1.0,636.34,1950.0
+bronx,Van Nest,1755 Taylor Avenue,3.0,1.0,1045.65,2425.0
+bronx,Riverdale,5614 Riverdale Avenue,3.0,1.0,1100.0,2400.0
+bronx,Schuylerville,2738 Gifford Avenue,0.5,1.0,550.0,1450.0
+bronx,Riverdale,3333 Henry Hudson Parkway,0.5,2.0,943.0,4900.0
+bronx,Crotona Park East,1536 Longfellow Avenue,4.0,1.0,1240.08,2350.0
+bronx,Fordham,2567 Decatur Avenue,3.0,1.0,1038.29,2200.0
+bronx,Fordham,2549 Decatur Avenue,2.0,1.0,829.95,1850.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,676.51,3178.0
+bronx,Bronxwood,2700 Bronx Park East,1.0,1.0,483.0,1675.0
+bronx,Soundview,1064 Ward Avenue,1.0,1.0,623.25,1550.0
+bronx,Kingsbridge Heights,114 West 238th Street,1.0,1.0,626.52,1650.0
+bronx,New_Dev,276 Grand Concourse,1.0,1.0,664.96,2825.0
+bronx,Mott Haven,329 East 132nd Street,2.0,2.0,1174.54,2950.0
+bronx,Pelham Gardens,2519 Woodhull Avenue,3.0,1.0,1071.0,3200.0
+bronx,Belmont,667 East 187th Street,1.0,1.0,619.98,1450.0
+bronx,Concourse,143 East 149th Street,4.0,1.5,1410.74,2850.0
+bronx,Parkchester,2130 East Tremont Avenue,2.0,1.0,839.76,2150.0
+bronx,Fordham,2482 Tiebout Avenue,3.0,1.0,1053.01,2650.0
+bronx,New_Dev,2401 3rd Avenue,2.0,2.0,1235.12,4802.0
+bronx,Mott Haven,101 Bruckner Boulevard,1.0,1.0,647.79,2300.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1185.99,3300.0
+bronx,New_Dev,2401 3rd Avenue,2.0,2.0,1240.36,4962.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1182.71,3200.0
+bronx,Mt. Hope,1881 Grand Concourse,2.0,1.0,839.76,2150.0
+bronx,Crotona Park East,1536 Longfellow Avenue,4.0,1.0,1240.08,2350.0
+bronx,Throgs Neck,194 Kearney Avenue,3.0,1.0,1332.0,2850.0
+bronx,Mott Haven,329 East 132nd Street,0.5,1.0,544.43,2150.0
+bronx,City Island,412 Minnieford Avenue,3.0,2.0,1325.0,4500.0
+bronx,Riverdale,3240 Henry Hudson Parkway East,4.0,3.0,1922.71,4350.0
+bronx,North New York,454 East 138th Street,0.5,1.0,532.59,1788.0
+bronx,Concourse,860 Grand Concourse,1.0,1.0,750.0,1950.0
+bronx,New_Dev,276 Grand Concourse,2.0,2.0,1190.89,3450.0
+bronx,Riverdale,3333 Henry Hudson Parkway,0.5,2.0,943.0,4900.0
+bronx,Melrose,837 Washington Avenue,1.0,1.0,675.0,1800.0
+bronx,Norwood,183 East Mosholu Parkway North,3.0,1.0,1800.0,2800.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,577.15,3150.0
+bronx,Norwood,75 West Mosholu Parkway North,0.5,1.0,521.53,1450.0
+bronx,Williamsbridge,900A East 213rd Street,3.0,1.0,1039.92,2250.0
+bronx,Riverdale,5900 Arlington Avenue,0.5,1.0,534.62,1850.0
+bronx,West Farms,946 Bronx Park South,1.0,1.0,626.52,1650.0
+bronx,Pelham Parkway,2198 Cruger Avenue,3.0,1.0,1048.1,2500.0
+bronx,New_Dev,2401 3rd Avenue,2.0,2.0,1240.19,4957.0
+bronx,New_Dev,2401 3rd Avenue,2.0,2.0,1240.69,4972.0
+bronx,Mott Haven,101 Bruckner Boulevard,1.0,2.0,998.91,3600.0
+bronx,Spuyten Duyvil,2750 Johnson Avenue,3.0,2.0,1400.0,3900.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,580.62,3256.0
+bronx,Parkchester,2240 East Tremont Avenue,0.5,1.0,395.0,1350.0
+bronx,University Heights,2265 University Avenue,0.5,1.0,521.53,1450.0
+bronx,Highbridge,1329 Inwood Avenue,4.0,1.0,1261.31,2999.0
+bronx,New_Dev,228 East 135th Street,2.0,1.0,861.03,2800.0
+bronx,Highbridge,1329 Inwood Avenue,4.0,1.0,1253.17,2750.0
+bronx,City Island,535 Minnieford Avenue,3.0,2.0,1300.0,2950.0
+bronx,New_Dev,276 Grand Concourse,3.0,2.0,1410.68,4150.0
+bronx,New_Dev,276 Grand Concourse,2.0,2.0,1194.16,3550.0
+bronx,New_Dev,276 Grand Concourse,2.0,2.0,1190.89,3450.0
+bronx,University Heights,30 West 181st Street,3.0,2.0,1363.24,2700.0
+bronx,New_Dev,276 Grand Concourse,1.0,1.0,670.69,3000.0
+bronx,Spuyten Duyvil,3300 Netherland Avenue,1.0,1.0,642.88,2150.0
+bronx,Spuyten Duyvil,3300 Netherland Avenue,2.0,2.0,1000.0,2650.0
+bronx,New_Dev,2401 3rd Avenue,2.0,2.0,1234.93,4796.0
+bronx,New_Dev,224 East 135th Street,2.0,1.0,881.71,3432.0
+bronx,New_Dev,276 Grand Concourse,0.5,1.0,560.79,2650.0
+bronx,New_Dev,276 Grand Concourse,0.5,1.0,544.93,2165.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,675.0,3132.0
+bronx,New_Dev,2401 3rd Avenue,3.0,2.0,1439.31,5025.0
+bronx,Highbridge,1190 Shakespeare Avenue,1.0,1.0,630.94,1785.0
+bronx,Kingsbridge Heights,3111 Heath Avenue,1.0,1.0,631.26,1795.0
+bronx,Bedford Park,2876 Jerome Avenue,0.5,1.0,523.99,1525.0
+bronx,Throgs Neck,928 Quincy Avenue,2.0,1.0,834.86,2000.0
+bronx,Concourse,1241 College Avenue,2.0,1.0,833.22,1950.0
+bronx,Mott Haven,112 Lincoln Avenue,0.5,1.0,542.8,2100.0
+bronx,Soundview,1207 Boynton Avenue,1.0,1.0,620.8,1475.0
+bronx,Morris Park,1614 Haight Avenue,2.0,1.0,1000.0,2095.0
+bronx,Crotona Park East,1169 Hoe Avenue,2.0,1.0,848.76,2425.0
+bronx,Crotona Park East,1536 Longfellow Avenue,4.0,1.0,1240.08,2350.0
+bronx,Melrose,425 East 154th Street,1.0,1.0,750.0,1895.0
+bronx,Wakefield,652 East 230th Street,3.0,1.0,1000.0,2300.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,439.0,2905.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1185.99,3300.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1182.71,3200.0
+bronx,Parkchester,2220 East Tremont Avenue,1.0,1.0,621.0,1600.0
+bronx,Mott Haven,329 East 132nd Street,1.0,1.0,644.51,2200.0
+bronx,Melrose,706 Courtlandt Avenue,2.0,1.0,831.59,1900.0
+bronx,Woodstock,3044 Third Avenue,1.0,1.0,631.43,1800.0
+bronx,Belmont,667 East 187th Street,2.0,1.0,822.59,1625.0
+bronx,Mott Haven,112 Lincoln Avenue,1.0,1.0,659.24,2650.0
+bronx,University Heights,2115 Davidson Avenue,3.0,2.0,1083.0,2800.0
+bronx,Riverdale,3333 Henry Hudson Parkway,0.5,2.0,943.0,4900.0
+bronx,Crotona Park East,1169 Hoe Avenue,2.0,1.0,848.76,2425.0
+bronx,Highbridge,1030 Woodycrest Avenue,1.0,1.0,628.97,1725.0
+bronx,Riverdale,3671 Hudson Manor Terrace,0.5,1.0,602.0,2200.0
+bronx,New_Dev,2401 3rd Avenue,2.0,2.0,1240.69,4972.0
+bronx,Bedford Park,3106 Villa Avenue,4.0,1.0,1235.01,2195.0
+bronx,New_Dev,425 Grand Concourse,3.0,1.0,1053.86,2676.0
+bronx,New_Dev,425 Grand Concourse,2.0,1.0,845.42,2323.0
+bronx,New_Dev,425 Grand Concourse,1.0,1.0,635.55,1926.0
+bronx,New_Dev,425 Grand Concourse,0.5,1.0,524.22,1532.0
+bronx,Mott Haven,101 Bruckner Boulevard,1.0,1.0,647.79,2300.0
+bronx,Highbridge,1329 Inwood Avenue,4.0,1.0,1249.9,2650.0
+bronx,Riverdale,5415 Netherland Avenue,1.0,1.0,641.24,2100.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1185.99,3300.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,577.15,3150.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,677.69,3214.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1182.71,3200.0
+bronx,Riverdale,5800 Arlington Avenue,0.5,1.0,539.53,2000.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,579.47,3221.0
+bronx,North New York,534 Jackson Avenue,2.0,1.0,834.04,1975.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1185.99,3300.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1182.71,3200.0
+bronx,Country Club,1110 Stadium Avenue,1.0,1.0,641.24,2100.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,577.15,3150.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,580.62,3256.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,579.47,3221.0
+bronx,Williamsbridge,831 Bartholdi Street,1.0,1.0,631.43,1800.0
+bronx,Concourse,853 Walton Avenue,2.0,1.0,838.95,2125.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,676.51,3178.0
+bronx,Fordham,2482 Tiebout Avenue,3.0,1.0,1053.01,2650.0
+bronx,Kingsbridge Heights,3340 Fort Independence Street,2.0,1.0,843.04,2250.0
+bronx,Norwood,3341 Reservior Oval West,3.0,2.0,1356.7,2500.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,439.0,2905.0
+bronx,Crotona Park East,1169 Hoe Avenue,3.0,1.0,1059.52,2849.0
+bronx,Crotona Park East,1169 Hoe Avenue,2.0,1.0,848.76,2425.0
+bronx,North New York,438 East 134th Street,3.0,1.0,1038.29,2200.0
+bronx,Riverdale,6049 Huxley Avenue,3.0,2.0,1600.0,4700.0
+bronx,University Heights,2115 Davidson Avenue,1.0,1.0,625.0,1950.0
+bronx,Bronxwood,3013 Barker Avenue,0.5,1.0,531.35,1750.0
+bronx,Spuyten Duyvil,3225 Johnson Avenue,2.0,1.0,844.67,2300.0
+bronx,Spuyten Duyvil,2287 Johnson Avenue,1.0,1.0,782.0,2500.0
+bronx,Woodstock,497 East 156th Street,1.0,1.0,624.07,1575.0
+bronx,Melrose,837 Washington Avenue,1.0,1.0,675.0,1800.0
+bronx,New_Dev,224 East 135th Street,2.0,1.0,861.03,2800.0
+bronx,Mott Haven,101 Bruckner Boulevard,1.0,2.0,998.91,3600.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1185.99,3300.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,577.15,3150.0
+bronx,Bronx,4614 Wilder Avenue,2.0,1.0,851.22,2500.0
+bronx,Norwood,3071 Perry Avenue,1.0,1.0,626.52,1650.0
+bronx,Spuyten Duyvil,3660 Oxford Avenue,1.0,1.0,1000.0,2400.0
+bronx,Van Nest,1869 Wallace Avenue,3.0,1.0,1041.56,2300.0
+bronx,Mott Haven,101 Bruckner Boulevard,1.0,1.0,647.79,2300.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1182.71,3200.0
+bronx,Fordham,2482 Tiebout Avenue,3.0,1.0,1053.01,2650.0
+bronx,Tremont,253 East 181st Street,1.0,1.0,626.52,1650.0
+bronx,Tremont,253 East 181st Street,0.5,1.0,524.09,1528.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,577.15,3150.0
+bronx,New_Dev,228 East 135th Street,2.0,1.0,861.03,2800.0
+bronx,Bronxwood,2572 Bronxwood Avenue,3.0,1.0,1100.0,2400.0
+bronx,Morrisania,790 East 169th Street,2.0,1.0,844.67,2300.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,677.69,3214.0
+bronx,Fordham,55 East 196th Street,2.0,1.0,838.13,2100.0
+bronx,Riverdale,640 West 237th Street,2.0,2.5,1600.0,5500.0
+bronx,Kingsbridge,302 West 236th Street,2.0,1.0,900.0,2200.0
+bronx,Highbridge,1329 Inwood Avenue,3.0,1.0,1056.28,2750.0
+bronx,Highbridge,1329 Inwood Avenue,3.0,1.0,1048.79,2521.0
+bronx,University Heights,1 West 182nd Street,1.0,1.0,624.88,1600.0
+bronx,Mott Haven,25 Bruckner Boulevard,1.0,1.0,665.78,2850.0
+bronx,Riverdale,6010 Spencer Avenue,3.0,3.0,1691.47,3300.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,575.35,3095.0
+bronx,Crotona Park East,1169 Hoe Avenue,2.0,1.0,848.76,2425.0
+bronx,New_Dev,276 Grand Concourse,2.0,2.0,1194.16,3550.0
+bronx,Spuyten Duyvil,3215 Arlington Avenue,1.0,1.0,800.0,1995.0
+bronx,Fieldston,351 West 245th Street,5.0,3.5,3754.0,9500.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,677.69,3214.0
+bronx,Pelham Parkway,2197 Cruger Avenue,2.0,1.0,843.04,2250.0
+bronx,Pelham Parkway,2199 Cruger Avenue,2.0,1.0,839.76,2150.0
+bronx,Spuyten Duyvil,530 West 236th Street,2.0,2.0,1184.35,3250.0
+bronx,Fordham,2420 Creston Avenue,2.0,1.0,821.77,1600.0
+bronx,Country Club,1130 Stadium Avenue,1.0,1.0,634.54,1895.0
+bronx,Laconia,2546 Laconia Avenue,3.0,1.0,1054.65,2700.0
+bronx,Edenwald,4040 Grace Avenue,0.5,1.0,547.71,2250.0
+bronx,Spuyten Duyvil,3215 Arlington Avenue,2.0,1.0,1020.0,2450.0
+bronx,Concourse,1521 Sheridan Avenue,0.5,1.0,510.0,1500.0
+bronx,Williamsbridge,900A East 213rd Street,3.0,1.0,1039.92,2250.0
+bronx,New_Dev,276 Grand Concourse,0.5,1.0,544.93,2165.0
+bronx,Concourse,1711 Morris Avenue,1.0,1.0,700.0,1750.0
+bronx,Kingsbridge Heights,3880 Orloff Avenue,2.0,1.0,852.59,2542.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,439.0,2905.0
+bronx,Kingsbridge Heights,3880 Orloff Avenue,2.0,1.0,846.14,2345.0
+bronx,Castle Hill,2068 Story Avenue,2.0,1.0,825.04,1700.0
+bronx,Soundview,1772 East 172nd Street,1.0,1.0,629.46,1740.0
+bronx,Soundview,1772 East 172nd Street,1.0,1.0,617.75,1382.0
+bronx,North New York,454 East 138th Street,1.0,1.0,633.65,1868.0
+bronx,Fordham,2825 Grand Concourse,1.0,1.0,631.43,1800.0
+bronx,Mott Haven,39 Bruckner Boulevard,2.0,1.0,850.0,2350.0
+bronx,Concourse,1132 Grant Avenue,3.0,1.0,1250.0,2550.0
+bronx,Mott Haven,25 Bruckner Boulevard,2.0,2.0,1197.44,3650.0
+bronx,Fordham,2482 Tiebout Avenue,3.0,1.0,1053.01,2650.0
+bronx,New_Dev,2401 3rd Avenue,2.0,2.0,1234.93,4796.0
+bronx,Riverdale,3461 Irwin Avenue,3.0,1.0,1331.0,2695.0
+bronx,Riverdale,6020 Huxley Avenue,3.0,1.0,1000.0,2700.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,676.51,3178.0
+bronx,University Heights,2170 University Avenue,0.5,1.0,523.01,1495.0
+bronx,Laconia,1744 Givan Avenue,3.0,1.0,1000.0,2200.0
+bronx,Laconia,1744 Givan Avenue,3.0,1.0,1000.0,2200.0
+bronx,Tremont,2065 Ryer Avenue,2.0,1.0,719.0,2217.0
+bronx,Tremont,2065 Ryer Avenue,1.0,1.0,420.0,1945.0
+bronx,Riverdale,3333 Henry Hudson Parkway,1.0,1.0,648.0,2500.0
+bronx,Tremont,2065 Ryer Avenue,0.5,1.0,274.0,1900.0
+bronx,Spuyten Duyvil,3103 Fairfield Avenue,2.0,1.5,895.0,2350.0
+bronx,Parkchester,1847 Cross Bronx Expressway,2.0,1.0,843.04,2250.0
+bronx,New_Dev,276 Grand Concourse,2.0,2.0,1190.89,3450.0
+bronx,Riverdale,3333 Henry Hudson Parkway,0.5,2.0,943.0,4900.0
+bronx,Pelham Parkway,2198 Cruger Avenue,2.0,1.0,841.4,2200.0
+bronx,Spuyten Duyvil,3240 Netherland Avenue,1.0,1.0,644.51,2200.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,580.62,3256.0
+bronx,Bronxwood,3013 Barker Avenue,2.0,1.0,846.31,2350.0
+bronx,Mt. Hope,1755 Clay Avenue,1.0,1.0,626.52,1650.0
+bronx,Riverdale,3707 Blackstone Avenue,3.0,2.0,1535.0,5000.0
+bronx,Riverdale,3660 Waldo Avenue,3.0,1.0,1080.78,3499.0
+bronx,Kingsbridge,4582 Manhattan College Parkway,1.0,1.0,700.0,2091.0
+bronx,Riverdale,5535 Netherland Avenue,3.0,1.0,1071.0,3200.0
+bronx,Crotona Park East,1326 Chisholm Street,1.0,1.0,634.7,1900.0
+bronx,Fordham,2661 Marion Avenue,0.5,1.0,532.98,1800.0
+bronx,Pelham Bay,2860 Buhre Avenue,1.0,1.0,634.7,1900.0
+bronx,New_Dev,228 East 135th Street,1.0,1.0,645.99,2245.0
+bronx,Williamsbridge,900A East 213rd Street,3.0,1.0,1039.92,2250.0
+bronx,Bronxwood,3013 Barker Avenue,2.0,1.0,854.32,2595.0
+bronx,Fordham,2585 Grand Concourse,2.0,1.0,834.04,1975.0
+bronx,New_Dev,2401 3rd Avenue,2.0,2.0,1240.19,4957.0
+bronx,Bronxwood,655 Pelham Parkway North,1.0,1.0,624.88,1600.0
+bronx,Van Nest,1921 Holland Avenue,2.0,1.0,900.0,2100.0
+bronx,Parkchester,1563 Union Port Road,1.0,1.0,653.0,1600.0
+bronx,Parkchester,1510 Archer Road,1.0,1.0,684.0,1600.0
+bronx,Riverdale,3660 Waldo Avenue,3.0,2.0,1389.38,3499.0
+bronx,Riverdale,3660 Waldo Avenue,1.0,1.0,636.34,1950.0
+bronx,Riverdale,3660 Waldo Avenue,2.0,1.0,846.31,2350.0
+bronx,Riverdale,3660 Waldo Avenue,2.0,1.0,849.58,2450.0
+bronx,Kingsbridge,3411 Corlear Avenue,3.0,1.0,1000.0,2500.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,688.61,3548.0
+bronx,New_Dev,2401 3rd Avenue,0.5,1.0,580.62,3256.0
+bronx,Baychester,2945 Wickham Avenue,4.0,3.0,1911.09,3995.0
+bronx,Bronxwood,3015 Matthews Avenue,3.0,1.0,1049.74,2550.0
+bronx,New_Dev,2401 3rd Avenue,1.0,1.0,676.51,3178.0
+bronx,Riverdale,3820 Waldo Avenue,3.0,1.0,1057.92,2800.0
+bronx,Riverdale,3824 Waldo Avenue,2.0,1.0,839.76,2150.0
+bronx,Riverdale,3824 Waldo Avenue,3.0,1.0,1057.92,2800.0
+bronx,Spuyten Duyvil,530 West 236th Street,2.0,1.0,1250.0,2800.0
+bronx,Riverdale,6015 Spencer Avenue,3.0,2.0,1800.0,3200.0
+bronx,Woodstock,959 East 156th Street,3.0,1.0,1041.56,2300.0
+bronx,Norwood,3103 Webster Avenue,2.0,1.0,832.4,1925.0
+bronx,Bedford Park,3224 Grand Concourse,1.0,1.0,626.52,1650.0
+bronx,Fordham,2725 Morris Avenue,1.0,1.0,620.8,1475.0
+bronx,Hunts Point,657 Manida Street,3.0,2.0,1368.15,2850.0
+bronx,Spuyten Duyvil,2600 Netherland Avenue,1.0,1.5,880.0,2545.0
+bronx,Spuyten Duyvil,3128 Henry Hudson Parkway East,2.0,2.0,1182.71,3200.0
+bronx,Spuyten Duyvil,511 West 235th Street,1.0,1.0,1015.0,2000.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,572.28,3001.0
+bronx,North New York,534 Jackson Avenue,2.0,1.0,844.67,2300.0
+bronx,Tremont,219 Echo Place,0.5,1.0,522.35,1475.0
+bronx,Woodlawn,4282 Katonah Avenue,2.0,1.0,834.86,2000.0
+bronx,Morrisania,1117 Forest Avenue,2.0,1.5,690.0,1800.0
+bronx,Fordham,2330 Valentine Avenue,1.0,1.0,627.34,1675.0
+bronx,Soundview,1211 Wheeler Avenue,3.0,1.0,1035.02,2100.0
+bronx,Riverdale,3824 Waldo Avenue,2.0,1.0,839.76,2150.0
+bronx,Concourse,1500 Grand Concourse,0.5,1.0,519.9,1400.0
+bronx,University Heights,2471 Grand Avenue,2.0,1.0,834.86,2000.0
+bronx,Riverdale,3210 Riverdale Avenue,1.0,1.0,794.0,2300.0
+bronx,Spuyten Duyvil,530 West 236th Street,3.0,2.0,1379.44,3195.0
+bronx,Morris Heights,2004 Davidson Avenue,2.0,1.0,839.76,2150.0
+bronx,Fordham,2592 Creston Avenue,3.0,1.0,1041.56,2300.0
+bronx,Mott Haven,2401 3rd Avenue,2.0,2.0,1233.23,4744.0
+bronx,Bedford Park,2980 Briggs Avenue,2.0,1.5,987.52,1950.0
+bronx,Spuyten Duyvil,735 Kappock Street,1.0,1.0,637.97,2000.0
+bronx,Pelham Parkway,2198 Cruger Avenue,2.0,1.0,838.95,2125.0
+bronx,Norwood,3230 Steuben Avenue,1.0,1.0,628.16,1700.0
+bronx,Crotona Park East,1409 Bryant Avenue,2.0,1.5,1007.15,2550.0
+bronx,Spuyten Duyvil,500 West 235th Street,2.0,1.0,847.94,2400.0
+bronx,Concourse,975 Sherman Avenue,3.0,1.0,1048.1,2500.0
+bronx,Concourse,975 Sherman Avenue,1.0,1.0,623.25,1550.0
+bronx,Riverdale,6555 Broadway,1.0,1.0,629.79,1750.0
+bronx,Hunts Point,657 Manida Street,3.0,2.0,1368.15,2850.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,572.28,3001.0
+bronx,Spuyten Duyvil,3615 Oxford Avenue,0.5,1.0,543.65,2126.0
+bronx,Riverdale,630 West 246th Street,1.0,1.0,644.35,2195.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,568.81,2895.0
+bronx,Kingsbridge,4578 Manhattan College Parkway,1.0,1.0,800.0,1650.0
+bronx,Pelham Parkway,2160 Bronx Park East,1.0,1.0,1000.0,1900.0
+bronx,Crotona Park East,1821 Trafalgar Place,2.0,1.0,831.55,1899.0
+bronx,Parkchester,2013 Benedict Avenue,2.0,1.0,800.0,1850.0
+bronx,Wakefield,759 East 235th Street,3.0,2.0,1356.7,2500.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1179.44,3100.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1185.99,3300.0
+bronx,Edenwald,13 Harper Court,3.0,2.0,1356.7,2500.0
+bronx,Concourse,1254 Sherman Avenue,3.0,1.0,1043.19,2350.0
+bronx,Mott Haven,2401 3rd Avenue,3.0,2.0,1475.59,6134.0
+bronx,New_Dev,224 East 135th Street,2.0,1.0,880.27,3388.0
+bronx,Concourse,1254 Sherman Avenue,0.5,1.0,526.44,1600.0
+bronx,Tremont,2080 Grand Concourse,0.5,1.0,526.44,1600.0
+bronx,Mott Haven,2401 3rd Avenue,1.0,1.0,673.4,3083.0
+bronx,Tremont,2090 Grand Concourse,1.0,1.0,626.52,1650.0
+bronx,Fordham,2765 Briggs Avenue,1.0,1.0,800.0,1375.0
+bronx,Concourse,1200 College Avenue,0.5,1.0,517.44,1325.0
+bronx,North New York,420 East 148th Street,2.0,1.0,914.0,1995.0
+bronx,Bedford Park,3175 Grand Concourse,0.5,1.0,402.0,1295.0
+bronx,University Heights,2265 University Avenue,2.0,1.0,843.04,2250.0
+bronx,University Heights,2265 University Avenue,1.0,1.0,631.4,1799.0
+bronx,Concourse,1520 Sheridan Avenue,2.0,1.0,834.69,1995.0
+bronx,Bronxwood,655 Pelham Parkway North,1.0,1.0,626.52,1650.0
+bronx,Hunts Point,657 Manida Street,1.0,1.0,636.5,1955.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,572.28,3001.0
+bronx,Concourse,1555 Grand Concourse,1.0,1.0,626.52,1650.0
+bronx,Kingsbridge,3025 Godwin Terrace,1.0,1.0,624.88,1600.0
+bronx,Mott Haven,2401 3rd Avenue,1.0,1.0,685.51,3453.0
+bronx,Riverdale,6629 Broadway,1.0,1.0,631.43,1800.0
+bronx,Riverdale,452 West 261st Street,3.0,2.0,1373.06,3000.0
+bronx,Kingsbridge,3616 Corlear Avenue,2.0,1.0,900.0,2400.0
+bronx,Schuylerville,1534 Hollywood Avenue,3.0,1.0,1300.0,2695.0
+bronx,Concourse,1348 Sheridan Avenue,1.0,1.0,624.07,1575.0
+bronx,East Tremont,2004 Crotona Avenue,2.0,1.0,841.4,2200.0
+bronx,East Tremont,2004 Crotona Avenue,3.0,2.0,1358.34,2550.0
+bronx,New_Dev,25 Bruckner Boulevard,2.0,1.0,862.67,2850.0
+bronx,Melrose,726 Courtlandt Avenue,2.0,1.0,834.69,1995.0
+bronx,New_Dev,228 East 135th Street,2.0,2.0,1190.21,3429.0
+bronx,Riverdale,3210 Riverdale Avenue,1.0,1.0,794.0,2300.0
+bronx,Norwood,51 West Mosholu Parkway North,3.0,1.0,1041.79,2307.0
+bronx,Highbridge,1344 University Avenue,1.0,1.0,626.52,1650.0
+bronx,Mott Haven,2401 3rd Avenue,2.0,2.0,1228.87,4611.0
+bronx,Pelham Parkway,2198 Cruger Avenue,2.0,1.0,839.76,2150.0
+bronx,Kingsbridge Heights,147 West 230th Street,1.0,1.0,628.16,1700.0
+bronx,Bedford Park,225 East 202nd Street,1.0,1.0,650.86,2394.0
+bronx,Fordham,2721 Morris Avenue,2.0,1.0,841.4,2200.0
+bronx,Crotona Park East,1821 Trafalgar Place,3.0,2.0,1373.03,2999.0
+bronx,Riverdale,3333 Henry Hudson Parkway,1.0,1.0,885.0,2650.0
+bronx,Riverdale,3333 Henry Hudson Parkway,1.0,1.0,648.0,2195.0
+bronx,Kingsbridge Heights,3000 Bailey Avenue,1.0,1.0,628.16,1700.0
+bronx,Kingsbridge,3120 Corlear Avenue,2.0,1.0,840.58,2175.0
+bronx,New_Dev,224 East 135th Street,1.0,1.0,643.21,2160.0
+bronx,New_Dev,228 East 135th Street,2.0,1.0,853.18,2560.0
+bronx,Bedford Park,185 East 206th Street,1.0,1.0,620.8,1475.0
+bronx,Pelham Parkway,762 Brady Avenue,3.0,2.0,1339.53,1975.0
+bronx,Mott Haven,2401 3rd Avenue,1.0,1.0,673.4,3083.0
+bronx,Bronxwood,2215 Cruger Avenue,1.0,1.0,624.88,1600.0
+bronx,Spuyten Duyvil,3128 Henry Hudson Parkway East,1.0,1.0,644.35,2195.0
+bronx,Hunts Point,657 Manida Street,3.0,2.0,1368.15,2850.0
+bronx,Hunts Point,657 Manida Street,1.0,1.0,636.5,1955.0
+bronx,University Heights,2721 Heath Avenue,2.0,1.0,838.13,2100.0
+bronx,North New York,596 Beech Terrace,3.0,1.5,1222.03,3100.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1184.35,3250.0
+bronx,Mott Haven,101 Bruckner Boulevard,1.0,1.0,647.79,2300.0
+bronx,Woodstock,643 Southern Boulevard,3.0,1.0,1200.0,2000.0
+bronx,New_Dev,224 East 135th Street,1.0,1.0,643.21,2160.0
+bronx,Mt. Hope,1770 Grand Concourse,1.0,1.0,717.0,1999.0
+bronx,Spuyten Duyvil,530 West 236th Street,2.0,1.0,1250.0,2800.0
+bronx,Crotona Park East,1390 Prospect Avenue,2.0,1.0,838.13,2100.0
+bronx,Mott Haven,2401 3rd Avenue,3.0,2.0,1475.59,6134.0
+bronx,Riverdale,5900 Arlington Avenue,1.0,1.0,700.0,2100.0
+bronx,Country Club,1665 Bay Shore Avenue,2.0,1.0,800.0,2200.0
+bronx,Bronxwood,660 Thwaites Place,1.0,1.0,624.88,1600.0
+bronx,Concourse,930 Sheridan Avenue,0.5,1.0,542.0,1499.0
+bronx,Concourse,930 Sheridan Avenue,1.0,1.0,669.0,1899.0
+bronx,Bedford Park,271 East 198th Street,3.0,1.0,2000.0,2500.0
+bronx,Williamsbridge,3804 Bronx Boulevard,3.0,2.0,1356.67,2499.0
+bronx,Kingsbridge Heights,3451 Giles Avenue,1.0,1.0,626.52,1650.0
+bronx,Mt. Hope,1775 Clay Avenue,0.5,1.0,521.53,1450.0
+bronx,Hunts Point,657 Manida Street,3.0,2.0,1368.15,2850.0
+bronx,Riverdale,3210 Riverdale Avenue,1.0,1.0,794.0,2300.0
+bronx,Fordham,2835 Bainbridge Avenue,1.0,1.0,621.61,1500.0
+bronx,Spuyten Duyvil,3300 Netherland Avenue,2.0,2.0,1100.0,2650.0
+bronx,New_Dev,228 East 135th Street,0.5,1.0,534.62,1850.0
+bronx,Mott Haven,101 Bruckner Boulevard,1.0,1.0,647.79,2300.0
+bronx,Bronxwood,2713 Holland Avenue,3.0,1.0,1035.02,2100.0
+bronx,Mott Haven,101 Bruckner Boulevard,2.0,2.0,1167.99,2750.0
+bronx,Bronxwood,2713 Holland Avenue,2.0,1.0,831.59,1900.0
+bronx,Fordham,355 East 187th Street,1.0,1.0,623.25,1550.0
+bronx,Kingsbridge Heights,3971 Gouverneur Avenue,2.0,1.0,847.78,2395.0
+bronx,Mott Haven,225 East 138th Street,1.0,1.0,660.71,2695.0
+bronx,Riverdale,3333 Henry Hudson Parkway,1.0,1.0,1102.0,2975.0
+bronx,West Farms,926 Bronx Park South,0.5,1.0,521.53,1450.0
+bronx,New_Dev,224 East 135th Street,2.0,1.0,851.22,2500.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,570.05,2933.0
+bronx,Crotona Park East,1821 Trafalgar Place,2.0,2.0,1140.15,1899.0
+bronx,New_Dev,329 East 132nd Street,0.5,1.0,528.08,1650.0
+bronx,New_Dev,228 East 135th Street,1.0,1.0,646.35,2256.0
+bronx,New_Dev,329 East 132nd Street,2.0,2.0,1176.17,3000.0
+bronx,New_Dev,329 East 132nd Street,1.0,1.0,646.15,2250.0
+bronx,New_Dev,329 East 132nd Street,1.0,1.0,649.42,2350.0
+bronx,Melrose,811 Elton Avenue,2.0,1.0,841.24,2195.0
+bronx,Riverdale,3707 Blackstone Avenue,1.0,1.0,730.0,3300.0
+bronx,Fordham,2301 Creston Avenue,1.0,1.0,622.43,1525.0
+bronx,Tremont,2095 Grand Concourse,1.0,1.0,626.52,1650.0
+bronx,City Island,152B Tier Street,3.0,1.5,1218.76,3000.0
+bronx,New_Dev,224 East 135th Street,2.0,1.0,880.27,3388.0
+bronx,Riverdale,3210 Riverdale Avenue,1.0,1.0,794.0,2300.0
+bronx,Hunts Point,657 Manida Street,3.0,2.0,1368.15,2850.0
+bronx,University Heights,2265 University Avenue,2.0,1.0,841.4,2200.0
+bronx,Fordham,2308 Morris Avenue,3.0,1.0,1059.55,2850.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,572.28,3001.0
+bronx,East Tremont,822 East 178th Street,3.0,2.0,1350.16,2300.0
+bronx,Spuyten Duyvil,511 West 235th Street,1.0,1.0,1015.0,1950.0
+bronx,Mott Haven,112 Lincoln Avenue,2.0,1.0,874.12,3200.0
+bronx,Pelham Parkway,2190 Boston Post Road,2.0,2.0,1159.81,2500.0
+bronx,University Heights,2265 University Avenue,3.0,2.0,1359.97,2600.0
+bronx,Fordham,2718 Morris Avenue,1.0,1.0,621.45,1495.0
+bronx,Kingsbridge Heights,3880 Orloff Avenue,1.0,1.0,680.34,3295.0
+bronx,Fordham,20 East 190th Street,1.0,1.0,619.16,1425.0
+bronx,Riverdale,4901 Henry Hudson Parkway West,2.0,1.5,1021.87,3000.0
+bronx,Mott Haven,2401 3rd Avenue,3.0,2.0,1475.59,6134.0
+bronx,Mt. Hope,1770 Grand Concourse,1.0,1.0,740.0,1999.0
+bronx,Woodlawn,4345 Webster Avenue,1.0,1.0,624.72,1595.0
+bronx,Woodlawn,4345 Webster Avenue,0.5,1.0,517.77,1335.0
+bronx,New_Dev,228 East 135th Street,1.0,1.0,646.35,2256.0
+bronx,Kingsbridge Heights,2888 Heath Avenue,2.0,1.0,950.0,2095.0
+bronx,Belmont,576 East 187th Street,0.5,1.0,520.72,1425.0
+bronx,Melrose,418 East 153rd Street,2.0,1.0,847.94,2400.0
+bronx,North New York,109 Bruckner Boulevard,2.0,1.0,854.49,2600.0
+bronx,Concourse,1575 Grand Concourse,2.0,1.0,832.4,1925.0
+bronx,University Heights,2265 University Avenue,3.0,2.0,1359.97,2600.0
+bronx,Riverdale,6214 Riverdale Avenue,1.0,400.0,123752.31,1500.0
+bronx,New_Dev,25 Bruckner Boulevard,2.0,1.0,882.29,3450.0
+bronx,New_Dev,25 Bruckner Boulevard,2.0,2.0,1194.16,3550.0
+bronx,Spuyten Duyvil,530 West 236th Street,3.0,2.0,1379.44,3195.0
+bronx,Hunts Point,657 Manida Street,1.0,1.0,636.5,1955.0
+bronx,New_Dev,25 Bruckner Boulevard,1.0,1.0,654.33,2500.0
+bronx,New_Dev,25 Bruckner Boulevard,2.0,2.0,1194.16,3550.0
+bronx,New_Dev,228 East 135th Street,0.5,1.0,534.62,1850.0
+bronx,Mott Haven,112 Lincoln Avenue,2.0,1.0,847.94,2400.0
+bronx,Soundview,1770 East 172nd Street,1.0,1.0,626.52,1650.0
+bronx,Fordham,2692 Creston Avenue,1.0,1.0,641.08,2095.0
+bronx,Co-op City,2211 De Reimer Avenue,3.0,1.0,1056.28,2750.0
+bronx,Spuyten Duyvil,2475 Palisade Avenue,2.0,1.0,857.76,2700.0
+bronx,Fordham,2630 Marion Avenue,2.0,1.0,844.51,2295.0
+bronx,Morris Park,1063 Rhinelander Avenue,3.0,2.0,1373.06,3000.0
+bronx,Highbridge,979 Summit Avenue,1.0,1.0,415.0,2000.0
+bronx,Tremont,2180 Ryer Avenue,2.0,1.0,833.22,1950.0
+bronx,New_Dev,228 East 135th Street,1.0,1.0,646.35,2256.0
+bronx,New_Dev,224 East 135th Street,1.0,1.0,643.21,2160.0
+bronx,Spuyten Duyvil,2601 Henry Hudson Parkway West,1.0,1.0,644.35,2195.0
+bronx,Concourse,975 Sherman Avenue,3.0,1.0,1048.07,2499.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,568.81,2895.0
+bronx,Parkchester,1604 Metropolitan Avenue,2.0,1.0,858.0,1950.0
+bronx,Parkchester,1575 Odell Street,2.0,1.0,834.0,1950.0
+bronx,Parkchester,24 Metropolitan Oval,1.0,1.0,636.0,1600.0
+bronx,Parkchester,2059 Mc Graw Avenue,1.0,1.0,645.0,1600.0
+bronx,City Island,456 City Island Avenue,1.0,1.0,613.76,1260.0
+bronx,Crotona Park East,1323 Chisholm Street UNIT-2C,2.0,1.0,852.85,2550.0
+bronx,Pelham Parkway,2198 Cruger Avenue,0.5,1.0,526.44,1600.0
+bronx,Spuyten Duyvil,2727 Henry Hudson Parkway West,2.0,2.0,1000.0,3528.0
+bronx,University Heights,2290 Andrews Avenue North,3.0,1.0,1041.56,2300.0
+bronx,Concourse,1075 Grant Avenue,2.0,1.0,846.31,2350.0
+bronx,Spuyten Duyvil,530 West 236th Street,3.0,2.0,1379.44,3195.0
+bronx,Mt. Hope,105 East 177th Street,2.0,1.0,838.95,2125.0
+bronx,Highbridge,155 West 162nd Street,3.0,1.0,1041.56,2300.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,568.81,2895.0
+bronx,Riverdale,3820 Waldo Avenue,2.0,1.0,838.13,2100.0
+bronx,Throgs Neck,3255 Randall Avenue,2.0,1.0,844.67,2300.0
+bronx,Kingsbridge,288 West 238th Street,1.0,1.0,633.88,1875.0
+bronx,Fordham,2700 Grandconcourse,1.0,1.0,631.26,1795.0
+bronx,Spuyten Duyvil,530 West 236th Street,3.0,2.0,1379.44,3195.0
+bronx,Mt. Hope,255 East 176th Street,1.0,1.0,626.52,1650.0
+bronx,Kingsbridge Heights,2854 Kingsbridge Terrace,3.0,1.0,1100.0,2500.0
+bronx,Spuyten Duyvil,3251 Cambridge Avenue,2.0,1.0,1100.0,2500.0
+bronx,Pelham Gardens,2571 Kingsland Avenue,3.0,1.0,1059.23,2840.0
+bronx,Concourse,1075 Grant Avenue,2.0,1.0,846.31,2350.0
+bronx,Hunts Point,657 Manida Street,1.0,1.0,636.5,1955.0
+bronx,Spuyten Duyvil,2500 Johnson Avenue,4.0,4.0,3000.0,9000.0
+bronx,Concourse,85 Mcclellan Street,2.0,1.5,1005.51,2500.0
+bronx,New_Dev,228 East 135th Street,1.0,1.0,646.35,2256.0
+bronx,North New York,538 East 142nd Street,1.0,1.0,637.94,1999.0
+bronx,Spuyten Duyvil,3660 Oxford Avenue,1.0,1.0,1000.0,2330.0
+bronx,Riverdale,4475 Henry Hudson Parkway West,0.5,1.5,845.0,1771.0
+bronx,Concourse,1521 Sheridan Avenue,1.0,1.0,628.16,1700.0
+bronx,East Tremont,2004 Crotona Avenue,4.0,2.0,1561.77,2750.0
+bronx,University Heights,2419 Davidson Avenue,1.0,1.0,624.72,1595.0
+bronx,University Heights,2170 University Avenue,0.5,1.0,518.26,1350.0
+bronx,Williamsbridge,3535 Barnes Avenue,4.0,1.5,1402.56,2600.0
+bronx,Concourse,85 Mcclellan Street,1.0,1.0,637.97,2000.0
+bronx,Hunts Point,657 Manida Street,1.0,1.0,636.5,1955.0
+bronx,New_Dev,224 East 135th Street,2.0,1.0,851.22,2500.0
+bronx,Eastchester,3300 Palmer Avenue,2.0,1.0,831.59,1900.0
+bronx,Throgs Neck,916 Wilcox Avenue,3.0,2.0,1373.06,3000.0
+bronx,Mott Haven,2401 3rd Avenue,3.0,2.0,1475.59,6134.0
+bronx,Soundview,880 Colgate Avenue,1.0,1.0,631.13,1791.0
+bronx,Soundview,825 Boynton Avenue,3.0,1.5,1198.97,2395.0
+bronx,Fordham,2763 Morris Avenue,1.0,1.0,641.24,2100.0
+bronx,Pelham Gardens,1560 East Gun Hill Road,3.0,2.0,1373.06,3000.0
+bronx,Mott Haven,2401 3rd Avenue,1.0,1.0,673.4,3083.0
+bronx,New_Dev,228 East 135th Street,0.5,1.0,534.62,1850.0
+bronx,New_Dev,228 East 135th Street,1.0,1.0,646.35,2256.0
+bronx,New_Dev,228 East 135th Street,2.0,1.0,853.18,2560.0
+bronx,New_Dev,228 East 135th Street,2.0,2.0,1190.21,3429.0
+bronx,Hunts Point,657 Manida Street,3.0,2.0,1368.15,2850.0
+bronx,Mott Haven,2401 3rd Avenue,1.0,1.0,673.4,3083.0
+bronx,Mott Haven,2401 3rd Avenue,2.0,2.0,1228.87,4611.0
+bronx,Williamsbridge,751 Tilden Street,1.0,1.0,621.61,1500.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,568.81,2895.0
+bronx,University Heights,1 West 182nd Street,1.0,1.0,626.52,1650.0
+bronx,Mott Haven,2490 Third Avenue,1.0,1.0,654.33,2500.0
+bronx,Melrose,837 Washington Avenue,2.0,1.5,900.0,2300.0
+bronx,Riverdale,3333 Henry Hudson Parkway,1.0,1.0,660.71,2695.0
+bronx,Riverdale,3824 Waldo Avenue,1.0,1.0,629.79,1750.0
+bronx,Concourse,215 East 164th Street,3.0,1.0,1045.65,2425.0
+bronx,Riverdale,3707 Blackstone Avenue,3.0,2.0,1535.0,5300.0
+bronx,University Heights,30 West 181st Street,1.0,1.0,626.52,1650.0
+bronx,Concourse,930 Grand Concourse,3.0,2.0,1565.0,3050.0
+bronx,Spuyten Duyvil,2600 Netherland Avenue,1.0,1.5,880.0,2545.0
+bronx,Mt. Hope,1770 Grand Concourse,1.0,1.0,750.0,2299.0
+bronx,Concourse,1180 Sherman Avenue,2.0,1.0,843.04,2250.0
+bronx,Tremont,2120 Tiebout Avenue,2.0,1.0,844.67,2300.0
+bronx,Mott Haven,2401 3rd Avenue,3.0,2.0,1432.11,4805.0
+bronx,Highbridge,1075 Nelson Avenue,1.0,1.0,637.97,2000.0
+bronx,Bedford Park,3128 Villa Avenue,2.0,1.0,820.14,1550.0
+bronx,North New York,582 East 138th Street,1.0,1.0,649.42,2350.0
+bronx,Norwood,55 West Mosholu Parkway North,3.0,1.0,1041.56,2300.0
+bronx,New_Dev,333 Cypress Avenue,2.0,1.0,844.67,2300.0
+bronx,New_Dev,333 Cypress Avenue,0.5,1.0,532.17,1775.0
+bronx,North New York,532 East 142nd Street,2.0,1.0,844.67,2300.0
+bronx,Spuyten Duyvil,2600 Netherland Avenue,1.0,1.0,870.0,2399.0
+bronx,Spuyten Duyvil,2600 Netherland Avenue,2.0,2.0,1130.0,3450.0
+bronx,Riverdale,3210 Riverdale Avenue,1.0,1.0,794.0,2300.0
+bronx,Hunts Point,657 Manida Street,1.0,1.0,636.5,1955.0
+bronx,Spuyten Duyvil,2600 Netherland Avenue,1.0,1.0,855.0,2350.0
+bronx,North New York,133 Brown Place,0.5,1.0,529.71,1700.0
+bronx,New_Dev,228 East 135th Street,2.0,2.0,1190.21,3429.0
+bronx,Spuyten Duyvil,531 West 235th Street,2.0,2.0,775.0,2750.0
+bronx,Mott Haven,2401 3rd Avenue,3.0,2.0,1432.11,4805.0
+bronx,Mott Haven,2401 3rd Avenue,3.0,2.0,1475.59,6134.0
+bronx,Mott Haven,2401 3rd Avenue,2.0,2.0,1233.23,4744.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,582.09,3301.0
+bronx,Mott Haven,2401 3rd Avenue,1.0,1.0,685.51,3453.0
+bronx,Mott Haven,2401 3rd Avenue,2.0,2.0,1229.07,4617.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,568.81,2895.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,570.05,2933.0
+bronx,Hunts Point,657 Manida Street,3.0,2.0,1368.15,2850.0
+bronx,New_Dev,224 East 135th Street,2.0,1.0,880.27,3388.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,572.28,3001.0
+bronx,Soundview,1495 Westchester Avenue,3.0,1.0,1200.0,2300.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,572.28,3001.0
+bronx,Riverdale,5711 Huxley Avenue,2.0,1.0,900.0,2100.0
+bronx,Kingsbridge,3102 Kingsbridge Avenue,1.0,1.0,627.34,1675.0
+bronx,Riverdale,6034 Huxley Avenue,3.0,1.5,2200.0,3990.0
+bronx,Riverdale,4555 Henry Hudson Pkwy W,3.0,2.0,1350.0,3800.0
+bronx,Tremont,1997 Morris Avenue,4.0,1.0,1254.8,2800.0
+bronx,Parkchester,1537 Rosedale Avenue,0.5,1.0,536.26,1900.0
+bronx,North New York,460 Concord Avenue,3.0,1.0,1041.56,2300.0
+bronx,Longwood,1047 Hoe Avenue,0.5,1.0,528.08,1650.0
+bronx,Concourse,180 East 162nd Street,0.5,1.0,521.53,1450.0
+bronx,Mt. Hope,1770 Grand Concourse,1.0,1.0,775.0,2199.0
+bronx,Mott Haven,2401 3rd Avenue,2.0,2.0,1233.23,4744.0
+bronx,Morris Park,1130 Pelham Parkway South,1.0,1.0,792.0,2099.0
+bronx,Morris Park,1130 Pelham Parkway South,2.0,2.0,1125.0,2650.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,572.28,3001.0
+bronx,Pelham Parkway,2198 Cruger Avenue,3.0,1.0,1049.74,2550.0
+bronx,Belmont,2349 Arthur Avenue,4.0,1.0,1254.64,2795.0
+bronx,Riverdale,6214 Riverdale Avenue,1.0,1.0,650.0,1650.0
+bronx,Belmont,450 East 184th Street,1.0,1.0,650.0,1500.0
+bronx,Throgs Neck,3255 Randall Avenue,2.0,1.0,844.67,2300.0
+bronx,North New York,598 Beech Terrace,3.0,1.5,1218.76,3000.0
+bronx,Riverdale,630 West 246th Street,2.0,2.0,1189.09,3395.0
+bronx,Concourse,853 Walton Avenue,2.0,1.0,846.31,2350.0
+bronx,Woodstock,790 East 152nd Street,1.0,1.0,618.34,1400.0
+bronx,Mott Haven,2401 3rd Avenue,3.0,2.0,1475.59,6134.0
+bronx,Spuyten Duyvil,530 West 236th Street,3.0,2.0,1379.44,3195.0
+bronx,Bronxwood,2385 Barker Avenue,2.0,2.0,1110.0,2400.0
+bronx,Kingsbridge,3120 Kingsbridge Avenue,2.0,1.0,950.0,2050.0
+bronx,Mott Haven,2401 3rd Avenue,0.5,1.0,568.81,2895.0
+bronx,Concourse,1020 Grand Concourse,3.0,2.0,1366.51,2800.0
+bronx,Riverdale,3707 Blackstone Avenue,3.0,2.0,1735.0,6600.0
+bronx,Spuyten Duyvil,3614 Johnson Avenue,1.0,1.0,634.7,1900.0
+bronx,Spuyten Duyvil,2500 Johnson Avenue,2.0,2.0,1257.0,3299.0
+bronx,Riverdale,3210 Riverdale Avenue,1.0,1.0,794.0,2300.0
+bronx,Spuyten Duyvil,638 West 227th Street,2.0,1.5,1100.0,2500.0
+bronx,Highbridge,1395 Nelson Avenue,0.5,1.0,527.26,1625.0
+bronx,North New York,510 Jackson Avenue,3.0,1.0,1036.65,2150.0
+bronx,Tremont,1970 Walton Avenue,1.0,1.0,623.25,1550.0

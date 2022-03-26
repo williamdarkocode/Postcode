@@ -1,0 +1,1449 @@
+,Borough,Area,Address,Num_Beds,Num_Baths,Sq-Ft,Rent
+0,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+1,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+2,queens,Elmhurst,41-40 Denman Street,1,1,0,2050.0
+3,queens,South Jamaica,145-33 130th Avenue,3,2,1000,2700.0
+4,queens,Belle Harbor,264 Beach 137th Street,2,2,850,2200.0
+5,queens,Elmhurst,90-02 Queens Boulevard,1,1,0,2300.0
+6,queens,Elmhurst,84-49 Elmhurst Avenue,0.5,1,440,1650.0
+7,queens,Ridgewood,389 Onderdonk Avenue,2,1,0,2499.0
+8,queens,Astoria,28-42 38th Street,1,1,800,2095.0
+9,queens,Jackson Heights,35-63 79th Street,2,1,0,2500.0
+10,queens,Ditmars-Steinway,21-34 33rd Street,2,1,0,3500.0
+11,queens,Jackson Heights,37-46 72nd Street,0.5,1,0,2150.0
+12,queens,Rego Park,63-109 Saunders Street,1,1,0,1900.0
+13,queens,Hunters Point,4-75 48th Avenue,1,1,684,3310.0
+14,queens,New_Dev,43-22 Queens Street,0.5,1,0,3090.0
+15,queens,Sunnyside,41-00 43rd Avenue,1,1,850,2050.0
+16,queens,Long Island City,29-28 41st Avenue,0.5,1,0,1995.0
+17,queens,Rego Park,64-62 Booth Street,2,2,0,2595.0
+18,queens,Ditmars-Steinway,23-58 37th Street,3,1.5,0,2650.0
+19,queens,Astoria,32-58 31st Street,2,1,975,2499.0
+20,queens,Ditmars-Steinway,21-14 21st Avenue,1,1,600,1600.0
+21,queens,Astoria,32-07 Broadway,3,2,1200,3600.0
+22,queens,New_Dev,44-41 Purves Street,2,2,1000,4799.0
+23,queens,Sunnyside,41-32 44th Street,1,1,650,2300.0
+24,queens,Astoria,28-25 33rd Street,1,1,700,1900.0
+25,queens,Long Island City,29-11 Queens Plaza North,1,1,0,3400.0
+26,queens,Forest Hills,102-10 Queens Boulevard,1,1,850,2375.0
+27,queens,Forest Hills,102-10 Queens Boulevard,0.5,1,541,1850.0
+28,queens,Oakland Gardens,61-35 224th Street,2,1,0,2000.0
+29,queens,Astoria,30-34 32nd Street,2,1,678,2200.0
+30,queens,Astoria,31-05 Newtown Avenue,1,1,750,1800.0
+31,queens,Astoria,32-26 33rd Street,3,2.5,1000,2845.0
+32,queens,Ditmars-Steinway,24-17 28th Street,2,1,1000,3349.0
+33,queens,Kew Gardens,83-57 118th Street,1,1,800,1700.0
+34,queens,Astoria,25-12 27th Street,2,1,0,2685.0
+35,queens,Kew Gardens,118-18 Metropolitan Avenue,1,1,850,1825.0
+36,queens,Astoria,29-12 Newtown Avenue,1,1,0,1700.0
+37,queens,Ditmars-Steinway,22-30 49th Street,2,1,1000,2795.0
+38,queens,Jackson Heights,37-46 72nd Street,2,2,0,3650.0
+39,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+40,queens,Elmhurst,83-02 Cornish Avenue,1,1,0,1775.0
+41,queens,Ditmars-Steinway,20-38 33rd Street,1,1,0,1900.0
+42,queens,Murray Hill (Queens),144-20 41st Avenue,2,1,850,2445.0
+43,queens,Forest Hills,110-48 72nd Avenue,0.5,1,600,1675.0
+44,queens,Astoria,32-30 45th Street,1,1,800,1900.0
+45,queens,Rego Park,90-02 63 Drive,0.5,1,0,1600.0
+46,queens,Ditmars-Steinway,38-10 23rd Avenue,2,1,850,2200.0
+47,queens,Briarwood,139-60 85 Drive,0.5,1,500,1450.0
+48,queens,Forest Hills,112-15 72 Road,1,1,800,1950.0
+49,queens,Ditmars-Steinway,22-47 28th Street,2,1,0,2500.0
+50,queens,Astoria,40-11 25th Avenue,2,1,0,2200.0
+51,queens,Hunters Point,2-17 51st Avenue,0.5,1,758,3200.0
+52,queens,New_Dev,31-43 Vernon Boulevard,1,1,720,2850.0
+53,queens,Hunters Point,22-44 Jackson Avenue,2,1,0,5150.0
+54,queens,Forest Hills,108-21 63rd Avenue,2,2,0,2350.0
+55,queens,Elmhurst,90-02 Queens Boulevard,2,1,0,2800.0
+56,queens,Bayside,209-51 45 Drive,3,2,1100,3200.0
+57,queens,Fresh Meadows,69-10 198th Street,2,1,0,2000.0
+58,queens,New_Dev,44-28 Purves Street,2,2,0,6033.0
+59,queens,Astoria,25-73 Steinway Street,2,2,1200,3475.0
+60,queens,Long Island City,29-22 Northern Boulevard,2,2,1168,5195.0
+61,queens,Jackson Heights,71-11 37th Avenue,0.5,1,450,1200.0
+62,queens,Astoria,34-22 42nd Street,1,1,0,1730.0
+63,queens,Astoria,32-82 34th Street,2,1,0,2200.0
+64,queens,Astoria,31-18 28th Avenue,2,1,0,1950.0
+65,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+66,queens,Rego Park,97-45 Queens Boulevard,1,1,897,2550.0
+67,queens,Elmhurst,90-02 Queens Boulevard,3,1,1200,2850.0
+68,queens,Astoria,31-18 28th Avenue,2,1,0,1950.0
+69,queens,East Flushing,40-08 195th Street,2,1,0,2000.0
+70,queens,Ditmars-Steinway,21-16 21st Avenue,1,1,0,1650.0
+71,queens,Jackson Heights,37-41 79th Street,0.5,1,0,1695.0
+72,queens,Forest Hills,71-58 Austin Street,1,1,0,1795.0
+73,queens,Astoria,30-50 21st Street,1,1,670,2850.0
+74,queens,South Jamaica,116-31 170th Street,1,1,725,1550.0
+75,queens,Forest Hills,111-50 76 Road,2,1,1000,2745.0
+76,queens,Astoria,30-50 21st Street,1,1,670,2950.0
+77,queens,Sunnyside,43-08 40th Street,1,1,0,1925.0
+78,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+79,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+80,queens,Sunnyside,43-09 47th Avenue,0.5,1,0,1775.0
+81,queens,Ditmars-Steinway,23-03 28th Street,1,1,850,1950.0
+82,queens,Sunnyside,43-09 47th Avenue,1,1,0,1925.0
+83,queens,Astoria,31-42 48th Street,3,1.5,0,2600.0
+84,queens,Sunnyside,47-06 45th Street,1,1,0,1850.0
+85,queens,Kew Gardens,45 Kew Gardens Road,1,1,825,1850.0
+86,queens,Astoria,35-25 34th Street,1,1,0,1950.0
+87,queens,Forest Hills,95-16 69th Avenue,3,2.5,1600,4000.0
+88,queens,Ditmars-Steinway,28-08 23rd Avenue,2,1,815,2195.0
+89,queens,Kew Gardens,82-85 116th Street,2,1,0,2650.0
+90,queens,Oakland Gardens,68-45 Cloverdale Boulevard,2,1,800,2295.0
+91,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+92,queens,Ditmars-Steinway,24-55 Crescent Street,2,1,0,2800.0
+93,queens,Oakland Gardens,211-02 73rd Avenue,1,1,785,1775.0
+94,queens,Woodside,43-30 54th Street,2,1,0,2200.0
+95,queens,Astoria,30-14 Steinway Street,3,1,0,2800.0
+96,queens,Woodside,34-26 62nd Street,2,1,0,2099.0
+97,queens,Astoria,31-49 29th Street,1,1,0,2255.0
+98,queens,Astoria,30-14 33rd Street,3,1,1100,3050.0
+99,queens,Astoria,36-01 30th Avenue,2,1,800,2350.0
+100,queens,Forest Hills,77-44 Austin Street,2,1,900,2400.0
+101,queens,Rego Park,64-45 Booth Street,2,2,1000,2550.0
+102,queens,Kew Gardens,83-30 118th Street,1,1,0,1995.0
+103,queens,New_Dev,36-37 31st Street,2,2,1000,4400.0
+104,queens,Corona,96-08 57th Avenue,1,1,718,2082.0
+105,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+106,queens,Astoria,33-14 31st Avenue,2,1,0,1999.0
+107,queens,Ditmars-Steinway,20-05 Steinway Street,1,1,0,1475.0
+108,queens,Ridgewood,1709 Madison Street,3,2,0,2900.0
+109,queens,Kew Gardens,83-30 118th Street,1,1,750,1995.0
+110,queens,Kew Gardens,83-57 118th Street,1,1,750,1700.0
+111,queens,Sunnyside,50-05 43rd Avenue,2,1,850,2000.0
+112,queens,Briarwood,141-30 85 Road,0.5,1,500,1450.0
+113,queens,Briarwood,139-60 85 Drive,2,1,950,1995.0
+114,queens,Briarwood,82-35 134th Street,1,1,725,1765.0
+115,queens,Astoria,30-89 38th Street,0.5,1,400,1745.0
+116,queens,Briarwood,141-30 85 Road,1,1,750,1725.0
+117,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+118,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+119,queens,Little Neck,243-03 72nd Avenue,2,1.5,0,2500.0
+120,queens,Hunters Point,4-74 48th Avenue,0.5,1,505,2750.0
+121,queens,Rego Park,98-09 64 Road,1,1,0,2100.0
+122,queens,Sunnyside,45-32 44th Street,1,1,800,2200.0
+123,queens,Forest Hills,109-20 Queens Boulevard,1,1,661,2100.0
+124,queens,New_Dev,44-41 Purves Street,0.5,1,0,3050.0
+125,queens,Flushing,45-10 164th Street,3,1,1000,2450.0
+126,queens,Astoria,38-14 Astoria Boulevard South,2,1,0,2100.0
+127,queens,New_Dev,16-26 Madison Street,1,1,0,2500.0
+128,queens,Astoria,25-74 48th Street,1,1,0,1700.0
+129,queens,Ridgewood,3-61 Saint Nichlas Avenue,3,1.5,0,3200.0
+130,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+131,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+132,queens,Astoria,31-38 36th Street,2,1,0,2050.0
+133,queens,Astoria,28-15 42nd Street,1,1,0,1800.0
+134,queens,Ditmars-Steinway,29-11 21st Avenue,1,1,700,2250.0
+135,queens,Ditmars-Steinway,19-05 22 Road,2,1,800,2200.0
+136,queens,Astoria,32-54 47th Street,2,1,900,2000.0
+137,queens,Astoria,32-53 41st Street,3,1,0,2650.0
+138,queens,Forest Hills,76-13 113rd Street,1,1,700,1750.0
+139,queens,Murray Hill (Queens),149-43 35th Avenue,2,2,0,2400.0
+140,queens,Astoria,33-26 28th Street,3,1,0,2995.0
+141,queens,Astoria,34-51 9th Street,2,1,0,2500.0
+142,queens,Jackson Heights,32-36 71st Street,1,1,750,1499.0
+143,queens,Hunters Point,4-75 48th Avenue,0.5,1,550,3145.0
+144,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+145,queens,Jamaica Hills,160-11 84th Avenue,2,1,0,1800.0
+146,queens,Hunters Point,47-05 Center Boulevard,1,1,771,3950.0
+147,queens,Long Island City,41-42 24th Street,1,1,0,3009.0
+148,queens,Astoria,32-46 35th Street,2,1,0,2500.0
+149,queens,Ditmars-Steinway,21-46 74th Street,3,2,0,2999.0
+150,queens,Long Island City,41-42 24th Street,1,1,0,3091.0
+151,queens,Kew Gardens,85-32 131st Street,1,1,0,1600.0
+152,queens,Ditmars-Steinway,21-81 Steinway Street,1,1,800,2499.0
+153,queens,Astoria,34-07 41st Street,0.5,1,0,1775.0
+154,queens,Ridgewood,719 Seneca Avenue,4,3,0,4200.0
+155,queens,Ditmars-Steinway,22-28 Crescent Street,1,1,0,2199.0
+156,queens,Elmhurst,83-02 Cornish Avenue,1,1,0,1775.0
+157,queens,Forest Hills,95-17 68th Avenue,3,2,1500,3850.0
+158,queens,Ridgewood,66-12 60 Lane,2,1,1000,2200.0
+159,queens,Ditmars-Steinway,23-37 37th Street,3,1,0,3100.0
+160,queens,Oakland Gardens,225-16 69th Avenue,1,1,725,1850.0
+161,queens,Arverne,325 Beach 65th Street,2,2,0,2100.0
+162,queens,Ridgewood,1733 Starr Street,3,2.5,2000,4500.0
+163,queens,Richmond Hill,85-55 115th Street,1,1,650,1450.0
+164,queens,Hunters Point,42-22 27th Street,1,1,0,4225.0
+165,queens,New_Dev,44-41 Purves Street,2,2,1000,4799.0
+166,queens,New_Dev,44-41 Purves Street,2,2,1000,5360.0
+167,queens,Ridgewood,68-07 Forest Avenue,4,1.5,0,3200.0
+168,queens,Flushing,142-11 41st Avenue,0.5,1,550,1425.0
+169,queens,Astoria,11-08 31 Drive,1,1,720,2819.0
+170,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+171,queens,Briarwood,139-08 85 Drive,1,1,0,1725.0
+172,queens,Ridgewood,18-79 Linden Street,3,1.5,0,3000.0
+173,queens,Sunnyside,43-35 44th Street,1,1,0,2200.0
+174,queens,Briarwood,139-60 85 Drive,2,1,0,1995.0
+175,queens,Ditmars-Steinway,19-67 80th Street,1,1,0,1750.0
+176,queens,Ridgewood,1915 Palmetto Street,5,2,0,3750.0
+177,queens,Murray Hill (Queens),149-43 35th Avenue,1,1,808,1750.0
+178,queens,Flushing,143-23 Barclay Avenue,0.5,1,550,1445.0
+179,queens,Astoria,30-17 45th Street,1,1,0,2100.0
+180,queens,Flushing,143-16 Barclay Avenue,2,1,850,2195.0
+181,queens,Ditmars-Steinway,21-32 29th Street,1,1,700,1900.0
+182,queens,Ridgewood,2034 Himrod Street,2,1,1000,2650.0
+183,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+184,queens,Briarwood,135-23 82nd Avenue,1,1,700,1950.0
+185,queens,Kew Gardens,83-30 Kew Gardens Road,2,2,0,3200.0
+186,queens,Astoria,34-17 37th Street,2,1,900,2400.0
+187,queens,Glendale,70-36 68th Street,3,1,0,2299.0
+188,queens,Astoria,32-48 41st Street,2,1,0,2000.0
+189,queens,Astoria,30-33 32nd Street,1,1,0,1900.0
+190,queens,Astoria,25-52 38th Street,0.5,1,0,1725.0
+191,queens,Hunters Point,42-20 27th Street,2,2,0,5900.0
+192,queens,Woodside,39-21 57th Street,0.5,1,0,1450.0
+193,queens,New_Dev,44-41 Purves Street,2,2,0,4800.0
+194,queens,Jackson Heights,88-01 35th Avenue,1,1,745,1775.0
+195,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+196,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+197,queens,Hunters Point,42-20 27th Street,1,1,0,4225.0
+198,queens,Ditmars-Steinway,21-17 Shore Boulevard,2,1,0,2450.0
+199,queens,New_Dev,44-41 Purves Street,2,2,0,5375.0
+200,queens,Sunnyside,41-00 43rd Avenue,1,1,850,2070.0
+201,queens,Kew Gardens,118-18 Metropolitan Avenue,1,1,700,1650.0
+202,queens,New_Dev,44-41 Purves Street,2,2,0,4800.0
+203,queens,New_Dev,44-41 Purves Street,3,2,0,5800.0
+204,queens,Rego Park,99-52 62 Road,0.5,1,0,1550.0
+205,queens,Jackson Heights,34-19 90th Street,1,1,0,1750.0
+206,queens,Forest Hills,111-45 76 Drive,2,1,1100,2250.0
+207,queens,Rego Park,65-50 Wetherole Street,2,1,0,2250.0
+208,queens,Ditmars-Steinway,20-47 42nd Street,1,1,0,1900.0
+209,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+210,queens,Ditmars-Steinway,21-36 Steinway Street,1,1,500,1575.0
+211,queens,Astoria,33-26 28th Street 3-FLOOR,3,1,1100,2799.0
+212,queens,Ditmars-Steinway,24-25 28th Street,3,1,900,2650.0
+213,queens,Astoria,25-69 33rd Street,1,1,0,1700.0
+214,queens,Hunters Point,46-09 11th Street,1,1,0,3002.0
+215,queens,Hunters Point,27-21 44 Drive,2,1,799,4200.0
+216,queens,New_Dev,44-41 Purves Street,2,2,0,4800.0
+217,queens,Rego Park,66-39 Burns Street,0.5,1,0,1250.0
+218,queens,Astoria,31-72 30th Street,2,1,0,2995.0
+219,queens,Woodside,43-16 53rd Street,1,1,0,1499.0
+220,queens,Astoria,25-54 41st Street FRONT-2,3,1,0,2999.0
+221,queens,Hunters Point,22-44 Jackson Avenue,1,1,0,3475.0
+222,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+223,queens,Woodside,37-53 62nd Street,2,1,0,1875.0
+224,queens,Woodside,61-15 43rd Avenue,1,1,700,1850.0
+225,queens,Astoria,21-10 30th Avenue,3,1,0,2750.0
+226,queens,Far Rockaway,20-25 Seagirt Boulevard,1,1,756,1865.0
+227,queens,Ditmars-Steinway,22-58 Steinway Street,0.5,1,0,1500.0
+228,queens,Astoria,12-09 30 Road,3,1,0,2300.0
+229,queens,Astoria,25-52 22nd Street,3,1,0,2600.0
+230,queens,Jamaica,88-20 Parsons Boulevard,1,1,0,1800.0
+231,queens,Forest Hills,110-35 72 Drive,3,2,0,2700.0
+232,queens,Jackson Heights,35-56 94th Street,1,1,0,2025.0
+233,queens,Astoria,12-28 31 Drive,3,2,0,3000.0
+234,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+235,queens,Ridgewood,18-63 Linden Street GARDEN-R,3,1,0,2695.0
+236,queens,Ditmars-Steinway,21-68 35th Street,2,1,0,1950.0
+237,queens,Ditmars-Steinway,24-21 27th Street,2,1,0,2350.0
+238,queens,Long Island City,40-04 36th Avenue,1,1,0,1975.0
+239,queens,Astoria,30-24 49th Street,2,1,1000,2100.0
+240,queens,Astoria,32-40 45th Street,2,1,0,2500.0
+241,queens,Astoria,26-61 30th Street 3-FLOOR,1,1,0,1900.0
+242,queens,Rego Park,6258 102nd Street,3,1,0,2400.0
+243,queens,Sunnyside,45-54 41st Street,1,1,0,2025.0
+244,queens,Astoria,35-13 30th Street,1,1,0,1850.0
+245,queens,Kew Gardens,123-33 83rd Avenue,1,1,0,2225.0
+246,queens,Jackson Heights,32-21 68th Street,3,1,950,2100.0
+247,queens,New_Dev,43-22 Queens Street,0.5,1,0,3090.0
+248,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+249,queens,Astoria,45-06 30th Avenue,4,1,1200,2900.0
+250,queens,Ditmars-Steinway,23-30 21st Street,2,1,0,2399.0
+251,queens,Astoria,31-20 28 Road,1,1,750,2000.0
+252,queens,New_Dev,65-70 Austin,1,1,0,2255.0
+253,queens,Kew Gardens,123-33 83rd Avenue,1,1,0,2300.0
+254,queens,Astoria,43-08 25th Avenue,1,1,700,1900.0
+255,queens,Astoria,25-50 22nd Street,3,1,1150,2495.0
+256,queens,Rego Park,97-07 63 Road,3,1,0,2499.0
+257,queens,Ditmars-Steinway,22-42 27th Street,2,1,750,1995.0
+258,queens,Elmhurst,40-40 79th Street,0.5,1,400,1450.0
+259,queens,Briarwood,142-35 84 Drive,2,1,1400,2395.0
+260,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+261,queens,Corona,97-28 57th Avenue,1,1,713,2115.0
+262,queens,Sunnyside,39-28 50th Street,3,1,0,2799.0
+263,queens,Jamaica Hills,162-01 Highland Avenue,0.5,1,600,1575.0
+264,queens,Astoria,26-28 29th Street,2,1,1000,2695.0
+265,queens,Kew Gardens,83-43 118th Street,1,1,800,1700.0
+266,queens,Astoria,30-68 37th Street,1,1,500,1950.0
+267,queens,Briarwood,135-10 Grand Central Pkwy,1,1,0,1700.0
+268,queens,Hunters Point,42-22 27th Street,2,2,1000,5899.0
+269,queens,Astoria,32-80 36th Street,2,1,1250,2800.0
+270,queens,New_Dev,44-41 Purves Street,2,2,1000,5360.0
+271,queens,New_Dev,44-41 Purves Street,3,2,1100,5799.0
+272,queens,Queens Village,93-23 218th Street,2,1,0,2150.0
+273,queens,Hunters Point,23-10 Queens Plaza South,1,1,0,4850.0
+274,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+275,queens,Ridgewood,1916 Harman Street,1,1.5,0,2000.0
+276,queens,Rego Park,62-98 Saunders Street,1,1,800,2100.0
+277,queens,Astoria,25-18 33rd Street,1,1,750,1880.0
+278,queens,Woodside,31-21 54th Street,1,1.5,900,1899.0
+279,queens,Ditmars-Steinway,21-13 21 Road,1,1,0,1900.0
+280,queens,Briarwood,135-10 Grand Central Pkwy,2,1,0,1950.0
+281,queens,Astoria,30-67 33rd Street,1,1,700,1850.0
+282,queens,Jamaica,147-40 Archer Avenue,3,2,0,4000.0
+283,queens,Jamaica,147-40 Archer Avenue,3,2,0,3391.0
+284,queens,Jamaica,147-40 Archer Avenue,2,2,0,3440.0
+285,queens,Jamaica,147-40 Archer Avenue,2,2,0,3055.0
+286,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+287,queens,Far Rockaway,20-25 Seagirt Boulevard,1,1,756,1865.0
+288,queens,Jamaica,147-40 Archer Avenue,2,2,0,2875.0
+289,queens,Jamaica,147-40 Archer Avenue,2,2,0,2800.0
+290,queens,Astoria,28-31 34th Street,1,1,0,1800.0
+291,queens,Jamaica,147-40 Archer Avenue,1,1,0,2550.0
+292,queens,Jamaica,147-40 Archer Avenue,1,1,0,2450.0
+293,queens,Jamaica,147-40 Archer Avenue,1,1,0,2375.0
+294,queens,Astoria,30-36 35th Street,3,2,1500,4195.0
+295,queens,Ditmars-Steinway,23-31 37th Street,1,1,0,1970.0
+296,queens,Jamaica,147-40 Archer Avenue,1,1,0,2350.0
+297,queens,Astoria,32-23 35th Street,2,1,0,2395.0
+298,queens,Jamaica,147-40 Archer Avenue,0.5,1,0,2055.0
+299,queens,Corona,96-08 57th Avenue,1,1,718,2082.0
+300,queens,Kew Gardens,123-33 83rd Avenue,1,1,0,2300.0
+301,queens,East Flushing,40-05 195th Street,1,1,0,1700.0
+302,queens,Jamaica,147-40 Archer Avenue,0.5,1,0,2080.0
+303,queens,Jamaica,147-40 Archer Avenue,0.5,1,0,1946.0
+304,queens,Astoria,31-74 44th Street,1,1,600,1650.0
+305,queens,Flushing,41-80 Frame Place,1,1,700,1750.0
+306,queens,Jamaica,147-40 Archer Avenue,0.5,1,0,1946.0
+307,queens,Rego Park,65-38 Austin Street,2,2,0,2750.0
+308,queens,Hunters Point,47-05 Center Boulevard,0.5,1,515,3100.0
+309,queens,Astoria,31-11 47th Street,2,1,800,1695.0
+310,queens,Ditmars-Steinway,22-12 42nd Street,3,1,1300,2695.0
+311,queens,Forest Hills,75-44 113rd Street,3,1.5,900,2150.0
+312,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+313,queens,Ridgewood,1636 Norman Street,3,1,0,2495.0
+314,queens,Hunters Point,47-05 Center Boulevard,1,1,718,3800.0
+315,queens,Hunters Point,47-05 Center Boulevard,1,1,738,3990.0
+316,queens,Flushing,140-18 58 Road,2,2,900,2100.0
+317,queens,Astoria,30-70 34th Street,2,1,0,2500.0
+318,queens,Bayside,38-12 213rd Street,0.5,1,550,1550.0
+319,queens,Middle Village,67-28 78th Street,2,1,1000,2500.0
+320,queens,Kew Gardens,83-30 Kew Garden Road,2,2,1100,3250.0
+321,queens,Kew Gardens,83-30 Kew Garden Road,1,1,800,2800.0
+322,queens,Kew Gardens,83-10 Lefferts Boulevard,2,1,1100,2595.0
+323,queens,Kew Gardens,83-10 Lefferts Boulevard,0.5,1,550,1600.0
+324,queens,Oakland Gardens,64-14 228th Street,5,2,1250,3250.0
+325,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+326,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+327,queens,Murray Hill (Queens),36-19 167th Street,0.5,1,0,1550.0
+328,queens,Astoria,35-14 28th Avenue,1,1,0,1750.0
+329,queens,Astoria,34-15 31st Avenue,1,1,0,1850.0
+330,queens,Flushing,131-03 40 Road,1,1,850,2700.0
+331,queens,Astoria,28-49 48th Street,3,1,1200,2400.0
+332,queens,South Ozone Park,149-21 122 Place,2,3,1400,2500.0
+333,queens,Astoria,21-23 29th Avenue,3,1,0,2500.0
+334,queens,Briarwood,135-09 83rd Avenue,1,1,0,1785.0
+335,queens,Astoria,26-53 28th Street,2,1,0,2400.0
+336,queens,Ditmars-Steinway,21-05 21 Road,2,1,0,2350.0
+337,queens,Astoria,33-09 31st Avenue,5,2,1300,4000.0
+338,queens,Ditmars-Steinway,21-43 29th Street,1,1,650,1875.0
+339,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+340,queens,Hunters Point,5-09 48th Avenue,0.5,1,507,2750.0
+341,queens,Rego Park,66-08 102nd Street,2,1,1100,2200.0
+342,queens,Ditmars-Steinway,23-25 Crescent Street,2,1,900,2300.0
+343,queens,Ridgewood,2201 Greene Avenue,2,1,0,2100.0
+344,queens,Astoria,27-22 14th Street,2,1,0,1900.0
+345,queens,Flushing,139-18 34 Road,1,1,0,1825.0
+346,queens,Woodhaven,86-02 Forest Parkway,1,1,0,1925.0
+347,queens,Glendale,73-21 71st Street,2,1,0,1950.0
+348,queens,Middle Village,75-28 67 Road SCNDFLR,2,1,0,2100.0
+349,queens,Astoria,35-63 Ninth Street,1,1,0,1495.0
+350,queens,Astoria,32-18 44th Street,2,1.5,0,2500.0
+351,queens,Ditmars-Steinway,20-47 42nd Street,1,1,0,1900.0
+352,queens,New_Dev,31-43 Vernon Boulevard,1,1,720,2850.0
+353,queens,Ridgewood,60-71 67th Avenue,2,1,0,2600.0
+354,queens,Oakland Gardens,225-16 69th Avenue,1,1,750,1895.0
+355,queens,New_Dev,3 Court Sq,1,1,723,3950.0
+356,queens,Flushing,150-03 25 Drive,2,1,0,2500.0
+357,queens,Ditmars-Steinway,21-63 45th Street,3,2,2030,4100.0
+358,queens,Springfield Gardens,144-47 166th Street,1,0,0,1200.0
+359,queens,Bayside,38-12 213rd Street,2,1,1300,2845.0
+360,queens,Ridgewood,1680 Madison Street,2,1,0,3500.0
+361,queens,Ridgewood,55-27 Myrtle Avenue,2,2,0,3750.0
+362,queens,Ridgewood,55-54 Myrtle Avenue,1,1,0,2200.0
+363,queens,Ditmars-Steinway,27-07 23rd Avenue,2,1,800,2749.0
+364,queens,Forest Hills,105-24 63rd Road MAIN-FL,3,1,0,2450.0
+365,queens,Elmhurst,83-02 Cornish Avenue,1,1,0,1775.0
+366,queens,Forest Hills,65-35 Yellowstone Boulevard,1,1,0,1600.0
+367,queens,Astoria,30-15 Broadway,4,2,0,2975.0
+368,queens,Long Island City,29-22 Northern Boulevard,2,2,1168,5575.0
+369,queens,Long Island City,29-22 Northern Boulevard,1,1,740,3615.0
+370,queens,Forest Hills,68-12 Austin Street,2,1,0,2700.0
+371,queens,New_Dev,31-43 Vernon Boulevard,1,1,720,2850.0
+372,queens,Briarwood,140-35 Burden Crescent,1,1,0,1650.0
+373,queens,Astoria,33-05 Broadway,3,1,1200,3000.0
+374,queens,Forest Hills,68-63 108th Street,1,1,800,1800.0
+375,queens,Hollis,100-32 197th Street,4,2,1100,2800.0
+376,queens,Maspeth,64-15 Perry Avenue,2,2,0,2500.0
+377,queens,Ridgewood,1823 Palmetto Street,1,1.5,0,2250.0
+378,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+379,queens,New_Dev,44-28 Purves Street,0.5,1,430,2990.0
+380,queens,Ridgewood,68-31 Fresh Pond Road,3,1,0,2350.0
+381,queens,Astoria,37-17 Broadway,2,1,0,1950.0
+382,queens,Kew Gardens,85-31 120th Street,0.5,1,525,1575.0
+383,queens,Astoria,25-50 22nd Street,3,1,1100,2500.0
+384,queens,Briarwood,139-60 85 Drive,1,1,0,1725.0
+385,queens,Woodside,52-25 Skillman Avenue,1,1,450,1695.0
+386,queens,Sunnyside,45-45 46th Street,1,1,0,1750.0
+387,queens,Rego Park,61-40 Saunders Street,1,1,0,1750.0
+388,queens,Kew Gardens,125-10 Queens Boulevard,1,1,0,2300.0
+389,queens,Sunnyside,45-29 40th Street,1,1,750,1750.0
+390,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+391,queens,Flushing,137-20 45th Avenue,2,1,929,2350.0
+392,queens,New_Dev,26-38 21st Street,2,1,0,3550.0
+393,queens,Sunnyside,45-29 40th Street,1,1,750,1780.0
+394,queens,Sunnyside,45-11 43rd Avenue,1,1,700,1925.0
+395,queens,Long Island City,40-29 23rd Street,0.5,1,0,1500.0
+396,queens,Woodside,42-25 65 Place,0.5,1,600,1590.0
+397,queens,Flushing,41-10 Bowne Street,1,1,800,1700.0
+398,queens,New_Dev,41-21 28th Street,1,1,0,3324.0
+399,queens,Astoria,25-48 33rd Street,2,1,800,2900.0
+400,queens,New_Dev,26-38 21st Street,0.5,1,0,2425.0
+401,queens,New_Dev,44-41 Purves Street,2,2,0,5365.0
+402,queens,New_Dev,44-41 Purves Street,3,2,0,5800.0
+403,queens,Corona,96-08 57th Avenue,1,1,718,2082.0
+404,queens,Corona,97-28 57th Avenue,1,1,713,2115.0
+405,queens,New_Dev,26-38 21st Street,0.5,1,0,2450.0
+406,queens,Kew Gardens,85-18 118th Street,0.5,1,0,1475.0
+407,queens,Forest Hills,105-24 63rd Road MAIN-FL,3,1,0,2450.0
+408,queens,Kew Gardens,85-18 118th Street,1,1,0,1750.0
+409,queens,Kew Gardens,85-18 118th Street,2,1,0,2050.0
+410,queens,Sunnyside,39-59 45th Street,1,1,0,2200.0
+411,queens,Briarwood,140-55 Burden Crescent,2,1,0,1995.0
+412,queens,Astoria,30-11 34th Street,2,1,1200,2195.0
+413,queens,Sunnyside,43-31 45th Street,1,1,0,2050.0
+414,queens,New_Dev,42-15 Crescent Street,2,2,0,4406.0
+415,queens,Forest Hills,109-01 72 Road,1,1,0,1950.0
+416,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+417,queens,Far Rockaway,20-38 Seagirt Boulevard,1,1,756,1865.0
+418,queens,Murray Hill (Queens),157-11 Sanford Avenue,1,1,0,1700.0
+419,queens,Astoria,31-14 35th Street,1,1,0,2000.0
+420,queens,Ridgewood,581 Fairview Avenue,4,1.5,0,2600.0
+421,queens,Ditmars-Steinway,24-55 Crescent Street,2,1,0,2800.0
+422,queens,Ridgewood,18-75 Linden Street,3,1.5,0,3000.0
+423,queens,Murray Hill (Queens),157-11 Sanford Avenue,1,1,0,1600.0
+424,queens,Rego Park,62-60 99th Street,2,1,0,2550.0
+425,queens,Astoria,31-32 31st Street,2,1,0,2995.0
+426,queens,Ditmars-Steinway,21-72 43rd Street,4,1,0,3200.0
+427,queens,Elmhurst,51-15 Van Kleeck Street,1,1,1052,1950.0
+428,queens,Astoria,23-43 33rd Avenue,2,1,1000,2750.0
+429,queens,Hunters Point,4-75 48th Avenue,0.5,1,550,3145.0
+430,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+431,queens,Forest Hills,76-12 Grnd Cntrl Pkwy Sr W,3,1.5,0,2800.0
+432,queens,Astoria,25-50 22nd Street,3,1,900,2400.0
+433,queens,Far Rockaway,7-11 Seagirt Avenue,0.5,1,0,1231.0
+434,queens,Ditmars-Steinway,21-15 33rd Street,1,1,0,1650.0
+435,queens,Rego Park,97-07 63 Road,1,1,700,1850.0
+436,queens,Ridgewood,64-41 Woodbine Street,0.5,1,0,2199.0
+437,queens,Hunters Point,10-93 Jackson Avenue,1,1,600,1750.0
+438,queens,Rego Park,64-75 Austin Street,2,1,650,2100.0
+439,queens,Astoria,25-29 46th Street,1,1,0,2000.0
+440,queens,Elmhurst,86-10 Elmhurst Avenue,1,1,700,1725.0
+441,queens,Long Island City,34-15 37th Avenue,2,1,0,2400.0
+442,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+443,queens,Corona,96-08 57th Avenue,1,1,718,2082.0
+444,queens,Ditmars-Steinway,26-04 23rd Avenue,2,1.5,0,2600.0
+445,queens,Astoria,43-19 31st Avenue,1,1,0,1800.0
+446,queens,Far Rockaway,20-51 Seagirt Boulevard,1,1,682,1749.0
+447,queens,Hunters Point,22-44 Jackson Avenue,0.5,1,0,3245.0
+448,queens,Astoria,28-51 34th Street,1,1,0,1975.0
+449,queens,Astoria,25-66 12th Street,2,1,900,2775.0
+450,queens,Ridgewood,961 Seneca Avenue,4,4,0,3500.0
+451,queens,Hunters Point,22-44 Jackson Avenue,1,1,0,4000.0
+452,queens,Hunters Point,22-44 Jackson Avenue,1,1,0,3825.0
+453,queens,Hunters Point,22-44 Jackson Avenue,1,1,0,3700.0
+454,queens,Ditmars-Steinway,22-21 29th Street,1,1,0,2000.0
+455,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+456,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+457,queens,New_Dev,14-01 Broadway,2,2,1010,3915.0
+458,queens,Ridgewood,1822 Palmetto Street,5,2,0,3900.0
+459,queens,Briarwood,81-05 135th Street,4,2,0,2600.0
+460,queens,Astoria,31-56 37th Street,1,1,0,2150.0
+461,queens,Ridgewood,60-24 Madison Street,2,1,0,2600.0
+462,queens,Murray Hill (Queens),144-87 41st Avenue,1,1,700,1700.0
+463,queens,Middle Village,66-25 79th Street,2,1,0,2600.0
+464,queens,Astoria,25-28 Broadway,1,1,0,2500.0
+465,queens,Flushing,34-20 Parsons Boulevard,0.5,1,0,1500.0
+466,queens,Hunters Point,22-43 Jackson Avenue,1,1,0,3500.0
+467,queens,Astoria,21-03 31st Avenue,1,1,0,2200.0
+468,queens,Corona,96-08 57th Avenue,1,1,718,2082.0
+469,queens,Far Rockaway,20-38 Seagirt Boulevard,1,1,756,1865.0
+470,queens,Forest Hills,67-07 Yellowstone Boulevard,1,1,0,1700.0
+471,queens,Oakland Gardens,65-24 224th Street,1,1,0,1895.0
+472,queens,Forest Hills,110-56 71st Avenue,0.5,1,500,1725.0
+473,queens,Forest Hills,110-56 71st Avenue,2,2,1200,2775.0
+474,queens,Astoria,28-42 38th Street,1,1,750,2399.0
+475,queens,Astoria,30-29 48th Street,2,1,1000,2300.0
+476,queens,Ridgewood,17-36 Menahan Street,5,2.5,0,5000.0
+477,queens,New_Dev,5203 Center Boulevard,2,2,0,4900.0
+478,queens,New_Dev,5203 Center Boulevard,2,1,0,4560.0
+479,queens,New_Dev,5203 Center Boulevard,2,1,0,4350.0
+480,queens,Hunters Point,4610 Center Boulevard,2,2,0,4895.0
+481,queens,New_Dev,43-22 Queens Street,0.5,1,0,3090.0
+482,queens,Kew Gardens,123-33 83rd Avenue,1,1,0,2225.0
+483,queens,Hunters Point,4545 Center Boulevard,0.5,1,0,2775.0
+484,queens,Hunters Point,4540 Center Boulevard,0.5,1,0,2825.0
+485,queens,Hunters Point,4615 Center Boulevard,2,1,0,4865.0
+486,queens,Hunters Point,4720 Center Boulevard,1,1,0,3495.0
+487,queens,Astoria,23-35 29th Avenue,3,1,0,2800.0
+488,queens,Flushing,42-55 Colden Street,2,1,900,2100.0
+489,queens,Ridgewood,60-17 Putnam Avenue,4,2,1200,3200.0
+490,queens,Forest Hills,110-31 72 Drive,3,2,0,2700.0
+491,queens,Elmhurst,41-21 Denman Street,4,1,0,2900.0
+492,queens,Astoria,30-02 30th Street,1,1,0,2800.0
+493,queens,Kew Gardens,116-17 Grosvenor Lane,0.5,1,428,1650.0
+494,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+495,queens,New_Dev,43-22 Queens Street,0.5,1,0,3090.0
+496,queens,New_Dev,44-41 Purves Street,3,2,1100,5800.0
+497,queens,Jackson Heights,35-45 81st Street,1,1,0,2200.0
+498,queens,Whitestone,19-10 Parsons Boulevard,0.5,1,450,1725.0
+499,queens,New_Dev,27-19 44th Dr,2,2,1003,5195.0
+500,queens,Ridgewood,59-44 Madison Street,3,1,0,2495.0
+501,queens,Astoria,14-56 31 Drive,1,1,700,2250.0
+502,queens,Rego Park,85-07 67th Avenue,2,2,900,2350.0
+503,queens,Kew Gardens,83-33 118th Street,1,1,800,2200.0
+504,queens,Hunters Point,4545 Center Boulevard,2,2,0,6895.0
+505,queens,Astoria,32-12 38th Street,2,1,0,2400.0
+506,queens,Ditmars-Steinway,23-31 37th Street,1,1,0,1975.0
+507,queens,Corona,97-28 57th Avenue,1,1,713,2115.0
+508,queens,Ditmars-Steinway,21-43 29th Street,1,1,650,1875.0
+509,queens,Hunters Point,5-46 50th Avenue,2,2,0,5725.0
+510,queens,Woodside,37-53 62nd Street,1,1,0,1800.0
+511,queens,Astoria,30-76 Crescent Street,2,1,0,2200.0
+512,queens,Astoria,30-01 Newtown Avenue,1,1,0,1800.0
+513,queens,Ridgewood,18-61 Menahan Street,1,1,0,1900.0
+514,queens,Ditmars-Steinway,23-31 37th Street,1,1,0,1975.0
+515,queens,Astoria,31-14 31st Street,2,1,850,2500.0
+516,queens,Astoria,35-48 Steinway Street,2,1,0,2300.0
+517,queens,Astoria,25-24 33rd Street,3,1,0,2800.0
+518,queens,Astoria,34-21 Ninth Street,3,1,0,2350.0
+519,queens,Middle Village,76-25 58 Road,3,2,1000,2300.0
+520,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+521,queens,New_Dev,43-22 Queens Street,0.5,1,0,3090.0
+522,queens,Forest Hills,72-81 113th Street,2,1,0,2600.0
+523,queens,Woodside,41-25 53rd Street,0.5,1,0,1650.0
+524,queens,Kew Gardens,125-10 Queens Boulevard,2,1,0,2750.0
+525,queens,Ridgewood,1664 Woodbine Street,2,1,0,2475.0
+526,queens,Ridgewood,455 Stockholm Avenue,3,1,950,3000.0
+527,queens,Sunnyside,47-22 46th Street,3,1,0,3200.0
+528,queens,Auburndale,204-10 43rd Avenue,0.5,1,0,2034.0
+529,queens,East Flushing,140-70 Ash Avenue,1,1,750,1600.0
+530,queens,Elmhurst,48-30 91 Place,1,1,0,1750.0
+531,queens,Rego Park,64-42 Booth Street,2,1,0,2550.0
+532,queens,Long Island City,29-59 Northern Boulevard,2,2,0,6763.0
+533,queens,New_Dev,43-22 Queens Street,0.5,1,0,3090.0
+534,queens,Corona,97-28 57th Avenue,1,1,713,2115.0
+535,queens,Long Island City,29-59 Northern Boulevard,1,1,0,4266.0
+536,queens,Long Island City,29-59 Northern Boulevard,1,1,0,4725.0
+537,queens,Long Island City,29-59 Northern Boulevard,2,1,0,5891.0
+538,queens,Long Island City,29-59 Northern Boulevard,1,1,0,3759.0
+539,queens,Long Island City,29-59 Northern Boulevard,0.5,1,0,3220.0
+540,queens,Briarwood,141-40 84 Drive,0.5,1,450,1425.0
+541,queens,Long Island City,41-34 Crescent Street,1,1,0,3100.0
+542,queens,Bayside,39-12 Corporal Stone Street,1,1,0,1900.0
+543,queens,Long Island City,41-34 Crescent Street,0.5,1,0,2450.0
+544,queens,Astoria,30-41 32nd Street,2,1,0,2050.0
+545,queens,Forest Hills,75-20 113rd Street,0.5,1,0,1595.0
+546,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+547,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+548,queens,Ridgewood,581 Fairview Avenue,4,2,0,2600.0
+549,queens,Sunnyside,45-20 41st Street,2,1,0,2600.0
+550,queens,Astoria,25-24 35th Street,2,1,0,1900.0
+551,queens,Astoria,30-70 37th Street,2,1,0,2150.0
+552,queens,Rego Park,64-48 Booth Street,0.5,1,550,1625.0
+553,queens,Ditmars-Steinway,23-47 38th Street,1,1,0,1850.0
+554,queens,Ditmars-Steinway,19-67 80th Street,1,1,0,1800.0
+555,queens,Astoria,30-57 29th Street,1,1,0,2100.0
+556,queens,Astoria,32-40 33rd Street,1,1,0,1900.0
+557,queens,Astoria,28-30 48th Street,1,1,600,1899.0
+558,queens,Astoria,33-01 36th Avenue,2,1,0,2300.0
+559,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+560,queens,Corona,97-28 57th Avenue,1,1,713,2115.0
+561,queens,Glendale,78-45 75th Street,2,1,0,2300.0
+562,queens,New_Dev,16-26 Madison Street,2,1,0,3100.0
+563,queens,Maspeth,65-58 Maurice Avenue 1-ST-FLOOR,1,1,0,2050.0
+564,queens,Long Island City,37-21 32nd Street,2,1,850,2950.0
+565,queens,Murray Hill (Queens),151-24 34th Avenue,1,1,600,1600.0
+566,queens,Rego Park,63-80 Wetherole Street,1,1,0,1600.0
+567,queens,Kew Gardens,83-10 118th Street,0.5,1,0,1550.0
+568,queens,Ridgewood,581 Fairview Avenue,2,1.5,0,2600.0
+569,queens,Jamaica Estates,172-90 Highland Avenue,0.5,1,0,1550.0
+570,queens,Astoria,30-35 31st Street,1,1,0,1900.0
+571,queens,Hunters Point,42-22 27th Street,1,1,709,4225.0
+572,queens,Hunters Point,45-50 Pearson Street,0.5,1,500,2725.0
+573,queens,Ridgewood,1636 Norman Street,3,1,0,2495.0
+574,queens,Forest Hills,101-01 67 Drive,0.5,1,512,1675.0
+575,queens,Ridgewood,1928 Linden Street,3,1,0,2495.0
+576,queens,New_Dev,44-41 Purves Street,2,2,903,5369.0
+577,queens,Rego Park,65-44 Saunders Street,1,1,1064,2045.0
+578,queens,Maspeth,66-40 Jay Avenue,3,1,0,2300.0
+579,queens,Sunnyside,40-11 Greenpoint Avenue,1,1,0,2000.0
+580,queens,Astoria,26-34 30th Street,1,1,0,2200.0
+581,queens,Bay Terrace (Queens),16-70 Bell Boulevard,0.5,1,550,1825.0
+582,queens,Bay Terrace (Queens),16-70 Bell Boulevard,1,1,750,2125.0
+583,queens,Hunters Point,27-21 44 Drive,1,1,662,3200.0
+584,queens,Ditmars-Steinway,22-40 35th Street,3,1,0,3200.0
+585,queens,Forest Hills,95-17 68th Avenue,3,2,1500,3850.0
+586,queens,Corona,97-28 57th Avenue,1,1,713,2115.0
+587,queens,Astoria,40-13 30th Avenue,2,1.5,0,2995.0
+588,queens,Hunters Point,47-18 11th Street,1,1,800,2850.0
+589,queens,Ditmars-Steinway,21-25 21 Road,3,3,0,4000.0
+590,queens,Astoria,10 Halletts Point,1,1,0,3575.0
+591,queens,Astoria,10 Halletts Point,1,1,0,3575.0
+592,queens,Astoria,10 Halletts Point,2,1,0,3880.0
+593,queens,Astoria,10 Halletts Point,1,1,0,3045.0
+594,queens,Astoria,10 Halletts Point,2,2,0,5575.0
+595,queens,Woodside,37-76 62nd Street,2,1,850,2150.0
+596,queens,Ridgewood,2034 Himrod Street,2,1,1000,2650.0
+597,queens,Hunters Point,11-27 47th Avenue,2,1,0,2850.0
+598,queens,Forest Hills,112-11 Queens Boulevard,1,1.5,800,2750.0
+599,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+600,queens,Flushing,38-15 Bowne Street,1,1,775,1700.0
+601,queens,New_Dev,152-11 89th Avenue,1,1,677,2284.0
+602,queens,New_Dev,37-14 36th Street,1,1,0,2776.0
+603,queens,Astoria,25-53 38th Street,1,1,0,2850.0
+604,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+605,queens,Forest Hills,110-23 72 Road,0.5,1,0,1550.0
+606,queens,Astoria,25-74 33rd Street,1,1,0,2225.0
+607,queens,Glendale,86-35 Myrtle Avenue,0.5,1,0,1794.0
+608,queens,Astoria,32-82 34th Street,2,1,850,2200.0
+609,queens,Kew Gardens,83-10 118th Street,2,1,1100,2200.0
+610,queens,New_Dev,31-57 31st Street,2,2,0,4478.0
+611,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+612,queens,Elmhurst,83-02 Cornish Avenue,1,1,0,1775.0
+613,queens,Sunnyside,41-15 46th Street,2,1,0,2700.0
+614,queens,Forest Hills,112-41 72 Road,1,1,0,1975.0
+615,queens,Kew Gardens,83-29 Talbot Street,0.5,1,650,1545.0
+616,queens,Ditmars-Steinway,23-58 37th Street,3,1.5,1150,2700.0
+617,queens,Astoria,25-22 30 Drive,0.5,1,0,2150.0
+618,queens,Auburndale,198-39 32nd Avenue,1,1,800,1650.0
+619,queens,Ridgewood,463 Onderdonk Avenue,2,1,0,2300.0
+620,queens,Hollis,91-32 195th Street,2,1,0,2158.0
+621,queens,Sunnyside,43-33 41st Street,2,1,0,2250.0
+622,queens,Ridgewood,1654 Putnam Avenue,0.5,1,0,1899.0
+623,queens,Murray Hill (Queens),149-43 35th Avenue,2,2,1200,2400.0
+624,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+625,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+626,queens,Ditmars-Steinway,24-11 Crescent Street,2,1,750,2300.0
+627,queens,New_Dev,44-41 Purves Street,0.5,1,0,3050.0
+628,queens,Sunnyside,39-80 47th Street,1,1,0,1950.0
+629,queens,Sunnyside,45-19 43rd Avenue,2,1,700,2300.0
+630,queens,Forest Hills,95-17 68th Avenue,3,2,1500,3850.0
+631,queens,New_Dev,44-41 Purves Street,0.5,1,0,3050.0
+632,queens,Astoria,34-37 41st Street,1,1,0,2000.0
+633,queens,Sunnyside,41-43 39 Place,1,1,0,2100.0
+634,queens,Kew Gardens Hills,141-23 78th Avenue,2,1,800,2200.0
+635,queens,Kew Gardens,119-21 Metropolitan Avenue,2,1,0,2350.0
+636,queens,Ridgewood,61-54 Palmetto Street,2,2,1000,3000.0
+637,queens,Ditmars-Steinway,20-47 42nd Street,1,1,0,1900.0
+638,queens,Hunters Point,4-75 48th Avenue,1,1,684,3310.0
+639,queens,Ditmars-Steinway,42-13 23rd Avenue,3,1,0,2400.0
+640,queens,Jamaica Estates,175-27 Wexford Terrace,1,1,0,1675.0
+641,queens,Briarwood,138-28 Queens Boulevard,1,1,600,2550.0
+642,queens,Kew Gardens,83-09 Talbot Street,2,1,1100,2400.0
+643,queens,Briarwood,82-08 135th Street,1,1,775,1775.0
+644,queens,Hunters Point,2-17 51st Avenue,1,1,890,3700.0
+645,queens,Ditmars-Steinway,23-58 37th Street,3,2,0,2650.0
+646,queens,Bayside,229-25 58th Avenue,3,2,1300,3200.0
+647,queens,East Flushing,40-41 190th Street,1,1,0,1910.0
+648,queens,Forest Hills,104-60 Queens Boulevard,0.5,1,578,2145.0
+649,queens,Kew Gardens,123-33 83rd Avenue,1,1,0,2225.0
+650,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+651,queens,Corona,97-28 57th Avenue,1,1,713,2115.0
+652,queens,Jackson Heights,37-31 73rd Street,0.5,1,0,1875.0
+653,queens,Kew Gardens,83-46 118th Street,1,1,0,1800.0
+654,queens,Long Island City,37-25 33rd Street,1,1,0,3100.0
+655,queens,Jackson Heights,75-05 35th Avenue,2,1,900,2200.0
+656,queens,Jackson Heights,33-15 84th Street,0.5,1,0,1650.0
+657,queens,Astoria,30-91 41st Street,3,1,1100,2900.0
+658,queens,Astoria,46-19 28th Avenue,2,2,1000,2600.0
+659,queens,Woodside,53-01 32nd Avenue,0.5,1,0,1650.0
+660,queens,Ditmars-Steinway,19-62 77th Street,1,1,0,2250.0
+661,queens,Forest Hills,6766 Fleet Street,3,2,2000,3950.0
+662,queens,New_Dev,43-22 Queens Street,0.5,1,0,3090.0
+663,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+664,queens,Ditmars-Steinway,24-55 Crescent Street,2,1,0,2800.0
+665,queens,Hunters Point,43-10 Crescent Street,0.5,1,591,3019.0
+666,queens,Astoria,35-48 35th Street,1,1,0,1850.0
+667,queens,Astoria,35-46 29th Street,2,1,0,2450.0
+668,queens,Hunters Point,42-10 27th Street,0.5,1,0,3300.0
+669,queens,Murray Hill (Queens),34-01 Parsons Boulevard,1,1,800,1700.0
+670,queens,Whitestone,150-39 12 Road,1,1,650,1599.0
+671,queens,Ridgewood,1720 Greene Avenue,4,1.5,0,3399.0
+672,queens,Astoria,30-90 33rd Street,2,1,0,2595.0
+673,queens,Astoria,34-43 Crescent Street,0.5,1,0,1763.0
+674,queens,Ridgewood,60-48 68 Road,3,1,0,2350.0
+675,queens,Ditmars-Steinway,38-18 23rd Avenue,2,1,0,2200.0
+676,queens,New_Dev,43-22 Queens Street,0.5,1,0,3090.0
+677,queens,Ditmars-Steinway,24-55 Crescent Street,2,1,0,2800.0
+678,queens,Astoria,25-45 Steinway Street,3,1,1260,3100.0
+679,queens,Forest Hills,68-11 Burns Street,1,1,820,1937.0
+680,queens,Astoria,25-68 23rd Street,3,1,0,2800.0
+681,queens,Ditmars-Steinway,20-39 49th Street,2,1,0,2300.0
+682,queens,New_Dev,27-05 41st Avenue,2,2,0,3300.0
+683,queens,Woodside,37-27 60th Street,2,1,0,2300.0
+684,queens,Astoria,25-11 42nd Street,3,1,0,3200.0
+685,queens,New_Dev,40-04 34th Avenue,0.5,1,0,2500.0
+686,queens,Ditmars-Steinway,21-46 Steinway Street,2,1,0,2700.0
+687,queens,Astoria,44-07 30th Avenue UNIT-2F,2,1,0,2450.0
+688,queens,Ditmars-Steinway,22-18 27th Street,2,1,0,2700.0
+689,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+690,queens,New_Dev,43-22 Queens Street,0.5,1,0,3090.0
+691,queens,Astoria,44-15 34th Avenue,1,1,0,2150.0
+692,queens,Astoria,24-35 Steinway Street,1,1,0,1889.0
+693,queens,Rego Park,66-15 Thornton Place,2,1,0,2300.0
+694,queens,Astoria,44-15 34th Avenue,1,1,0,2000.0
+695,queens,Astoria,28-16 21st Street,1,1,0,2800.0
+696,queens,Ridgewood,1823 Palmetto Street,1,1.5,0,2250.0
+697,queens,Astoria,28-16 21st Street,0.5,1,0,2200.0
+698,queens,Astoria,28-16 21st Street,1,1,0,2600.0
+699,queens,Ridgewood,1662 Woodbine Street,2,1,0,2700.0
+700,queens,Astoria,30-68 38th Street,1,1,0,2799.0
+701,queens,Astoria,28-16 21st Street,2,1,0,3500.0
+702,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+703,queens,New_Dev,43-22 Queens Street,0.5,1,0,3090.0
+704,queens,Astoria,28-16 21st Street,0.5,1,0,2150.0
+705,queens,Long Island City,29-11 Queens Plaza North,1,1,0,3425.0
+706,queens,New_Dev,34-22 35th Street,0.5,1,0,2436.0
+707,queens,Flushing,29-17 148th Street,2,1,0,1825.0
+708,queens,Hunters Point,42-22 27th Street,2,1,903,5904.0
+709,queens,Sunnyside,43-42 45th Street,1,1,620,1800.0
+710,queens,Ridgewood,67-06 64th Street,3,1,850,2195.0
+711,queens,Ridgewood,1672 Gates Avenue,3,1,800,2295.0
+712,queens,Hunters Point,11-15 46 Road,1,1,0,2000.0
+713,queens,Jamaica Hills,162-15 Highland Avenue,0.5,1,500,1575.0
+714,queens,Forest Hills,67-09 Austin Street,2,1,1000,2600.0
+715,queens,Corona,97-28 57th Avenue,1,1,713,2115.0
+716,queens,New_Dev,42-15 Crescent Street,2,2,0,4406.0
+717,queens,Astoria,35-20 28th Street,3,1,0,2700.0
+718,queens,Forest Hills,67-19 Austin Street,0.5,1,0,1650.0
+719,queens,Astoria,37-05 30th Avenue,2,1,800,1995.0
+720,queens,New_Dev,37-40 27th Street,1,1,0,2995.0
+721,queens,Astoria,30-09 42nd Street,2,1,900,2150.0
+722,queens,Astoria,37-01 30th Avenue,1,1,700,1600.0
+723,queens,Jamaica,178-02 Hillside Avenue,0.5,1,477,1975.0
+724,queens,Hunters Point,44-72 11th Street,0.5,1,550,2595.0
+725,queens,Jamaica,139-28 Lakewood Avenue,3,1.5,0,2600.0
+726,queens,Woodside,31-21 54th Street,1,1,750,1849.0
+727,queens,Briarwood,135-10 Grand Central Parkway South Sr,2,1,0,1950.0
+728,queens,Flushing,137-20 45th Avenue,2,1,929,2350.0
+729,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+730,queens,Astoria,25-56 35th Street,1,1,0,1925.0
+731,queens,Ridgewood,1821 Cornelia Street,2,1,0,2299.0
+732,queens,Queens Village,215-31 Hillside Avenue,2,1,800,1999.0
+733,queens,Ditmars-Steinway,20-23 41st Street,2,1,0,2250.0
+734,queens,Rego Park,65-44 Saunders Street,1,1,1064,2095.0
+735,queens,Rego Park,97-50 Queens Boulevard,2,1,917,2205.0
+736,queens,Astoria,45-18 Newtown Road,3,2.5,1900,5000.0
+737,queens,Astoria,23-15 30th Avenue,2,2,0,3000.0
+738,queens,Forest Hills,20 Continental Avenue,0.5,1+,550,1800.0
+739,queens,Sunnyside,45-55 41st Street,1,1,785,2000.0
+740,queens,Jackson Heights,25-41 75th Street,1,1,760,2400.0
+741,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+742,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+743,queens,Ditmars-Steinway,20-47 42nd Street,1,1,0,1900.0
+744,queens,New_Dev,44-41 Purves Street,1,1,0,3650.0
+745,queens,Ditmars-Steinway,20-33 32nd Street,1,1,0,2100.0
+746,queens,Far Rockaway,20-51 Seagirt Boulevard,1,1,756,1725.0
+747,queens,Astoria,34-61 Vernon Boulevard,0.5,1,450,2250.0
+748,queens,Rego Park,64-41 Saunders Street,2,2,1300,2400.0
+749,queens,Astoria,34-61 Vernon Boulevard,1,1,700,2900.0
+750,queens,Oakland Gardens,64-14 228th Street,3,1,1100,3200.0
+751,queens,Astoria,30-25 21st Street,1,1,0,2600.0
+752,queens,Ditmars-Steinway,19-22 23 Drive,1,1,0,2495.0
+753,queens,New_Dev,34-22 35th Street,1,1,0,2740.0
+754,queens,New_Dev,43-22 Queens Street,0.5,1,0,3090.0
+755,queens,Hunters Point,4-75 48th Avenue,1,1,606,3145.0
+756,queens,Ditmars-Steinway,21-47 33rd Street,2,1,0,2200.0
+757,queens,Long Island City,41-17 Crescent Street,2,2,1175,5200.0
+758,queens,Long Island City,41-17 Crescent Street,2,2,924,4800.0
+759,queens,Long Island City,41-17 Crescent Street,1,1,668,3600.0
+760,queens,New_Dev,30-02 39th Avenue,0.5,1,0,2964.0
+761,queens,Forest Hills,64-09 102nd Street,2,1,1100,2450.0
+762,queens,Hunters Point,57-28 2nd Street,3,2,0,3580.0
+763,queens,Flushing,38-15 Bowne Street,1,1,775,1700.0
+764,queens,Hunters Point,57-28 2nd Street,2,1,0,3107.0
+765,queens,Astoria,31-11 36th Street,1,1,0,1975.0
+766,queens,Forest Hills,68-19 Ingram Street,3,2.5,1368,3700.0
+767,queens,Corona,96-08 57th Avenue,1,1,718,2082.0
+768,queens,Hunters Point,23-10 Queens Plaza South,1,1,0,4850.0
+769,queens,Long Island City,2922 Northern Boulevard,2,2,1168,5360.0
+770,queens,Hunters Point,57-28 2nd Street,0.5,1,0,2070.0
+771,queens,Hunters Point,57-28 2nd Street,1,1,0,2593.0
+772,queens,New_Dev,46-04 Vernon Boulevard,1,1,630,3400.0
+773,queens,Sunnyside,41-28 45th Street,2,1,0,2195.0
+774,queens,Ditmars-Steinway,21-27 29th Street,2,2,0,2750.0
+775,queens,Astoria,25-68 23rd Street,3,1,1100,3000.0
+776,queens,Sunnyside,50-66 42nd Street,4,1,1200,3000.0
+777,queens,Jackson Heights,76-15 35th Avenue,1,1,1000,2300.0
+778,queens,Sunnyside,41-15 50th Avenue,2,1,1000,2395.0
+779,queens,Astoria,10 Halletts Point,1,1,0,3375.0
+780,queens,Hunters Point,22-44 Jackson Avenue,1,1,0,3475.0
+781,queens,Corona,96-08 57th Avenue,1,1,718,2082.0
+782,queens,Hunters Point,42-10 27th Street,1,1,0,3550.0
+783,queens,Flushing,132-32 41st Avenue,1,1,650,2100.0
+784,queens,Astoria,35-31 32nd Street,2,1,0,2030.0
+785,queens,New_Dev,3 Court Square,1,1,672,4250.0
+786,queens,East Elmhurst,80-12 Grand Central Parkway South Sr,1,1,0,1800.0
+787,queens,Ridgewood,605 Onderdonk Avenue,3,1.5,0,3300.0
+788,queens,Woodhaven,91-26 85th Street,3,2,1200,2799.0
+789,queens,Laurelton,135-29 231st Street,2,1,0,1700.0
+790,queens,Glendale,75-02 61st Street,3,1,1000,2500.0
+791,queens,Astoria,32-15 30th Street,1,1,0,1950.0
+792,queens,Ditmars-Steinway,21-51 46th Street,3,1,1300,3500.0
+793,queens,New_Dev,43-22 Queens Street,0.5,1,0,3090.0
+794,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+795,queens,Rego Park,97-37 63 Road,2,1,1000,2500.0
+796,queens,Rego Park,98-26 64th Avenue,0.5,1,0,1300.0
+797,queens,Sunnyside,50-11 Queens Boulevard,2,2,0,3500.0
+798,queens,Sunnyside,50-11 Queens Boulevard,0.5,1,0,2200.0
+799,queens,Sunnyside,50-11 Queens Boulevard,1,1,0,2645.0
+800,queens,Woodside,61-09 39th Avenue,1,1,0,1900.0
+801,queens,Flushing,136-46 41st Avenue,2,2,1243,3300.0
+802,queens,Astoria,37-01 30th Avenue,1,1,800,1950.0
+803,queens,Hunters Point,45-50 Pearson Street,0.5,1,500,2725.0
+804,queens,Forest Hills,73-44 Austin Street,1,1,800,2099.0
+805,queens,Lindenwood,84-27 149th Avenue,2,1,0,2400.0
+806,queens,New_Dev,43-22 Queens Street,0.5,1,0,3090.0
+807,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+808,queens,College Point,18-10 124th Street,2,1.5,0,2200.0
+809,queens,Ditmars-Steinway,20-65 23rd Street 1-FLOOR,3,1,0,2800.0
+810,queens,Astoria,28-10 30th Street,3,1,0,3200.0
+811,queens,Jackson Heights,35-05 87th Street,0.5,1,0,1699.0
+812,queens,Ridgewood,18-22 Centre Street,1,1,0,2250.0
+813,queens,Kew Gardens,83-64 Talbot Street,1,1,750,1800.0
+814,queens,New_Dev,44-28 Purves Street,1,1,0,3725.0
+815,queens,Astoria,23-28 31st Avenue,1,1,0,1695.0
+816,queens,New_Dev,5203 Center Boulevard,2,2,0,5290.0
+817,queens,New_Dev,5203 Center Boulevard,2,1,0,4610.0
+818,queens,New_Dev,5203 Center Boulevard,2,2,0,5770.0
+819,queens,Hunters Point,23-10 Queens Plaza South,1,1,0,4850.0
+820,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+821,queens,Hunters Point,4610 Center Boulevard,1,1,0,3550.0
+822,queens,Hunters Point,4610 Center Boulevard,0.5,1,0,2995.0
+823,queens,Hunters Point,4540 Center Boulevard,2,1,0,4350.0
+824,queens,Hunters Point,4540 Center Boulevard,1,1,0,3570.0
+825,queens,Jamaica,156-17 110th Avenue,4,2,0,2800.0
+826,queens,Rego Park,63-20 Haring Street,2,1,0,2100.0
+827,queens,Glendale,70-11 67 Place,3,1,1000,2350.0
+828,queens,Ridgewood,57-50 Myrtle Avenue,2,1,0,2200.0
+829,queens,Astoria,35-04 31st Avenue,1,1,875,1949.0
+830,queens,Bayside,216-14 Corbett Road,3,1,0,2400.0
+831,queens,Long Island City,27-14 39th Avenue,1,1,0,3200.0
+832,queens,Forest Hills,102-10 Queens Boulevard,0.5,1,541,1850.0
+833,queens,Ditmars-Steinway,21-43 29th Street,1,1,650,1875.0
+834,queens,Kew Gardens Hills,69-56 138th Street,1,1,0,1850.0
+835,queens,Jackson Heights,84-09 35th Avenue,2,1,1000,3000.0
+836,queens,Rego Park,61-55 Junction Boulevard,1,1,700,2900.0
+837,queens,Sunnyside,47-25 44th Street,3,1,0,3163.0
+838,queens,Elmhurst,91-03 Whitney Avenue,2,1,0,2080.0
+839,queens,Murray Hill (Queens),144-20 41st Avenue,2,1.5,1100,2449.0
+840,queens,Oakland Gardens,68-45 Cloverdale Boulevard,2,1,950,2095.0
+841,queens,Maspeth,61-15 56 Drive,2,1,0,2400.0
+842,queens,Forest Hills,67-40 Booth Street,2,1,0,2349.0
+843,queens,Flushing,132-45 Maple Avenue,1,1,0,2000.0
+844,queens,Auburndale,59-68 Fresh Meadow Lane,3,2,1200,3000.0
+845,queens,Ridgewood,1867 Bleecker Street,2,2,0,2350.0
+846,queens,Astoria,10 Halletts Point,1,1,0,3045.0
+847,queens,Far Rockaway,20-25 Seagirt Boulevard,1,1,756,1865.0
+848,queens,Astoria,30-86 33rd Street,1,1,800,2450.0
+849,queens,Briarwood,138-28 Queens Boulevard,2,2,1100,3100.0
+850,queens,Long Island City,29-59 Northern Boulevard,1,1,0,4266.0
+851,queens,Murray Hill (Queens),36-20 168th Street,1,1,700,1700.0
+852,queens,Forest Hills,72-72 112th Street,1,1,950,2000.0
+853,queens,Rego Park,99-65 64 Road,2,1,0,2499.0
+854,queens,Hunters Point,27-21 44 Drive,2,2,1081,5600.0
+855,queens,Woodhaven,84-11 85th Street,2,1,1100,2400.0
+856,queens,Rego Park,65-50 Austin Street,2,1,900,2030.0
+857,queens,Astoria,35-44 28th Street,1,1,0,1700.0
+858,queens,Astoria,12-21 30th Avenue,1,1,0,1800.0
+859,queens,Hunters Point,22-44 Jackson Avenue,1,1,0,3475.0
+860,queens,Astoria,34-46 Vernon Boulevard,1,1,0,2589.0
+861,queens,Hunters Point,57-28 2nd Street,3,2,0,3580.0
+862,queens,Hunters Point,22-44 Jackson Avenue,1,1,0,4075.0
+863,queens,Astoria,32-79 46th Street,1,1,0,2100.0
+864,queens,Astoria,10 Halletts Point,1,1,0,3375.0
+865,queens,Rego Park,94-11 65 Road,1,1,0,2125.0
+866,queens,Rockaway All,98-20 Shore Front Parkway,2,1,0,2700.0
+867,queens,Astoria,25-26 35th Street,2,1,900,2300.0
+868,queens,Astoria,25-52 31st Street,1,1,750,1850.0
+869,queens,Astoria,30-90 38th Street,3,1,0,2500.0
+870,queens,Astoria,23-30 31 Road,1,1,0,1895.0
+871,queens,Hunters Point,4-75 48th Avenue,1,1,673,3325.0
+872,queens,Astoria,25-41 30 Road,1,1,0,1900.0
+873,queens,Astoria,32-22 41st Street,2,1,900,2000.0
+874,queens,Long Island City,29-22 Northern Boulevard,1,1,740,3615.0
+875,queens,Jamaica,153-30 89th Avenue,1,1,669,2275.0
+876,queens,Elmhurst,88-36 Elmhurst Avenue,0.5,1,0,1750.0
+877,queens,Elmhurst,41-26 73rd Street,0.5,1,0,1750.0
+878,queens,Hunters Point,57-28 2nd Street,2,1,0,3107.0
+879,queens,Elmhurst,88-08 Justice Avenue,2,2,800,2950.0
+880,queens,Astoria,30-90 23rd Street,1,1,0,2100.0
+881,queens,Forest Hills,101-06 67th Drive,2,1,1050,2595.0
+882,queens,Woodside,40-11 67th Street,2,1,0,1750.0
+883,queens,Astoria,25-68 23rd Street,3,1,0,2800.0
+884,queens,Ditmars-Steinway,20-17 38th Street,3,1.5,1000,2699.0
+885,queens,Elmhurst,45-16 83rd Street UNIT-6C,1,1,602,1950.0
+886,queens,Hunters Point,43-10 Crescent Street,1,1,626,4184.0
+887,queens,Astoria,28-29 43rd Street,1,1,0,2100.0
+888,queens,New_Dev,42-15 Crescent Street,2,2,0,4406.0
+889,queens,Far Rockaway,20-10 Seagirt Boulevard,0.5,1,362,1625.0
+890,queens,Murray Hill (Queens),144-90 41st Avenue,0.5,1,0,1450.0
+891,queens,Ditmars-Steinway,22-44 29th Street,2,1,0,2150.0
+892,queens,Rego Park,61-55 Junction Boulevard,2,2,1049,3995.0
+893,queens,Elmhurst,90-02 Queens Boulevard,1,1,0,2325.0
+894,queens,Sunnyside,52-21 39 Road,1,1,0,1800.0
+895,queens,Kew Gardens,84-25 118th Street,0.5,1,476,1400.0
+896,queens,Forest Hills,104-60 Queens Boulevard,2,1,1033,2985.0
+897,queens,Astoria,31-19 34th Street,1,1,0,1800.0
+898,queens,Briarwood,139-09 84 Drive,1,1,750,1725.0
+899,queens,Jackson Heights,88-10 34th Avenue,0.5,1,650,1600.0
+900,queens,Long Island City,37-35 Crescent Street,1,1,0,2200.0
+901,queens,New_Dev,22-18 Jackson Avenue,1,1,629,3600.0
+902,queens,Jamaica,147-40 Archer Avenue,0.5,1,0,1946.0
+903,queens,Ridgewood,1636 Norman Street,3,1,0,2495.0
+904,queens,Forest Hills,112-06 72nd Avenue,0.5,1,5000,1695.0
+905,queens,Astoria,35-16 34th Street,0.5,1,0,1699.0
+906,queens,Rego Park,61-55 Junction Boulevard,1,1,847,3228.0
+907,queens,Astoria,28-25 34th Street,1,1,0,1750.0
+908,queens,Forest Hills,67-14 Exeter Street,2,2,1200,3300.0
+909,queens,Far Rockaway,20-23 Seagirt Boulevard,2,1,813,2199.0
+910,queens,Ridgewood,1675 Palmetto Street,4,2,0,3400.0
+911,queens,Glen Oaks,245-20 Grand Central Parkway,1,1,0,2000.0
+912,queens,Hunters Point,11-35 45th Avenue,1,1,635,3400.0
+913,queens,Middle Village,67-28 78th Street,2,1,0,2499.0
+914,queens,Ridgewood,1636 Norman Street,3,1,0,2495.0
+915,queens,Hunters Point,42-22 Crescent Street,1,1,0,2800.0
+916,queens,Hunters Point,4-75 48th Avenue,1,1,606,3145.0
+917,queens,Jamaica,147-40 Archer Avenue,1,1,0,2375.0
+918,queens,Hunters Point,42-22 Crescent Street,1,1,0,2800.0
+919,queens,New_Dev,147-36 94th Avenue,1,1,0,2170.0
+920,queens,Rego Park,61-55 Junction Boulevard,1,1,650,2795.0
+921,queens,Far Rockaway,20-27 Seagirt Boulevard,2,1,876,2249.0
+922,queens,Long Island City,23-10 40th Avenue,2,1,0,2450.0
+923,queens,Hunters Point,42-22 Crescent Street,1,1,0,2795.0
+924,queens,Ditmars-Steinway,24-43 26th Street,2,1,1000,2600.0
+925,queens,Kew Gardens,85-21 Lefferts Boulevard,1,1,600,1700.0
+926,queens,Hunters Point,23-10 Queens Plaza South,1,1,0,4850.0
+927,queens,Forest Hills,68-19 Burns Street,1,1,850,1925.0
+928,queens,Ditmars-Steinway,19-71 76th Street,3,2+,2200,5300.0
+929,queens,Woodside,32-42 55th Street,2,1,0,2250.0
+930,queens,Long Island City,29-59 Northern Boulevard,1,1,0,4725.0
+931,queens,Elmhurst,83-02 Cornish Avenue,1,1,0,1775.0
+932,queens,Forest Hills,67-45 Juno Street,3,2.5,1600,4000.0
+933,queens,Elmhurst,86-44 56th Avenue,1,1,627,1875.0
+934,queens,Astoria,10 Halletts Point,2,1,0,3880.0
+935,queens,Maspeth,46-02 70th Street,1,1,0,1999.0
+936,queens,Rego Park,67-79 Alderton Street,1,1,0,1750.0
+937,queens,Briarwood,85-15 Main Street,0.5,1,600,1525.0
+938,queens,Maspeth,61-18 62nd Street,3,1,975,2425.0
+939,queens,Long Island City,37-35 Crescent Street,1,1,0,2100.0
+940,queens,Glendale,72-14 69 Place,3,1.5,0,2600.0
+941,queens,Sunnyside,47-08 39th Avenue,3,1,1000,3600.0
+942,queens,Murray Hill (Queens),167-10 Crocheron Avenue,1,1,800,2100.0
+943,queens,Sunnyside,39-10 48th Street,2,1,1000,2000.0
+944,queens,New_Dev,31-43 Vernon Boulevard,1,1,720,2850.0
+945,queens,Astoria,10 Halletts Point,1,1,0,3575.0
+946,queens,Rego Park,62-68 Booth Street,3,1.5,1300,3490.0
+947,queens,Elmhurst,57-34 Hoffman Drive,2,1.5,0,2250.0
+948,queens,Astoria,10 Halletts Point,1,1,0,3375.0
+949,queens,Forest Hills,102-40 67 Road,0.5,1,600,1690.0
+950,queens,Astoria,31-24 44th Street,3,1.5,1000,3200.0
+951,queens,Kew Gardens Hills,150-05 Union Tnpk,2,2,1400,2750.0
+952,queens,Corona,53-15 97th Street,3,2,1200,2600.0
+953,queens,Rego Park,61-40 Saunders Street,1,1,0,1700.0
+954,queens,Forest Hills,67-25 Kessel Street,2,1,900,2300.0
+955,queens,Glendale,71-02 69 Place,2,1,1100,2100.0
+956,queens,Ditmars-Steinway,24-17 28th Street,2,1,0,3500.0
+957,queens,Forest Hills,78-14 Austin Street,1,1,0,2000.0
+958,queens,Far Rockaway,20-10 Seagirt Boulevard,0.5,1,362,1625.0
+959,queens,Hunters Point,22-44 Jackson Avenue,1,1,0,3475.0
+960,queens,South Richmond Hill,101-12 101st Avenue,3,2,1000,2295.0
+961,queens,Flushing,41-25 Kissena Boulevard,2,1,1024,2850.0
+962,queens,Rego Park,61-55 Junction Boulevard,1,1,709,2752.0
+963,queens,Astoria,28-28 42nd Street,1,1,0,1900.0
+964,queens,Hunters Point,22-44 Jackson Avenue,0.5,1,0,3260.0
+965,queens,Jamaica,153-30 89th Avenue,0.5,1,513,1800.0
+966,queens,Hunters Point,22-44 Jackson Avenue,1,1,0,3750.0
+967,queens,Hunters Point,22-44 Jackson Avenue,2,1,0,5150.0
+968,queens,New_Dev,11-07 46th Avenue,3,3.5,2199,8000.0
+969,queens,Richmond Hill,104-18 89th Avenue 1GROUND,4,2,1800,3500.0
+970,queens,Astoria,25-11 42nd Street,3,1,0,2800.0
+971,queens,Bayside,39-18 208th Street,2,1,0,1975.0
+972,queens,New_Dev,27-19 44th Dr,2,2,985,5075.0
+973,queens,Briarwood,138-28 Queens Boulevard,1,1,750,2500.0
+974,queens,Bayside,39-18 208th Street,1,1,0,1750.0
+975,queens,East Flushing,140-70 Ash Avenue,1,1,500,1500.0
+976,queens,New_Dev,27-19 44th Dr,2,2,1003,5195.0
+977,queens,Flushing,42-42 Colden Street,3,1,950,2600.0
+978,queens,Long Island City,36-52 32nd Street,0.5,1,0,1400.0
+979,queens,Hillcrest,70-17 168th Street,3,2,0,3200.0
+980,queens,New_Dev,41-21 28th Street,1,1,680,3324.0
+981,queens,New_Dev,41-21 28th Street,2,1,812,3550.0
+982,queens,Briarwood,141-10 82 Drive,1,1,0,1600.0
+983,queens,Kew Gardens,83-09 Talbot Street,3,1,0,2995.0
+984,queens,Hunters Point,4545 Center Boulevard,2,2,0,5395.0
+985,queens,Hunters Point,4540 Center Boulevard,1,1,0,3630.0
+986,queens,Elmhurst,83-02 Cornish Avenue,1,1,0,1775.0
+987,queens,Jamaica,153-30 89th Avenue,2,2,933,3190.0
+988,queens,Corona,59-30 108th Street,2,1,0,2300.0
+989,queens,Astoria,31-19 41st Street,2,1,650,2050.0
+990,queens,New_Dev,27-19 44th Dr,0.5,1,443,2895.0
+991,queens,Jackson Heights,30-25 79th Street,2,1,0,2300.0
+992,queens,Briarwood,149-17 85 Drive,3,2,0,2500.0
+993,queens,Sunnyside,50-12 39 Place,1,1,700,1825.0
+994,queens,Sunnyside,"4830 41st Street,",1,1,0,1950.0
+995,queens,Corona,97-05 Horace Harding Expressway,0.5,1,468,1920.0
+996,queens,Corona,96-08 57th Avenue,1,1,718,2082.0
+997,queens,Corona,98-23 Horace Harding Expressway,1,1,867,2438.0
+998,queens,Ridgewood,1833 Decatur Street,4,3,0,3100.0
+999,queens,Ditmars-Steinway,22-59 19th Street,4,2,0,4350.0
+1000,queens,Briarwood,138-28 Queens Boulevard,1,1,720,2475.0
+1001,queens,Hunters Point,23-10 Queens Plaza South,1,1,0,4850.0
+1002,queens,Forest Hills,108-50 62 Drive,0.5,1,625,1550.0
+1003,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+1004,queens,Astoria,10 Halletts Point,2,2,0,4455.0
+1005,queens,Ridgewood,2035 Gates Avenue,3,2,0,3300.0
+1006,queens,Long Island City,29-22 Northern Boulevard,0.5,1,524,3298.0
+1007,queens,Long Island City,29-22 Northern Boulevard,2,2,1023,6747.0
+1008,queens,Sunnyside,41-40 40th Street,2,1,850,2275.0
+1009,queens,Ridgewood,778 Onderdonk Avenue,1,1.5,0,2449.0
+1010,queens,Glendale,77-18 78th Street,2,1,0,2200.0
+1011,queens,Rego Park,63-60 98th Street,1,1,788,2050.0
+1012,queens,Rego Park,61-15 97th Street,0.5,1,575,1495.0
+1013,queens,Ridgewood,1822 Palmetto Street,5,1.5,0,3700.0
+1014,queens,Long Island City,29-11 Queens Plaza North,1,1,0,3425.0
+1015,queens,Forest Hills,104-60 Queens Boulevard,0.5,1,578,2145.0
+1016,queens,Briarwood,152-11 85 Drive,4,1.5,0,2600.0
+1017,queens,Woodhaven,93-05 Eldert Lane,2,1,850,2499.0
+1018,queens,Rego Park,61-55 Junction Boulevard,1,1,650,2795.0
+1019,queens,Forest Hills,104-20 Queens Boulevard,0.5,1,531,1985.0
+1020,queens,Ridgewood,68-01 Forest Avenue,1,1,0,2499.0
+1021,queens,Ridgewood,1622 Summerfield Street,4,1.5,0,3250.0
+1022,queens,Murray Hill (Queens),144-63 35th Avenue,1,1,500,1650.0
+1023,queens,Flushing,59-47 160th Street,2,1,0,2250.0
+1024,queens,Briarwood,138-28 Queens Boulevard,1,1,750,2500.0
+1025,queens,Hunters Point,48-21 Fifth Street,2,2,1265,6000.0
+1026,queens,Long Island City,36-30 31st Street,2,1,650,2111.0
+1027,queens,Briarwood,138-28 Queens Boulevard,2,1,1100,3000.0
+1028,queens,Flushing,137-20 45th Avenue,2,1,929,2350.0
+1029,queens,Jamaica,147-40 Archer Avenue,2,2,0,3055.0
+1030,queens,Astoria,34-46 Vernon Boulevard,0.5,1,0,2088.0
+1031,queens,Astoria,34-46 Vernon Boulevard,0.5,1,0,2067.0
+1032,queens,Rego Park,61-55 Junction Boulevard,1,1,650,2795.0
+1033,queens,Forest Hills,68-53 Exeter Street,2,1,900,2100.0
+1034,queens,Astoria,34-46 Vernon Boulevard,2,2,0,4354.0
+1035,queens,Astoria,34-46 Vernon Boulevard,2,2,0,4468.0
+1036,queens,Ridgewood,60-72 Madison Street,2,1,0,2300.0
+1037,queens,Astoria,34-46 Vernon Boulevard,2,2,0,4354.0
+1038,queens,Astoria,34-46 Vernon Boulevard,2,2,0,4260.0
+1039,queens,Astoria,34-46 Vernon Boulevard,1,1,0,2743.0
+1040,queens,Maspeth,52-63 65 Place,2,1,800,1800.0
+1041,queens,Astoria,34-46 Vernon Boulevard,1,1,0,2699.0
+1042,queens,New_Dev,28-10 Jackson Avenue,2,2,0,5537.0
+1043,queens,Rego Park,61-55 Junction Boulevard,2,2,964,3550.0
+1044,queens,Astoria,34-46 Vernon Boulevard,1,1,0,2745.0
+1045,queens,Ditmars-Steinway,24-44 26th Street,2,1,0,2600.0
+1046,queens,Rego Park,61-55 Junction Boulevard,1,1,765,3039.0
+1047,queens,Astoria,34-46 Vernon Boulevard,1,1,0,2626.0
+1048,queens,Kew Gardens,83-35 Lefferts Boulevard,1,1,0,1900.0
+1049,queens,Astoria,34-46 Vernon Boulevard,1,1,0,2562.0
+1050,queens,Astoria,34-46 Vernon Boulevard,1,1,0,2645.0
+1051,queens,Astoria,34-46 Vernon Boulevard,1,1,0,2589.0
+1052,queens,Astoria,25-40 Shore Boulevard,2,2,900,3250.0
+1053,queens,Forest Hills,100-25 Queens Boulevard,1,1,0,2200.0
+1054,queens,Rego Park,98-22 63 Drive,1,1,750,1725.0
+1055,queens,Jackson Heights,35-65 86th Street,0.5,1,0,1750.0
+1056,queens,Jamaica,147-40 Archer Avenue,2,2,0,3055.0
+1057,queens,Forest Hills,112-11 Queens Boulevard,1,1.5,800,2750.0
+1058,queens,New_Dev,3 Court Square,2,2,969,6495.0
+1059,queens,Hunters Point,1-50 50th Avenue,2,2,0,4234.0
+1060,queens,Astoria,10 Halletts Point,1,1,0,3575.0
+1061,queens,Ridgewood,18-63 Linden Street GARDEN-R,3,1,0,2695.0
+1062,queens,Rego Park,66-21 Burns Street,2,1,0,2350.0
+1063,queens,Sunnyside,41-29 46th Street,0.5,1,0,1850.0
+1064,queens,Ridgewood,778 Onderdonk Avenue,1,1.5,0,2450.0
+1065,queens,Elmhurst,80-32 47th Avenue,3,2,1200,2800.0
+1066,queens,Hollis,182-30 Hillside Avenue,1,1,0,1795.0
+1067,queens,Ditmars-Steinway,22-05 37th Street,1,1,0,1750.0
+1068,queens,Ditmars-Steinway,22-06 38th Street,1,1,0,1950.0
+1069,queens,Middle Village,62-20 84th Street,1,1,725,1625.0
+1070,queens,Astoria,10 Halletts Point,1,1,0,3575.0
+1071,queens,Forest Hills,105-24 63rd Road MAIN-FL,3,1,0,2450.0
+1072,queens,Rego Park,99-32 66th Rd,0.5,1,400,1450.0
+1073,queens,Rockaway Park,160 Beach 117th Street,0.5,1,0,1550.0
+1074,queens,Long Island City,29-59 Northern Boulevard,1,1,0,4266.0
+1075,queens,Hunters Point,4-75 48th Avenue,1,1,606,3145.0
+1076,queens,Jackson Heights,37-27 86th Street,1,1,800,2050.0
+1077,queens,Long Island City,29-22 Northern Boulevard,1,1,731,3400.0
+1078,queens,Ditmars-Steinway,20-09 38th Street,3,2,0,3300.0
+1079,queens,Rego Park,99-65 64 Road,2,1,0,2499.0
+1080,queens,Jamaica Estates,190-11 Hillside Avenue,1,1,0,2100.0
+1081,queens,Richmond Hill,109-10 Park Lane South,1,1,0,1695.0
+1082,queens,Forest Hills,110-16 72nd Avenue,1,1,0,1850.0
+1083,queens,Ridgewood,363 Onderdonk Avenue,2,2,0,2750.0
+1084,queens,Briarwood,138-28 Queens Boulevard,1,1,750,2500.0
+1085,queens,Jamaica,147-40 Archer Avenue,1,1,0,2450.0
+1086,queens,Elmhurst,54-20 82nd Street,3,1,1100,2650.0
+1087,queens,Ridgewood,1817 Bleecker Street,2,2,0,2400.0
+1088,queens,Astoria,10 Halletts Point,1,1,0,3575.0
+1089,queens,Rego Park,62-81 Woodhaven Boulevard,3,2,1200,2999.0
+1090,queens,Forest Hills,69-39 Yellowston Boulevard,1,1,0,1900.0
+1091,queens,Forest Hills,110-16 72nd Avenue,1,1,0,1850.0
+1092,queens,Hunters Point,47-05 Center Boulevard,0.5,1,517,3000.0
+1093,queens,Hunters Point,47-05 Center Boulevard,1,1,738,4000.0
+1094,queens,Hunters Point,47-05 Center Boulevard,1,1,728,3990.0
+1095,queens,Rego Park,62-54 97 Place,1,1,0,1950.0
+1096,queens,Ridgewood,1886 Woodbine Street,3,1,0,2500.0
+1097,queens,Clearview,15-20 201st Street,0.5,1,575,1695.0
+1098,queens,Long Island City,29-59 Northern Boulevard,1,1,0,4725.0
+1099,queens,New_Dev,31-43 Vernon Boulevard,1,1,720,2850.0
+1100,queens,Ridgewood,63-23 Forest Avenue,3,2,1400,3199.0
+1101,queens,Ditmars-Steinway,20-26 31st Street,1,1,0,2050.0
+1102,queens,Astoria,10 Halletts Point,1,1,0,3375.0
+1103,queens,East Flushing,141-07 Cherry Avenue,2,2,0,2100.0
+1104,queens,Hunters Point,11-43 45th Avenue,1,1,0,2450.0
+1105,queens,Rego Park,85-04 63 Drive,1,1,0,2000.0
+1106,queens,Far Rockaway,20-37 Seagirt Boulevard,1,1,682,1999.0
+1107,queens,Far Rockaway,20-29 Seagirt Boulevard,1,1,696,1899.0
+1108,queens,Woodside,31-21 54th Street,1,1,0,1849.0
+1109,queens,Briarwood,138-28 Queens Boulevard,1,1,600,2350.0
+1110,queens,Briarwood,138-28 Queens Boulevard,1,1,750,2500.0
+1111,queens,Briarwood,138-28 Queens Boulevard,1,1,720,2475.0
+1112,queens,Ridgewood,1823 Palmetto Street,1,1.5,0,2250.0
+1113,queens,Rego Park,61-55 Junction Boulevard,1,1,685,2975.0
+1114,queens,Rego Park,62-60 99th Street,4,2,0,3800.0
+1115,queens,Briarwood,138-28 Queens Boulevard,1,1,830,2525.0
+1116,queens,Rego Park,61-55 Junction Boulevard,1,1,685,3130.0
+1117,queens,Briarwood,138-28 Queens Boulevard,1,1,790,2500.0
+1118,queens,Ditmars-Steinway,71-18 Ditmars Boulevard,3,1,1500,3350.0
+1119,queens,Astoria,31-04 33rd Street,3,1,0,2800.0
+1120,queens,Astoria,25-54 12th Street,2,2,1360,3400.0
+1121,queens,Astoria,30-18 43rd Street,1,1,0,1650.0
+1122,queens,Long Island City,28-18 41st Avenue,1,1,0,1850.0
+1123,queens,Jamaica,108-15 160th Street,1,1,0,2200.0
+1124,queens,Woodside,31-21 54th Street,1,1,750,1899.0
+1125,queens,Woodside,31-21 54th Street,1,1,750,1899.0
+1126,queens,New_Dev,27-19 44th Dr,2,2,1003,5195.0
+1127,queens,Astoria,34-46 Vernon Boulevard,1,1,0,2745.0
+1128,queens,Woodside,31-31 54th Street,2,2,1000,2399.0
+1129,queens,Woodside,59-11 Queens Boulevard,1,4,0,2100.0
+1130,queens,Astoria,10 Halletts Point,1,1,0,3600.0
+1131,queens,Astoria,25-66 33rd Street,3,1,900,2900.0
+1132,queens,Flushing,132-32 41st Avenue,1,1,700,2300.0
+1133,queens,Astoria,25-60 33rd Street,1,1,0,1773.0
+1134,queens,Ridgewood,55-39 Myrtle Avenue,1,1,1100,2550.0
+1135,queens,Ridgewood,60-43 Putnam Avenue,2,1,800,2900.0
+1136,queens,Rego Park,97-11 63 Drive,0.5,1,500,1550.0
+1137,queens,Ditmars-Steinway,19-19 24th Avenue,1,1,1050,2500.0
+1138,queens,Kew Gardens,131-11 Kew Garden Road,2,1.5,1000,2400.0
+1139,queens,Briarwood,82-35 134th Street,1,1,0,1795.0
+1140,queens,Rego Park,97-45 Queens Boulevard,1,1,897,2550.0
+1141,queens,Hunters Point,22-44 Jackson Avenue,1,1,0,3475.0
+1142,queens,Rego Park,97-45 Queens Boulevard,1,1,802,2495.0
+1143,queens,Hunters Point,27-21 44 Drive,1,1,662,3500.0
+1144,queens,Long Island City,29-59 Northern Boulevard,2,2,0,6763.0
+1145,queens,Corona,97-28 57th Avenue,1,1,713,2115.0
+1146,queens,Astoria,31-10 23rd Street,2,2,990,3275.0
+1147,queens,Forest Hills,73-44 Austin Street,2,1,0,2350.0
+1148,queens,Flushing,143-43 41st Avenue,2,1,850,2000.0
+1149,queens,Jackson Heights,37-46 72nd Street PENTHOUSE-F,4,2,0,6000.0
+1150,queens,Bay Terrace (Queens),23-50 Waters Edge Drive,2,2,1200,2650.0
+1151,queens,Hunters Point,4545 Center Boulevard,2,2,0,4995.0
+1152,queens,Ditmars-Steinway,22-28 77th Street,1,1,850,1930.0
+1153,queens,Astoria,23-03 30 Drive,1,1,750,2000.0
+1154,queens,Astoria,34-46 Vernon Boulevard,1,1,0,2699.0
+1155,queens,Rego Park,61-55 Junction Boulevard,1,1,685,2900.0
+1156,queens,Rego Park,62-60 99th Street,4,2,0,3950.0
+1157,queens,Ditmars-Steinway,24-55 Crescent Street,2,1,0,2800.0
+1158,queens,Rego Park,61-55 Junction Boulevard,1,1,700,2900.0
+1159,queens,Far Rockaway,20-38 Seagirt Boulevard,1,1,756,1865.0
+1160,queens,Maspeth,62-07 Eliot Avenue,3,1,0,2399.0
+1161,queens,Sunnyside,47-21 47th Street,3,1,0,3185.0
+1162,queens,Forest Hills,63-10 108th Street,2,1,1031,2450.0
+1163,queens,Hunters Point,4610 Center Boulevard,2,2,0,4795.0
+1164,queens,Ridgewood,59-17 Woodbine Street,3,1,1000,2300.0
+1165,queens,Forest Hills,69-39 Yellowstone Boulevard,2,1,0,2700.0
+1166,queens,Forest Hills,72-72 112th Street,1,1,950,2100.0
+1167,queens,Forest Hills,72-38 113rd Street,2,1,1350,2750.0
+1168,queens,Hunters Point,45-50 Pearson Street,0.5,1,500,2725.0
+1169,queens,Far Rockaway,20-29 Seagirt Boulevard,1,1,696,1899.0
+1170,queens,Rego Park,9850 Horace Harding Expressway,0.5,1,500,1450.0
+1171,queens,New_Dev,31-57 31st Street,1,1,0,3250.0
+1172,queens,Astoria,10 Halletts Point,1,1,0,3575.0
+1173,queens,Forest Hills,104-60 Queens Boulevard,1,1,875,2655.0
+1174,queens,Astoria,10 Halletts Point,1,1,0,3600.0
+1175,queens,Astoria,10 Halletts Point,2,2,0,4455.0
+1176,queens,Forest Hills,104-60 Queens Boulevard,0.5,1,531,2070.0
+1177,queens,Rego Park,62-54 97 Place,2,1.5,1000,2500.0
+1178,queens,Rego Park,64-20 Saunders Street,2,1,942,2395.0
+1179,queens,Astoria,30-44 32nd Street,3,1,0,2750.0
+1180,queens,Long Island City,29-22 Northern Boulevard,1,1,722,3600.0
+1181,queens,Long Island City,29-22 Northern Boulevard,1,1,731,3570.0
+1182,queens,Long Island City,29-22 Northern Boulevard,1,1,731,3400.0
+1183,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+1184,queens,Ditmars-Steinway,21-77 19th Street,1,1,400,1800.0
+1185,queens,Long Island City,36-24 24th Street 2-FLOOR,3,1,1144,2850.0
+1186,queens,Rego Park,61-55 Junction Boulevard,1,1,847,3228.0
+1187,queens,Jackson Heights,37-46 72nd Street,0.5,1,0,2295.0
+1188,queens,Astoria,18-16 26 Road,1,1,0,1800.0
+1189,queens,Astoria,31-22 35th Street,1,1,0,2000.0
+1190,queens,Kew Gardens,82-76 116th Street,1,1,480,1975.0
+1191,queens,Sunnyside,48-55 46th Street,2,1,0,2150.0
+1192,queens,Ditmars-Steinway,23-54 36th Street,2,1,800,2500.0
+1193,queens,Ridgewood,1819 Summerfield Street,0.5,1,625,1650.0
+1194,queens,Maspeth,59-25 71st Street,1,1.5,0,1850.0
+1195,queens,Rego Park,61-55 Junction Boulevard,2,2,1117,4100.0
+1196,queens,Rego Park,61-55 Junction Boulevard,1,1,685,2900.0
+1197,queens,New_Dev,5203 Center Boulevard,2,1,0,4560.0
+1198,queens,Rego Park,61-55 Junction Boulevard,1,1,685,2975.0
+1199,queens,Rego Park,61-55 Junction Boulevard,1,1,709,2752.0
+1200,queens,Rego Park,61-55 Junction Boulevard,0.5,1,520,2395.0
+1201,queens,Rego Park,61-55 Junction Boulevard,2,2,1059,3810.0
+1202,queens,Rego Park,61-55 Junction Boulevard,0.5,1,553,2148.0
+1203,queens,Maspeth,62-22 60th Avenue,2,1.5,0,2200.0
+1204,queens,Ditmars-Steinway,19-19 24th Avenue,1,1,879,2500.0
+1205,queens,Ditmars-Steinway,18-19 21st Avenue,2,1,0,2195.0
+1206,queens,Jamaica,88-50 179th Street,0.5,1,0,1700.0
+1207,queens,Sunnyside,43-06 47th Street,1,1,0,1950.0
+1208,queens,New_Dev,27-19 44th Dr,2,2,985,5075.0
+1209,queens,Ditmars-Steinway,23-58 37th Street,3,1.5,1150,2700.0
+1210,queens,Jamaica,153-30 89th Avenue,0.5,1,584,2150.0
+1211,queens,New_Dev,44-28 Purves Street,0.5,1,430,2990.0
+1212,queens,Long Island City,23-01 41st Avenue,2,1,0,3295.0
+1213,queens,Astoria,30-90 35th Street,1,1,0,1790.0
+1214,queens,Rego Park,61-55 Junction Boulevard,2,2,1059,3925.0
+1215,queens,Forest Hills,68-38 Yellowston Boulevard,2,1,0,2400.0
+1216,queens,Ditmars-Steinway,21-47 35th Street,3,2,1300,3650.0
+1217,queens,Ridgewood,2016 Stanhope Street,2,2,0,2550.0
+1218,queens,Ridgewood,1817 Bleecker Street,2,2,0,2395.0
+1219,queens,Long Island City,36-12 36th Avenue,3,2,0,3175.0
+1220,queens,Forest Hills,61 Summer Street,5,2.5,3800,5895.0
+1221,queens,Forest Hills,119-49 Union Tnpk,2,1,0,2400.0
+1222,queens,Hunters Point,4-75 48th Avenue,2,2,900,6360.0
+1223,queens,Hunters Point,4-75 48th Avenue,1,1,700,4330.0
+1224,queens,Hunters Point,4-75 48th Avenue,0.5,1,550,3145.0
+1225,queens,New_Dev,43-22 Queens Street,1,1,0,4440.0
+1226,queens,Hunters Point,42-10 27th Street,1,1,650,4560.0
+1227,queens,Hunters Point,4-75 48th Avenue,2,2,1037,5140.0
+1228,queens,Rego Park,61-55 Junction Boulevard,1,1,700,2900.0
+1229,queens,Ridgewood,59-15 Woodbine Street,2,1,1200,2100.0
+1230,queens,Flushing,131-05 40 Road,1,1,886,2950.0
+1231,queens,Woodside,39-55 64th Street,2,1,0,2350.0
+1232,queens,Ditmars-Steinway,21-43 29th Street,1,1,650,1875.0
+1233,queens,Sunnyside,41-35 45th Street,1,1,0,1850.0
+1234,queens,Astoria,31-60 33rd Street,0.5,1,0,1700.0
+1235,queens,Woodhaven,75-11 97th Avenue,2,1,1000,2100.0
+1236,queens,Ridgewood,1823 Palmetto Street,1,1.5,0,2250.0
+1237,queens,New_Dev,152-11 89th Avenue,0.5,1,0,2150.0
+1238,queens,Hunters Point,4-75 48th Avenue,1,1,684,3310.0
+1239,queens,Astoria,10 Halletts Point,2,2,0,4523.0
+1240,queens,Astoria,27-37 27th Street,1,1.5,0,2500.0
+1241,queens,Elmhurst,41-57 75th Street,1,1,0,1650.0
+1242,queens,Astoria,10 Halletts Point,1,1,0,3575.0
+1243,queens,Hunters Point,26-26 Jackson Avenue,2,2,1190,6000.0
+1244,queens,Glendale,71-43 Central Avenue,2,1,0,2195.0
+1245,queens,Elmhurst,86-04 Grand Avenue,1,1,650,1850.0
+1246,queens,Astoria,28-20 Astoria Boulevard,1,1,0,3350.0
+1247,queens,Astoria,32-02 47th Street,1,1,0,1999.0
+1248,queens,Woodhaven,97-53 94th Street,2,1,0,2650.0
+1249,queens,Woodhaven,97-53 94th Street,2,1,0,2500.0
+1250,queens,Forest Hills,107-19 70th Avenue,1,1,0,1970.0
+1251,queens,Elmhurst,80-20 Broadway,3,1,750,2350.0
+1252,queens,Elmhurst,83-02 Cornish Avenue,1,1,0,1775.0
+1253,queens,Jamaica,147-40 Archer Avenue,3,2,0,4000.0
+1254,queens,Astoria,30-65 34th Street,2,1,0,2500.0
+1255,queens,Astoria,25-26 35th Street,2,1,950,2300.0
+1256,queens,New_Dev,27-19 44th Dr,2,2,1003,5195.0
+1257,queens,Hillcrest,65-31 170th Street,3,1,960,2300.0
+1258,queens,Old Howard Beach,158-49 97th Street,2,1,0,2300.0
+1259,queens,South Ozone Park,129-12 134th Street,4,2,0,3000.0
+1260,queens,Sunnyside,45-46 50th Street,3,1,0,2700.0
+1261,queens,Astoria,31-47 33rd Street,2,1,0,2200.0
+1262,queens,Ditmars-Steinway,20-09 38th Street,3,2,0,3250.0
+1263,queens,Elmhurst,94-25 57th Avenue,2,1,818,2399.0
+1264,queens,New_Dev,44-28 Purves Street,1,1,0,4695.0
+1265,queens,New_Dev,37-10 Crescent Street,0.5,2,600,4199.0
+1266,queens,Rego Park,61-55 Junction Boulevard,1,1,847,3228.0
+1267,queens,Long Island City,29-59 Northern Boulevard,1,1,0,4266.0
+1268,queens,Forest Hills,110-23 72 Road,0.5,1,550,1625.0
+1269,queens,Forest Hills,67-40 Booth Street,2,1,0,2350.0
+1270,queens,Rego Park,61-55 Junction Boulevard,2,2,1049,3995.0
+1271,queens,Ridgewood,59-27 Woodbine Street,1,1,0,2100.0
+1272,queens,Rego Park,65-65 Booth Street,2,1,1100,2500.0
+1273,queens,Sunnyside,44-08 47th Avenue,1,1,0,1800.0
+1274,queens,Forest Hills,109-15 72 Road,1,1,0,2495.0
+1275,queens,Hunters Point,46-20 11th Street,1,1,702,3495.0
+1276,queens,Kew Gardens,84-70 129th Street,1,1,650,1650.0
+1277,queens,Astoria,31-12 31st Street,3,1.5,1200,2899.0
+1278,queens,Ditmars-Steinway,41-14 20th Avenue,2,1,0,2200.0
+1279,queens,South Ozone Park,149-38 117th Street,3,2,0,2550.0
+1280,queens,Forest Hills,104-60 Queens Boulevard,1,1,841,2665.0
+1281,queens,Corona,96-08 57th Avenue,1,1,718,2082.0
+1282,queens,Flushing,139-09 34 Road,2,1,0,2199.0
+1283,queens,Flushing,139-12 34 Road,1,1,0,1775.0
+1284,queens,Hunters Point,43-10 Crescent Street,1,1,626,4184.0
+1285,queens,Rego Park,66-59 Saunders Street,1,1,0,1800.0
+1286,queens,Briarwood,82-45 135th Street,1,1,725,1765.0
+1287,queens,Ridgewood,20-19 Himrod Street,4,1.5,0,3195.0
+1288,queens,Sunnyside,40-18 Greenpoint Avenue,2,1,0,2500.0
+1289,queens,Astoria,10 Halletts Point,2,2,0,4523.0
+1290,queens,Hunters Point,27-21 44 Drive,2,2,930,4500.0
+1291,queens,Astoria,30-13 14th Street,1,1,0,1750.0
+1292,queens,Sunnyside,43-38 44th Street,2,1,900,3200.0
+1293,queens,Flushing,25-43 150th Street,2,1,880,2000.0
+1294,queens,Long Island City,29-22 Northern Boulevard,2,2,1168,5575.0
+1295,queens,Elmhurst,83-02 Cornish Avenue,1,1,0,1775.0
+1296,queens,Astoria,30-24 23rd Street,2,1,750,2500.0
+1297,queens,New_Dev,152-11 89th Avenue,1,1,0,2550.0
+1298,queens,Rego Park,61-55 Junction Boulevard,1,1,685,3130.0
+1299,queens,Woodside,48-45 58 Lane,1,1,0,1775.0
+1300,queens,South Jamaica,142-58 Rockaway Boulevard,2,1,750,2199.0
+1301,queens,Sunnyside,48-50 38th Street,1,1,836,2295.0
+1302,queens,Rego Park,97-45 Queens Boulevard,1,1,897,2525.0
+1303,queens,Rego Park,97-45 Queens Boulevard,1,1,897,2550.0
+1304,queens,Flushing,44-35 Colden Street,2,1,898,2225.0
+1305,queens,New_Dev,152-11 89th Avenue,2,2,0,2723.0
+1306,queens,New_Dev,152-11 89th Avenue,3,3,0,3992.0
+1307,queens,New_Dev,152-11 89th Avenue,3,3,0,3992.0
+1308,queens,Jamaica,147-40 Archer Avenue,1,1,0,2550.0
+1309,queens,Astoria,34-46 Vernon Boulevard,2,2,0,4354.0
+1310,queens,Ditmars-Steinway,22-49 37th Street,2,1,0,2400.0
+1311,queens,New_Dev,152-11 89th Avenue,0.5,1,0,1925.0
+1312,queens,New_Dev,27-19 44th Dr,0.5,1,443,2895.0
+1313,queens,Maspeth,66-26 52nd Avenue,3,2,1100,2600.0
+1314,queens,Ditmars-Steinway,22-55 41st Street,2,1,0,2850.0
+1315,queens,Far Rockaway,20-35 Seagirt Boulevard,1,1,685,1999.0
+1316,queens,Far Rockaway,20-38 Seagirt Boulevard,1,1,676,1899.0
+1317,queens,Forest Hills,105-10 65 Road,1,1,750,1900.0
+1318,queens,Forest Hills,118-17 Union Tnpk,1,1,0,2000.0
+1319,queens,Astoria,34-20 32nd Street,1,1,0,1850.0
+1320,queens,New_Dev,3 Court Square,2,2,0,5700.0
+1321,queens,Forest Hills,63-09 108th Street,0.5,1,0,1450.0
+1322,queens,Hunters Point,45-50 Pearson Street,0.5,1,500,2725.0
+1323,queens,Ditmars-Steinway,24-55 Crescent Street,2,1,0,2800.0
+1324,queens,Ridgewood,17-03 Stanhope Street,2,1,0,2100.0
+1325,queens,Kew Gardens Hills,150-38 Union Tnpk,0.5,1,650,1500.0
+1326,queens,Rego Park,61-55 Junction Boulevard,1,1,650,2795.0
+1327,queens,Forest Hills,85 Burns Street,2,1,0,3495.0
+1328,queens,Maspeth,70-08 58 Road,2,1,0,2199.0
+1329,queens,Rosedale,149-65 254th Street,3,1,0,2800.0
+1330,queens,Hunters Point,47-05 Center Boulevard,1,1,774,4000.0
+1331,queens,Glendale,72-53 60 Lane,4,2,0,3100.0
+1332,queens,New_Dev,37-10 Crescent Street,3,2,800,5345.0
+1333,queens,Murray Hill (Queens),144-24 37th Avenue,1,1,900,1900.0
+1334,queens,Woodside,41-53 53rd Street,2,1,0,2200.0
+1335,queens,Elmhurst,42-36 82nd Street,2,2,0,2450.0
+1336,queens,Far Rockaway,20-38 Seagirt Boulevard,1,1,756,1865.0
+1337,queens,Briarwood,138-28 Queens Boulevard,1,1,830,2525.0
+1338,queens,Astoria,34-38 41st Street,1,1,0,2245.0
+1339,queens,Long Island City,29-11 Queens Plaza North,1,1,0,2999.0
+1340,queens,Rego Park,61-55 Junction Boulevard,1,1,700,2900.0
+1341,queens,Hunters Point,57-28 2nd Street,0.5,1,0,1643.0
+1342,queens,New_Dev,27-19 44th Dr,0.5,1,443,2895.0
+1343,queens,Hunters Point,57-28 2nd Street,2,1,0,2467.0
+1344,queens,Hunters Point,57-28 2nd Street,3,2,0,2841.0
+1345,queens,Hunters Point,57-28 2nd Street,1,1,0,2060.0
+1346,queens,Astoria,25-87 45th Street,2,1,0,2020.0
+1347,queens,Rego Park,66-59 Saunders Street,1,1,0,1800.0
+1348,queens,Forest Hills,68-41 Fleet Street,3,3.5,0,4500.0
+1349,queens,Hunters Point,2-17 51st Avenue,2,2,1281,5750.0
+1350,queens,Rego Park,61-55 Junction Boulevard,2,2,964,3550.0
+1351,queens,Astoria,10 Halletts Point,1,1,0,3260.0
+1352,queens,Long Island City,41-32 27th Street,1,1,0,3275.0
+1353,queens,New_Dev,27-19 44th Drive,2,2,1003,5080.0
+1354,queens,Rego Park,61-55 Junction Boulevard,1,1,685,2975.0
+1355,queens,Sunnyside,41-27 49th Street,2,1,0,2500.0
+1356,queens,Astoria,34-06 43rd Street,2,1,0,1975.0
+1357,queens,Bayside,47-38 215th Street,2,1,0,2200.0
+1358,queens,Rego Park,68-30 Alderton Street,2,1,800,2475.0
+1359,queens,Rego Park,87-30 62nd Avenue,0.5,1,0,1600.0
+1360,queens,Sunnyside,48-50 41st Street,3,2,0,3483.0
+1361,queens,Ditmars-Steinway,21-15 33rd Street,2,1,0,2500.0
+1362,queens,Flushing,143-45 Sanford Avenue,0.5,1,0,1650.0
+1363,queens,Ditmars-Steinway,22-29 79th Street,1,1,0,1800.0
+1364,queens,Bay Terrace (Queens),212-78 16th Avenue,1,1,700,1800.0
+1365,queens,Forest Hills,95-17 68th Avenue,3,2,1500,3850.0
+1366,queens,New_Dev,44-41 Purves Street,3,2,0,5800.0
+1367,queens,New_Dev,44-41 Purves Street,2,2,0,5369.0
+1368,queens,New_Dev,27-19 44th Dr,2,2,985,5075.0
+1369,queens,Astoria,31-11 Crescent Street,0.5,1,450,1995.0
+1370,queens,Forest Hills,70-25 Yellowstone Boulevard,0.5,1,0,1795.0
+1371,queens,Woodside,41-30 66th Street,1,1,0,2500.0
+1372,queens,Maspeth,57-19 64th Street,2,1,0,1650.0
+1373,queens,Rego Park,64-85 Booth Street,0.5,1,0,1675.0
+1374,queens,Elmhurst,86-11 Whitney Avenue,0.5,1,0,1750.0
+1375,queens,Astoria,32-23 48th Street,2,1,1000,2075.0
+1376,queens,Bay Terrace (Queens),214-03 18th Avenue,0.5,1,750,2500.0
+1377,queens,Forest Hills,111-10 76 Road,2,2,1450,2800.0
+1378,queens,Astoria,10 Halletts Point,1,1,0,3575.0
+1379,queens,Far Rockaway,20-35 Seagirt Boulevard,1,1,685,1999.0
+1380,queens,Little Neck,254-01 Pembroke Avenue,3,1,0,2795.0
+1381,queens,Sunnyside,41-15 51st Street,1,1,0,1849.0
+1382,queens,Rego Park,61-55 Junction Boulevard,2,2,1080,3850.0
+1383,queens,Kew Gardens Hills,75-25 153rd Street,2,1,0,2599.0
+1384,queens,Ridgewood,1670 George Street,2,1,0,1900.0
+1385,queens,New_Dev,3 Court Square,2,2,969,5500.0
+1386,queens,Rego Park,61-55 Junction Boulevard,2,2,1080,3850.0
+1387,queens,Rego Park,61-55 Junction Boulevard,1,1,765,3039.0
+1388,queens,Sunnyside,45-23 43rd Street,1,1,900,2200.0
+1389,queens,Elmhurst,56-11 94th Street,2,2,1150,2850.0
+1390,queens,Briarwood,142-35 84 Drive,1,1,0,1750.0
+1391,queens,Glendale,87-48 81st Avenue,3,1,1100,2200.0
+1392,queens,Far Rockaway,20-10 Seagirt Boulevard,0.5,1,362,1625.0
+1393,queens,Astoria,10 Halletts Point,1,1,0,3600.0
+1394,queens,Briarwood,140-21 Burden Crescent,1,1,0,1750.0
+1395,queens,Woodhaven,86-15 Rockaway Boulevard,0.5,0.5,2300,4500.0
+1396,queens,Long Island City,29-59 Northern Boulevard,1,1,0,4266.0
+1397,queens,Forest Hills,105-34 65th Avenue,0.5,1,0,1400.0
+1398,queens,Forest Hills,14 Beechknoll Road,3,2,2500,4800.0
+1399,queens,Sunnyside,47-15 48th Avenue,2,1,0,2300.0
+1400,queens,Forest Hills,104-40 Queens Boulevard,2,1,940,2950.0
+1401,queens,Sunnyside,50-11 Queens Boulevard,2,2,0,3500.0
+1402,queens,Astoria,43-18 25th Avenue,3,1,0,3450.0
+1403,queens,Astoria,43-18 25th Avenue,2,1,0,2750.0
+1404,queens,East Elmhurst,23-31 94th Street,0.5,1,300,1350.0
+1405,queens,Astoria,30-60 48th Street,0.5,1,0,1675.0
+1406,queens,Hunters Point,43-10 Crescent Street,0.5,1,591,3019.0
+1407,queens,Jamaica,147-40 Archer Avenue,0.5,1,0,2055.0
+1408,queens,Forest Hills,102-10 Queens Boulevard,1,1,850,2375.0
+1409,queens,Rego Park,66-02 Austin Street,2,1,0,2061.0
+1410,queens,Long Island City,29-59 Northern Boulevard,2,1,0,5891.0
+1411,queens,Forest Hills,109-15 Queens Boulevard,1,1,0,2100.0
+1412,queens,Ridgewood,2031 Palmetto Street,3,2,900,3200.0
+1413,queens,Kew Gardens,123-14 83rd Avenue,1,1,0,1850.0
+1414,queens,Douglaston,203 Arleigh Road,4,3.5,3232,7500.0
+1415,queens,Kew Gardens,116-40 Parklane South,1,1,0,1785.0
+1416,queens,Fresh Meadows,71-19 162nd Street,3,2,1450,3200.0
+1417,queens,Hammels,311 Beach 87th Street,3,2,1400,3400.0
+1418,queens,Astoria,21-85 34th Avenue,1,1,0,1700.0
+1419,queens,Jackson Heights,95-05 35th Avenue,1,1,0,1900.0
+1420,queens,Kew Gardens,123-33 83rd Avenue,1,1,0,2300.0
+1421,queens,Ridgewood,2034 Himrod Street,2,1,1000,2650.0
+1422,queens,Hunters Point,2-14 50th Avenue,1,1,0,3795.0
+1423,queens,Forest Hills,150 Greenway Terrace,2,1,0,3295.0
+1424,queens,Hunters Point,43-10 Crescent Street,1,1,626,4184.0
+1425,queens,Ridgewood,1702 Woodbine Street,2,1,0,2650.0
+1426,queens,Kew Gardens,118-82 Metropolitan Avenue,2,2,0,2499.0
+1427,queens,Woodside,39-47 59th Street,0.5,1,0,1500.0
+1428,queens,Hunters Point,11-51 44 Drive,2,2,1100,3600.0
+1429,queens,Astoria,30-24 23rd Street,2,1,0,2500.0
+1430,queens,New_Dev,26-38 21st Street,1,1,0,2850.0
+1431,queens,Rockaway All,138 Beach 125th Street,1,1,700,1995.0
+1432,queens,Astoria,30-79 31st Street,1,1,0,2300.0
+1433,queens,Forest Hills,111-45 76th Avenue,0.5,1,0,1550.0
+1434,queens,Long Island City,29-11 Queens Plaza North,1,1,0,3425.0
+1435,queens,Hunters Point,43-10 Crescent Street,0.5,1,591,3019.0
+1436,queens,East Flushing,40-06 193rd Street,2,1,0,2200.0
+1437,queens,Ridgewood,1741 Norman Street,2,1,0,2500.0
+1438,queens,Rego Park,61-55 Junction Boulevard,1,1,847,3355.0
+1439,queens,Elmhurst,41-58 74th Street,2,1,0,1800.0
+1440,queens,Astoria,26-02 Fourth Street PENTHOUSEC,2,2,0,4000.0
+1441,queens,Astoria,24-43 47th Street,4,2,1300,3600.0
+1442,queens,Hammels,7305 Lighthouse Drive,3,2.5,1350,3100.0
+1443,queens,Ridgewood,1722 Greene Avenue,4,1.5,0,3399.0
+1444,queens,Astoria,11-08 31 Drive,1,1,720,2819.0
+1445,queens,Hammels,73-11 Arverne Mews Drive,3,2,1260,3200.0
+1446,queens,Woodhaven,97-53 94th Street,1,1,0,2500.0
+1447,queens,Astoria,31-50 33rd Street,2,1,0,2295.0
