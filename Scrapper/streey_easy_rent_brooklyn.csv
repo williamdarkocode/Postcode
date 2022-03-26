@@ -1,0 +1,2755 @@
+,Borough,Area,Address,Num_Beds,Num_Baths,Sq-Ft,Rent
+0,brooklyn,Prospect Lefferts Gardens,620 Parkside Avenue,3,1,0,3100.0
+1,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+2,brooklyn,Greenpoint,131 Mc Guinness Boulevard,4,2,1200,3999.0
+3,brooklyn,Bensonhurst,1651 84th Street,2,1,600,1650.0
+4,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+5,brooklyn,East Flatbush,3420 Clarendon Road,1,1,0,1600.0
+6,brooklyn,Crown Heights,1020 President Street,2,1,0,2850.0
+7,brooklyn,Bushwick,176 Suydam Street,2,2,850,2300.0
+8,brooklyn,Canarsie,1289 East 93rd Street,2,0,0,2100.0
+9,brooklyn,Windsor Terrace,467 16th Street,2,1,800,3800.0
+10,brooklyn,East New York,311 Etna Street,1,1,0,1650.0
+11,brooklyn,Stuyvesant Heights,833 Monroe Street,2,1,0,2800.0
+12,brooklyn,Crown Heights,1337 Bergen Street,2,1.5,1500,3395.0
+13,brooklyn,New_Dev,824 East New York Avenue,1,1,0,2350.0
+14,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+15,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+16,brooklyn,Crown Heights,1083 Dean Street,2,2,1100,3200.0
+17,brooklyn,Crown Heights,298 New York Avenue,1,1,850,2400.0
+18,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+19,brooklyn,East Williamsburg,15 Judge Street,1,1,0,3950.0
+20,brooklyn,Park Slope,441 16th Street,1,1,0,1950.0
+21,brooklyn,Park Slope,343 Fourth Avenue,1,1,762,3500.0
+22,brooklyn,Greenwood,145 17th Street,2,1,0,2499.0
+23,brooklyn,Midwood,1608 Ocean Parkway,2,1,1300,2550.0
+24,brooklyn,Bushwick,53 Stanhope Street,3,2,1700,4199.0
+25,brooklyn,Greenpoint,100 Engert Avenue,1,1,752,3750.0
+26,brooklyn,East Williamsburg,245 Skillman Avenue,3,2,1200,4000.0
+27,brooklyn,Canarsie,738 Snediker Avenue,2,1,0,2000.0
+28,brooklyn,Bushwick,286 Stanhope Street,3,1,0,3272.0
+29,brooklyn,Stuyvesant Heights,427 Pulaski Street,3,2,0,3250.0
+30,brooklyn,Brownsville,1039 Rutland Road,3,1,0,2400.0
+31,brooklyn,Williamsburg,65 Scholes Street,3,2,1500,4995.0
+32,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+33,brooklyn,Bushwick,54 Noll Street,1,1,0,3100.0
+34,brooklyn,Brownsville,1039 Rutland Road,3,2,0,2500.0
+35,brooklyn,Prospect Lefferts Gardens,115 Ocean Avenue,2,2,0,3065.0
+36,brooklyn,Bushwick,124 Linden Street,2,1,0,2781.0
+37,brooklyn,Midwood,225 Avenue M,3,2,1300,4300.0
+38,brooklyn,Old Mill Basin,2065 East 57th Street,1,1,0,1500.0
+39,brooklyn,Bushwick,618 Bushwick Avenue,2,1,0,3599.0
+40,brooklyn,Fort Greene,475 Clermont Avenue,2,2,864,5778.0
+41,brooklyn,Flatbush,120 Erasmus Street,1,1,0,2275.0
+42,brooklyn,Bushwick,668 Bushwick Avenue,3,2,0,4201.0
+43,brooklyn,Flatbush,2324 Clarendon Road,3,2,0,3050.0
+44,brooklyn,Bushwick,32 Starr Street,1,2,0,3100.0
+45,brooklyn,Bedford-Stuyvesant,596 Myrtle Avenue,1,1,0,2999.0
+46,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+47,brooklyn,Midwood,225 Avenue M,3,2,1300,3800.0
+48,brooklyn,Williamsburg,104 South Second Street,2,1,900,4250.0
+49,brooklyn,East Williamsburg,247 Johnson Avenue,1,1,0,2250.0
+50,brooklyn,Williamsburg,225 Maujer Street,1,1,0,3000.0
+51,brooklyn,Flatbush,2733 Snyder Avenue,1,1,0,2100.0
+52,brooklyn,Crown Heights,787 Franklin Avenue,3,1.5,0,4200.0
+53,brooklyn,Greenpoint,344 Mc Guinness Boulevard,3,1.5,0,3990.0
+54,brooklyn,Ocean Hill,16 Gunther Place,3,1,0,3000.0
+55,brooklyn,Bay Ridge,354 Bayridge Parkway,1,1,0,1895.0
+56,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+57,brooklyn,Bushwick,115 Stanwix Street,2,1,0,3800.0
+58,brooklyn,Williamsburg,358 Broadway,1,1,0,2699.0
+59,brooklyn,Bushwick,238 Stockholm Street,3,1.5,0,3100.0
+60,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+61,brooklyn,Ocean Hill,739 Decatur Street,4,2,1207,3950.0
+62,brooklyn,Borough Park,4109 Ninth Avenue,1,1,750,1650.0
+63,brooklyn,Ocean Hill,16 Gunther Place,3,1,0,2850.0
+64,brooklyn,Brooklyn Heights,12 Pineapple Street,2,1,0,3325.0
+65,brooklyn,Stuyvesant Heights,182 Bainbridge Street,1,1,0,2800.0
+66,brooklyn,Flatbush,2114 Caton Avenue,1,1,0,1800.0
+67,brooklyn,New_Dev,98 Front Street,1,1,0,4300.0
+68,brooklyn,Bushwick,211 Knickerbocker Avenue,2,1,0,2700.0
+69,brooklyn,Columbia St Waterfront District,108 Baltic Street,2,1,0,2500.0
+70,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+71,brooklyn,Bushwick,115 Stanwix Street,2,1,0,3800.0
+72,brooklyn,Williamsburg,184 Kent Avenue,1,1,0,4500.0
+73,brooklyn,Kensington,470 Ocean Parkway,1,1,0,1750.0
+74,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+75,brooklyn,East Flatbush,2021 East 41st Street,3,1,0,2600.0
+76,brooklyn,Bensonhurst,1401 66th Street,2,1,800,1900.0
+77,brooklyn,Bushwick,1095 Putnam Avenue,6,2,0,6000.0
+78,brooklyn,East Flatbush,977 East 34th Street,3,2,0,2999.0
+79,brooklyn,New_Dev,1 Blue Slip,1,1,0,5055.0
+80,brooklyn,Greenpoint,2 Blue Slip,2,2,0,7870.0
+81,brooklyn,Gravesend,2354 West Street,2,1,0,2199.0
+82,brooklyn,Greenwood,732 Fourth Avenue,3,2.5,1100,4000.0
+83,brooklyn,Flatbush,2514 Cortelyou Road,2,1,0,2229.0
+84,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+85,brooklyn,Stuyvesant Heights,788 Madison Street,2,1,0,2630.0
+86,brooklyn,Borough Park,938 54th Street,1,1,750,1600.0
+87,brooklyn,Bushwick,290 Harman Street,2,1,0,2944.0
+88,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+89,brooklyn,Crown Heights,195 Sullivan Place,1,1,0,2375.0
+90,brooklyn,Canarsie,962 East 106th Street,2,1,0,2200.0
+91,brooklyn,Stuyvesant Heights,61 Malcolm X Boulevard,3,3,0,3300.0
+92,brooklyn,Midwood,1554 Ocean Avenue,1,1,775,1600.0
+93,brooklyn,Brighton Beach,40 Shore Boulevard,1,1,725,2015.0
+94,brooklyn,Clinton Hill,1005 Atlantic Avenue,2,1,0,3348.0
+95,brooklyn,Flatbush,2009 Nostrand Avenue,2,1,0,2499.0
+96,brooklyn,Kensington,665 Ocean Parkway,2,1,0,1995.0
+97,brooklyn,Bedford-Stuyvesant,587 Greene Avenue,2,1.5,0,3000.0
+98,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+99,brooklyn,Ocean Hill,9 Pleasant Place,3,1,1000,2575.0
+100,brooklyn,Flatbush,2524 Albemarle Road,1,1,0,2300.0
+101,brooklyn,Greenpoint,592 Manhattan Avenue,3,2,0,4500.0
+102,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+103,brooklyn,Kensington,465 East Seventh Street,1,1,800,1775.0
+104,brooklyn,Ditmas Park,401 East 23rd Street,2,1,0,2499.0
+105,brooklyn,Weeksville,1497 Prospect Place,2,1,0,2200.0
+106,brooklyn,Marine Park,3922 Fillmore Avenue,2,1,800,1500.0
+107,brooklyn,Bushwick,113 Saint Nicholas's Avenue,4,2,1800,3800.0
+108,brooklyn,Downtown Brooklyn,196 Willoughby Street,1,1,0,4900.0
+109,brooklyn,Kensington,315 Ocean Parkway,2,1,950,2550.0
+110,brooklyn,Bedford-Stuyvesant,837 Bedford Avenue,1,1,0,2250.0
+111,brooklyn,Flatbush,2009 Nostrand Avenue,3,1,0,2900.0
+112,brooklyn,Flatbush,1620 New York Avenue,2,2,1500,4216.0
+113,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+114,brooklyn,Canarsie,573 East 93rd Street,2,1,900,2100.0
+115,brooklyn,Homecrest,1672 East 22nd Street,2,2,1200,2500.0
+116,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+117,brooklyn,Crown Heights,263 Brooklyn Avenue,2,1,1000,3000.0
+118,brooklyn,Downtown Brooklyn,196 Willoughby Street,1,1,0,5100.0
+119,brooklyn,Bushwick,621 Bushwick Avenue,2,1,0,3272.0
+120,brooklyn,Carroll Gardens,399 Smith Street,0.5,1,0,2200.0
+121,brooklyn,Crown Heights,788 Nostrand Avenue,2,1,900,2500.0
+122,brooklyn,Bedford-Stuyvesant,277 Halsey Street,4,1.5,0,3400.0
+123,brooklyn,Bedford-Stuyvesant,276 Halsey Street,4,2,0,3700.0
+124,brooklyn,Williamsburg,69 Ten Eyck Street,2,1,0,3800.0
+125,brooklyn,Fort Hamilton,9602 Fourth Avenue,0.5,1,0,1400.0
+126,brooklyn,Flatbush,1626 New York Avenue,3,2,1500,4300.0
+127,brooklyn,DUMBO,100 Jay Street,1,1,0,4495.0
+128,brooklyn,Bedford-Stuyvesant,640 Lafayette Avenue,1,1,0,2300.0
+129,brooklyn,Williamsburg,138 South 4th Street,0.5,1,0,3277.0
+130,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+131,brooklyn,Flatbush,210 Linden Boulevard,1,1,0,2500.0
+132,brooklyn,Clinton Hill,509 Myrtle Avenue,2,1,0,3800.0
+133,brooklyn,Williamsburg,146 South 4th Street,1,1,0,4197.0
+134,brooklyn,Clinton Hill,490 Myrtle Avenue,0.5,1,0,2600.0
+135,brooklyn,Weeksville,1756 Bergen Street,3,2,0,2650.0
+136,brooklyn,Downtown Brooklyn,110 Livingston Street,1,1,0,4395.0
+137,brooklyn,Stuyvesant Heights,458 Pulaski Street,3,1.5,0,3495.0
+138,brooklyn,Bushwick,907 Broadway,3,1.5,0,3200.0
+139,brooklyn,Bedford-Stuyvesant,113 Macdonough Street,2,1,0,2500.0
+140,brooklyn,Flatbush,1620 New York Avenue,2,2,1500,4216.0
+141,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+142,brooklyn,Bushwick,1200 Decatur Street,1,1,0,2995.0
+143,brooklyn,Williamsburg,152 Manhattan Avenue,2,1,0,3600.0
+144,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+145,brooklyn,Midwood,1819 Avenue L,1,1,716,1650.0
+146,brooklyn,Prospect Park South,123 Parkside Avenue,1,1,827,3450.0
+147,brooklyn,Sunset Park,5605 Eighth Avenue,4,1,0,2600.0
+148,brooklyn,Boerum Hill,268 Dean Street,0.5,1,0,1100.0
+149,brooklyn,Greenpoint,26 West Street,0.5,1,0,2792.0
+150,brooklyn,Ditmas Park,12 Matthews Court,2,2,1100,3500.0
+151,brooklyn,Bushwick,345 Eldert Street,0.5,1,0,2250.0
+152,brooklyn,Bath Beach,8635 21st Avenue,1,1,0,1850.0
+153,brooklyn,New_Dev,1510 Gates Avenue,2,1,0,4400.0
+154,brooklyn,East Flatbush,1369 East 49th Street,2,1,1000,2200.0
+155,brooklyn,Bushwick,115 Stanwix Street,3,2,0,5500.0
+156,brooklyn,Bath Beach,8635 21st Avenue,0.5,1,0,1595.0
+157,brooklyn,Bushwick,426 Menahan Street,5,2,0,4000.0
+158,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+159,brooklyn,Flatbush,39 East 21st Street,0.5,1,0,2690.0
+160,brooklyn,Bushwick,114 Woodbine Street,2,1,0,2450.0
+161,brooklyn,Midwood,1122 Chestnut Avenue,2,1,900,2284.0
+162,brooklyn,Bushwick,1633 Dekalb Avenue,3,1.5,0,3200.0
+163,brooklyn,Bedford-Stuyvesant,154 Herkimer Street,2,1,1540,2500.0
+164,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+165,brooklyn,Prospect Heights,461 Dean Street,0.5,1,440,3075.0
+166,brooklyn,Prospect Heights,461 Dean Street,1,1,689,4195.0
+167,brooklyn,East Williamsburg,20 Division Place,2,1,0,2800.0
+168,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+169,brooklyn,East Williamsburg,250 Moore Street,0.5,1,1000,3500.0
+170,brooklyn,Red Hook,164 Dikeman Street,2,1,0,2995.0
+171,brooklyn,Bushwick,92 Harman Street,3,1,0,2999.0
+172,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+173,brooklyn,Bushwick,97 Himrod Street,3,1.5,0,2900.0
+174,brooklyn,Prospect Heights,195 Underhill Avenue,0.5,1,0,2209.0
+175,brooklyn,Boerum Hill,372 Baltic Street,2,1,0,3375.0
+176,brooklyn,Flatbush,570 East 26th Street,0.5,1,0,1495.0
+177,brooklyn,Flatbush,1622 New York Avenue,3,2,0,4200.0
+178,brooklyn,Crown Heights,396 Prospect Place,1,1,0,2400.0
+179,brooklyn,Borough Park,1115 63rd Street,1,1,0,1575.0
+180,brooklyn,Williamsburg,239 North 9th Street,0.5,1,452,3708.0
+181,brooklyn,Stuyvesant Heights,967 Greene Avenue,4,3,2588,8000.0
+182,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+183,brooklyn,Prospect Lefferts Gardens,396 Lefferts Avenue,3,3,1921,4700.0
+184,brooklyn,Downtown Brooklyn,150 Myrtle Avenue,1,1,738,3700.0
+185,brooklyn,Windsor Terrace,567 17th Street,2,1,0,2900.0
+186,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+187,brooklyn,Bay Ridge,6730 Fifth Avenue,3,1,0,2500.0
+188,brooklyn,Stuyvesant Heights,962 Greene Avenue,1,1,0,2500.0
+189,brooklyn,Stuyvesant Heights,1875 Atlantic Avenue,2,1,0,2550.0
+190,brooklyn,Bushwick,175 Palmetto Street,4,2,0,4500.0
+191,brooklyn,East Flatbush,1632 Brooklyn Avenue,2,2,0,2799.0
+192,brooklyn,Williamsburg,212 N 9th Street,1,1,671,4950.0
+193,brooklyn,Downtown Brooklyn,96 Schermerhn Street,2,1.5,0,6495.0
+194,brooklyn,Downtown Brooklyn,250 Gold Street,1,1,0,3900.0
+195,brooklyn,Flatbush,2510 Bedford Avenue,1,1,0,2299.0
+196,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+197,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+198,brooklyn,Bushwick,412 Suydam Street,3,2,0,4000.0
+199,brooklyn,Bushwick,842 Flushing Avenue,3,2,0,3900.0
+200,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+201,brooklyn,Williamsburg,297 Broadway,4,2,0,6000.0
+202,brooklyn,Bushwick,277 Menahan Street,4,1.5,0,3499.0
+203,brooklyn,Crown Heights,2175 Bergen Street,3,2,0,3000.0
+204,brooklyn,Williamsburg,209 Montrose Avenue,4,2,0,6750.0
+205,brooklyn,Prospect Heights,662 Pacific Street,1,1,0,3815.0
+206,brooklyn,Brighton Beach,2750 East 12th Street,0.5,1,0,1500.0
+207,brooklyn,Brighton Beach,2750 East 12th Street,2,2,0,2600.0
+208,brooklyn,Brighton Beach,1125 Banner Avenue,1,1,0,2000.0
+209,brooklyn,New_Dev,1704 Ocean Avenue,2,2,0,2904.0
+210,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+211,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+212,brooklyn,Downtown Brooklyn,250 Gold Street,2,1,0,4650.0
+213,brooklyn,Bushwick,412 Suydam Street,3,2.5,0,4750.0
+214,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+215,brooklyn,Bushwick,115 Stanwix Street,2,2,0,3800.0
+216,brooklyn,New_Dev,1704 Ocean Avenue,1,1,0,2290.0
+217,brooklyn,Bedford-Stuyvesant,591 Willoughby Avenue,2,1,900,2950.0
+218,brooklyn,Bushwick,233 Weirfield Street,1,1,0,2550.0
+219,brooklyn,Bushwick,115 Stanwix Street,1,1,0,3500.0
+220,brooklyn,Brighton Beach,2750 East 12th Street,2,2,0,3800.0
+221,brooklyn,Fort Greene,253 Cumberland Street,0.5,1,0,1895.0
+222,brooklyn,Kensington,222 East Eighth Street,1,1,0,1750.0
+223,brooklyn,Bushwick,115 Stanwix Street,2,1,0,3800.0
+224,brooklyn,Prospect Lefferts Gardens,620 Parkside Avenue,3,1,0,3100.0
+225,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+226,brooklyn,Flatbush,200 Linden Boulevard,1,1,0,2549.0
+227,brooklyn,Kensington,488 Ocean Parkway,1,1,0,1850.0
+228,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+229,brooklyn,Kensington,315 Ocean Parkway,0.5,1,0,1600.0
+230,brooklyn,Greenpoint,117 Freeman Street,1,1,0,2635.0
+231,brooklyn,East Flatbush,3411 Farragut Road,2,1,0,2399.0
+232,brooklyn,Kensington,110 Ocean Parkway,1,1,800,1995.0
+233,brooklyn,Flatbush,822 Flatbush Avenue,2,2,0,3499.0
+234,brooklyn,Homecrest,2355 East 12th Street,1,1,0,1650.0
+235,brooklyn,East New York,483 Pennsylvan Avenue,1,1,0,1975.0
+236,brooklyn,East New York,483 Pennsylvan Avenue,1,1,0,1900.0
+237,brooklyn,Brooklyn Heights,38 Columbia Place,1,1,0,2400.0
+238,brooklyn,East Williamsburg,250 Moore Street,0.5,1,1000,3500.0
+239,brooklyn,DUMBO,100 Jay Street,1,1,0,4495.0
+240,brooklyn,Prospect Park South,240 East 18th Street,1,1,0,1995.0
+241,brooklyn,Williamsburg,97 Varet Street,3,1,0,3517.0
+242,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+243,brooklyn,Midwood,1903 Ocean Avenue,1,1,0,1825.0
+244,brooklyn,Bedford-Stuyvesant,593 Marcy Avenue,1,1,600,2475.0
+245,brooklyn,Flatbush,3111 Glenwood Road,3,1,1000,2200.0
+246,brooklyn,Bushwick,64 Harman Street,1,1,0,2099.0
+247,brooklyn,Bushwick,73 Jefferson Street,4,1.5,0,3800.0
+248,brooklyn,Fort Hamilton,357 88th Street,3,1,0,3500.0
+249,brooklyn,Fort Hamilton,357 88th Street,2,1,0,2800.0
+250,brooklyn,New_Dev,33 Bond Street,1,1,0,3910.0
+251,brooklyn,New_Dev,33 Bond Street,2,2,0,6000.0
+252,brooklyn,Fort Greene,810 Fulton Street,1,1,0,2499.0
+253,brooklyn,Prospect Park South,20 Crooke Avenue,3,1,0,2650.0
+254,brooklyn,New_Dev,33 Bond Street,1,1,0,3870.0
+255,brooklyn,Bushwick,1114 Halsey Street,3,2,0,3995.0
+256,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+257,brooklyn,East Williamsburg,203 Mckibbin Street,0.5,1,0,4000.0
+258,brooklyn,Bushwick,334 Central Avenue,3,1,0,2995.0
+259,brooklyn,Bushwick,170 Suydam Street,3,2,0,3300.0
+260,brooklyn,Gravesend,2563 West 16th Street,3,1,800,2200.0
+261,brooklyn,Brooklyn Heights,184 Joralemon Street,2,1,950,6295.0
+262,brooklyn,Flatbush,1626 New York Avenue,3,2,1500,4300.0
+263,brooklyn,East Flatbush,2032 East 41st Street,3,1.5,1600,2650.0
+264,brooklyn,Gravesend,2514 East 1st Street,3,1,1000,2280.0
+265,brooklyn,Kensington,796 Mcdonald Avenue,2,1,0,2275.0
+266,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+267,brooklyn,Stuyvesant Heights,788 Madison Street,2,1,0,2630.0
+268,brooklyn,Flatlands,1188 East 55th Street,3,1.5,1000,2800.0
+269,brooklyn,Downtown Brooklyn,250 Gold Street,2,1.5,0,5200.0
+270,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+271,brooklyn,Sunset Park,572 46th Street,3,1,1100,2150.0
+272,brooklyn,Downtown Brooklyn,250 Gold Street,2,1,0,4900.0
+273,brooklyn,Kensington,796 Mcdonald Avenue,4,2,0,3400.0
+274,brooklyn,Stuyvesant Heights,645 Decatur Street,3,2,1200,3350.0
+275,brooklyn,Bushwick,205 Central Avenue,1,1,0,2500.0
+276,brooklyn,Bushwick,211 Central Avenue,3,2,0,4250.0
+277,brooklyn,Flatbush,1410 New York Avenue,3,1,0,2100.0
+278,brooklyn,Bushwick,205 Central Avenue,4,2,0,4500.0
+279,brooklyn,East New York,659 Vermont Street,2,2,0,2200.0
+280,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+281,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+282,brooklyn,Mapleton,2345 60th Street,2,1,759,2550.0
+283,brooklyn,Mapleton,2345 60th Street,1,1,567,2000.0
+284,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+285,brooklyn,Flatbush,2144 Cortelyou Road,1,1,0,1895.0
+286,brooklyn,Borough Park,935 58th Street,3,1,1200,2500.0
+287,brooklyn,Bushwick,207 Central Avenue,1,1,0,2499.0
+288,brooklyn,Stuyvesant Heights,656 Macon Street,2,2,1200,4100.0
+289,brooklyn,Greenwood,692 Fifth Avenue,2,1,800,2300.0
+290,brooklyn,Bushwick,1106 Bushwick Avenue,1,1,0,2200.0
+291,brooklyn,Bushwick,179 Saint Nicholas Avenue,3,2,900,3000.0
+292,brooklyn,Greenpoint,88 Clay Street,1,1,0,3000.0
+293,brooklyn,Fort Greene,241 Carlton Avenue,0.5,1,0,3700.0
+294,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+295,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+296,brooklyn,Midwood,1610 Avenue P,2,1,0,2295.0
+297,brooklyn,East New York,293 Etna Street,2,1,1100,2000.0
+298,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+299,brooklyn,Bedford-Stuyvesant,33 Little Nassau Street,1,1,0,2670.0
+300,brooklyn,Bushwick,152 Grove Street,2,1,0,2549.0
+301,brooklyn,Brighton Beach,230 Corbin Place,2,2,900,2600.0
+302,brooklyn,Fort Hamilton,422 100th Street,3,2,0,2900.0
+303,brooklyn,Bushwick,73A Cooper Street,2,3,0,3000.0
+304,brooklyn,Crown Heights,1140 Saint Johns Place,2,1,0,2100.0
+305,brooklyn,Ditmas Park,1900 Newkirk Avenue,2,1,0,2223.0
+306,brooklyn,Sunset Park,360 49th Street,2,1,0,1750.0
+307,brooklyn,Fort Hamilton,360 89th Street,3,2,1200,3195.0
+308,brooklyn,Crown Heights,377 Montgomery Street,3,1,0,2870.0
+309,brooklyn,New_Dev,10 Montieth Street,2,2,0,4325.0
+310,brooklyn,Greenpoint,67 Huron Street,1,1,500,2200.0
+311,brooklyn,Williamsburg,357 South 4th Street,3,1,0,4200.0
+312,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+313,brooklyn,DUMBO,81 Washington Street,1,1,1267,6095.0
+314,brooklyn,Bushwick,1213 Bushwick Avenue,3,1,0,2875.0
+315,brooklyn,Kensington,39 Parkville Avenue,1,1,800,2100.0
+316,brooklyn,Fort Hamilton,360 89th Street,2,1,800,2595.0
+317,brooklyn,Bushwick,668 Bushwick Avenue,1,1,0,3000.0
+318,brooklyn,Carroll Gardens,340 Carroll Street,1,1,700,2550.0
+319,brooklyn,Bushwick,285 Wyckoff Avenue,3,1,0,2999.0
+320,brooklyn,Ocean Hill,1244 Herkimer Street,2,1,0,2200.0
+321,brooklyn,Stuyvesant Heights,962 Greene Avenue 1GARDEN,1,1,0,2500.0
+322,brooklyn,Canarsie,1260 East 91st Street,2,1,850,2300.0
+323,brooklyn,Bushwick,115 Stanwix Street,3,2,0,5500.0
+324,brooklyn,New_Dev,169 Johnson Avenue,2,2,0,4850.0
+325,brooklyn,Midwood,1202 Avenue K,2,1,0,2400.0
+326,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+327,brooklyn,New_Dev,169 Johnson Avenue,2,1,0,4600.0
+328,brooklyn,Williamsburg,357 South 4th Street,3,2,0,4400.0
+329,brooklyn,Bay Ridge,333 Ovington Avenue,1,1,750,1600.0
+330,brooklyn,Fort Greene,76 Clermont Avenue,2,1.5,1060,5500.0
+331,brooklyn,Brooklyn Heights,89 Hicks Street,0.5,1,0,1864.0
+332,brooklyn,Sheepshead Bay,2221 East 7th Street,2,1,0,2195.0
+333,brooklyn,Crown Heights,993 President Street,1,1,0,2000.0
+334,brooklyn,Weeksville,1610 Bergen Street,4,3,0,3400.0
+335,brooklyn,Bedford-Stuyvesant,136 Hart Street,2,1,0,2899.0
+336,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+337,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+338,brooklyn,East Flatbush,3401 Farragut Road,4,2,0,3000.0
+339,brooklyn,East Flatbush,3405 Farragut Road,3,2,0,3000.0
+340,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+341,brooklyn,East Flatbush,977 East 34th Street,2,2,0,2450.0
+342,brooklyn,Greenpoint,26 West Street,0.5,1,0,2834.0
+343,brooklyn,New_Dev,262 9th Street,2,2,0,10000.0
+344,brooklyn,Farragut,1609 Brooklyn Avenue,2,2,0,2800.0
+345,brooklyn,East Flatbush,977 East 34th Street,3,2,0,3000.0
+346,brooklyn,Brownsville,45 Chester Street,4,1,0,2850.0
+347,brooklyn,Brooklyn Heights,65 Pineapple Street,2,1,0,3300.0
+348,brooklyn,Brighton Beach,10 Shore Boulevard,0.5,1,550,1615.0
+349,brooklyn,East Flatbush,977 East 34th Street,4,3,0,3695.0
+350,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+351,brooklyn,East Flatbush,1369 East 49th Street,2,1,1000,2200.0
+352,brooklyn,Stuyvesant Heights,1064 Putnam Avenue,4,1.5,0,3450.0
+353,brooklyn,Bushwick,296 Harman Street,2,1,0,2700.0
+354,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+355,brooklyn,East Flatbush,977 East 34th Street,3,2,0,3000.0
+356,brooklyn,Flatbush,2510 Bedford Avenue,2,1,0,2299.0
+357,brooklyn,Farragut,1613 Brooklyn Avenue,2,2,0,2750.0
+358,brooklyn,Bedford-Stuyvesant,264 Halsey Street,4,2,0,3699.0
+359,brooklyn,Kensington,49 Parkville Avenue,2,1,0,2650.0
+360,brooklyn,Crown Heights,688 Sterling Place,3,1.5,0,2725.0
+361,brooklyn,Williamsburg,187 Johnson Avenue,4,1.5,0,5000.0
+362,brooklyn,Gravesend,8301 Bay Parkway,1,1,765,1925.0
+363,brooklyn,Greenpoint,26 West Street,0.5,1,0,2792.0
+364,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+365,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+366,brooklyn,Prospect Park South,73 Saint Pauls Place,2,1,0,2080.0
+367,brooklyn,Crown Heights,871 Bergen Street,2,1,0,3400.0
+368,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+369,brooklyn,Williamsburg,92 Roebling Street,1,1.5,1400,5200.0
+370,brooklyn,Sunset Park,430 61st Street,3,1,900,3000.0
+371,brooklyn,Bushwick,471 Evergreen Avenue,1,1,0,2550.0
+372,brooklyn,Cobble Hill,134 Amity Street,2,1,0,5500.0
+373,brooklyn,Greenpoint,26 West Street,0.5,1,0,2792.0
+374,brooklyn,Bushwick,193 Cornelia Street,2,1,0,2795.0
+375,brooklyn,Bushwick,107 Suydam Street,2,1.5,0,2800.0
+376,brooklyn,Prospect Lefferts Gardens,340 Rutland Road,3,1,0,3200.0
+377,brooklyn,Brownsville,143 Rockaway Parkway,2,1,0,2150.0
+378,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+379,brooklyn,Vinegar Hill,260 Water Street,2,1,0,5795.0
+380,brooklyn,Bedford-Stuyvesant,715 De Kalb Avenue,3,1.5,0,3200.0
+381,brooklyn,Bedford-Stuyvesant,240 Madison Street,3,2,0,3600.0
+382,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+383,brooklyn,Crown Heights,461 Saratoga Avenue,3,1.5,0,2700.0
+384,brooklyn,Greenpoint,1 Bell Slip,0.5,1,0,3069.0
+385,brooklyn,Greenpoint,1 Bell Slip,0.5,1,0,3210.0
+386,brooklyn,Greenpoint,1 Bell Slip,0.5,1,0,3229.0
+387,brooklyn,Downtown Brooklyn,333 Schermerhorn Street,1,1,0,3976.0
+388,brooklyn,Crown Heights,1058 Bergen Street,2,1.5,0,3150.0
+389,brooklyn,Williamsburg,471 Keap Street,2,1,0,4750.0
+390,brooklyn,East Williamsburg,248 Mc Kibben Street,1,1,900,4650.0
+391,brooklyn,Williamsburg,462 Keap Street,2,2,1200,6250.0
+392,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+393,brooklyn,Williamsburg,111 Richardson Street,2,1,0,2395.0
+394,brooklyn,Flatbush,828 Flatbush Avenue,3,1,0,3200.0
+395,brooklyn,Williamsburg,286 South 2nd Street,2,1,0,3000.0
+396,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+397,brooklyn,Downtown Brooklyn,237 Duffield Street,1,1,658,3200.0
+398,brooklyn,Prospect Park South,1809 Albemarle Road,1,1,0,1825.0
+399,brooklyn,Kensington,796 Mcdonald Avenue,2,1,0,2275.0
+400,brooklyn,Crown Heights,533 Park Place,2,1,0,2825.0
+401,brooklyn,Bushwick,1456 Greene Avenue,1,1,650,2650.0
+402,brooklyn,Flatbush,350 Clarkson Avenue,0.5,1,0,2500.0
+403,brooklyn,Flatbush,350 Clarkson Avenue,1,1,0,3200.0
+404,brooklyn,Stuyvesant Heights,810 Lexington Avenue,1,1,0,2395.0
+405,brooklyn,Greenpoint,1 Bell Slip,0.5,1,421,3533.0
+406,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+407,brooklyn,Greenpoint,216 Eckford Street,2,1,875,5500.0
+408,brooklyn,Greenpoint,1 Bell Slip,2,2,0,6734.0
+409,brooklyn,Downtown Brooklyn,333 Schermerhorn Street,1,1,0,4312.0
+410,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+411,brooklyn,Bay Ridge,575 83rd Street,2,1,0,2200.0
+412,brooklyn,Fort Greene,55 Cumberland Street,0.5,1,0,1800.0
+413,brooklyn,Fort Greene,241 Carlton Avenue,1,1,1000,3700.0
+414,brooklyn,Stuyvesant Heights,443 Jefferson Avenue,3,2,0,3800.0
+415,brooklyn,Gravesend,1684 West Eighth Street,2,1,0,1900.0
+416,brooklyn,Park Slope,620 Carroll Street,1,1,0,2300.0
+417,brooklyn,Midwood,1561 East 13th Street,0.5,1,0,1495.0
+418,brooklyn,Stuyvesant Heights,110 Vanburen Street,2,1,0,2400.0
+419,brooklyn,East Flatbush,3514 Farragut Road,2,1,0,2400.0
+420,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+421,brooklyn,Bushwick,286 Stanhope Street,3,1,0,3272.0
+422,brooklyn,Bedford-Stuyvesant,1245 Bedford Avenue,1,1,0,3000.0
+423,brooklyn,Williamsburg,31 Debevoise Street,3,1,0,4250.0
+424,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+425,brooklyn,East Flatbush,1412 Brooklyn Avenue,2,1,0,2200.0
+426,brooklyn,Bushwick,1309 Decatur Street,4,2,0,3450.0
+427,brooklyn,Brighton Beach,371 Neptune Avenue,2,2,0,2299.0
+428,brooklyn,Bushwick,1106 Bushwick Avenue,1,1,0,2200.0
+429,brooklyn,Brooklyn Heights,136 Hicks Street,1,1,650,3325.0
+430,brooklyn,Clinton Hill,97 Grand Avenue,2,2,0,4613.0
+431,brooklyn,Flatbush,330 East 22nd Street,1,1,0,1700.0
+432,brooklyn,East Flatbush,3514 Farragut Road,3,2,0,3300.0
+433,brooklyn,Gravesend,422 Avenue U,2,1,0,2700.0
+434,brooklyn,Fort Greene,810 Fulton Street,1,1,0,2499.0
+435,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+436,brooklyn,Williamsburg,292 Bedford Avenue,3,1.5,0,5000.0
+437,brooklyn,Bushwick,183 Eldert Street,3,1.5,0,3900.0
+438,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+439,brooklyn,Fort Greene,300 Ashland Place,0.5,1,0,2995.0
+440,brooklyn,Crown Heights,836 Bergen Street,1,1,632,4100.0
+441,brooklyn,Park Slope,336 Flatbush Avenue,2,2,0,4200.0
+442,brooklyn,Crown Heights,1320 Dean Street,1,1,0,3000.0
+443,brooklyn,Fort Greene,187 Washington Park,2,1.5,1800,5150.0
+444,brooklyn,Park Slope,400 Fifth Avenue,3,1,0,4200.0
+445,brooklyn,Bushwick,183 Eldert Street,3,3,0,3100.0
+446,brooklyn,East Flatbush,3305 Foster Avenue,2,1,750,2200.0
+447,brooklyn,East Flatbush,1403 New York Avenue,3,2,1000,2750.0
+448,brooklyn,Prospect Lefferts Gardens,620 Parkside Avenue,3,1,0,3100.0
+449,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+450,brooklyn,Flatbush,388 East 23rd Street,2,1,0,2199.0
+451,brooklyn,Bedford-Stuyvesant,136 Hart Street,2,1,0,2889.0
+452,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+453,brooklyn,Bushwick,207 Central Avenue,1,1,0,2600.0
+454,brooklyn,Park Slope,89 Fourth Avenue,3,2,0,3300.0
+455,brooklyn,Bushwick,1049 Jefferson Avenue,2,1,0,2799.0
+456,brooklyn,Red Hook,253 Van Brunt Street,2,1,0,3500.0
+457,brooklyn,Williamsburg,228 Manhattan Avenue,2,2,0,3659.0
+458,brooklyn,Bedford-Stuyvesant,136 Hart Street,2,1,0,3000.0
+459,brooklyn,Cobble Hill,246 Pacific Street,3,1,0,3695.0
+460,brooklyn,Crown Heights,1916 Prospect Place,0.5,1,0,1800.0
+461,brooklyn,Bushwick,1049 Jefferson Avenue,2,1,0,2800.0
+462,brooklyn,Williamsburg,185 South 4th Street,1,1,0,3705.0
+463,brooklyn,Fort Greene,810 Fulton Street,0.5,1,0,1999.0
+464,brooklyn,Bay Ridge,7123 Fourth Avenue,1,1,0,1850.0
+465,brooklyn,Wingate,664 Rutland Road,1,1,0,2200.0
+466,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+467,brooklyn,Clinton Hill,97 Grand Avenue,1,1,0,4124.0
+468,brooklyn,East Flatbush,4410 Church Avenue,3,1.5,0,2399.0
+469,brooklyn,City Line,1323 Blake Avenue,3,2,0,2599.0
+470,brooklyn,Stuyvesant Heights,118 Vanburen Street,2,1,0,2400.0
+471,brooklyn,Bedford-Stuyvesant,273 Halsey Street,5,2,0,4195.0
+472,brooklyn,Park Slope,617 11th Street,1,1,0,4250.0
+473,brooklyn,Stuyvesant Heights,330 Decatur Street,1,1,0,2399.0
+474,brooklyn,Park Slope,457 15th Street,2,1+,0,4800.0
+475,brooklyn,Midwood,1277 E 14th Street,1,1,710,2900.0
+476,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+477,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+478,brooklyn,Midwood,1277 E 14th Street,1,1,671,2850.0
+479,brooklyn,Bushwick,418 Suydam Street,3,1,0,4200.0
+480,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+481,brooklyn,Midwood,1277 E 14th Street,1,1,708,2850.0
+482,brooklyn,Borough Park,907 47th Street,2,1,700,2000.0
+483,brooklyn,Midwood,1277 E 14th Street,1,1,675,2850.0
+484,brooklyn,Midwood,1277 E 14th Street,3,2,1187,4230.0
+485,brooklyn,Midwood,1277 E 14th Street,2,2,959,3700.0
+486,brooklyn,Midwood,962 Ocean Parkway,1,1,0,1825.0
+487,brooklyn,Midwood,1277 E 14th Street,2,2,976,3600.0
+488,brooklyn,Clinton Hill,96 Steuben Street,0.5,1,0,2794.0
+489,brooklyn,Bushwick,297 Wyckoff Avenue,3,1,0,2999.0
+490,brooklyn,Bushwick,361 Stockholm Street,3,3,0,3900.0
+491,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+492,brooklyn,Midwood,1277 E 14th Street,1,1,811,2900.0
+493,brooklyn,Canarsie,722 Hinsdale Street,2,1,0,2450.0
+494,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+495,brooklyn,Midwood,962 Ocean Parkway,0.5,1,550,1525.0
+496,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+497,brooklyn,Williamsburg,2 N 6th Place,3,3,1670,9295.0
+498,brooklyn,East Williamsburg,283 Devoe Street,1,1,0,2100.0
+499,brooklyn,Williamsburg,155 South Fourth Street,3,1,0,3975.0
+500,brooklyn,Prospect Park South,111 Woodruff Avenue,1,1,0,2500.0
+501,brooklyn,Flatbush,150 Lenox Road,1,1,0,2550.0
+502,brooklyn,Brooklyn Heights,75 Clinton Street,1,1,0,3917.0
+503,brooklyn,East Williamsburg,51 Olive Street,2,1,0,4250.0
+504,brooklyn,Flatbush,1620 New York Avenue,2,2,1500,4216.0
+505,brooklyn,Williamsburg,2 N 6th Place,3,3,1670,9295.0
+506,brooklyn,Greenpoint,125 Mc Guiness Boulevard,1,1,600,2300.0
+507,brooklyn,Flatbush,1407 Flatbush Avenue,1,1,0,2400.0
+508,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+509,brooklyn,East Williamsburg,51 Olive Street,2,1,0,3750.0
+510,brooklyn,Carroll Gardens,589 Hicks Street,2,2,0,5500.0
+511,brooklyn,East Williamsburg,51 Olive Street,1,1,0,2800.0
+512,brooklyn,Downtown Brooklyn,277 Gold Street,1,1,0,3750.0
+513,brooklyn,Stuyvesant Heights,558 Kosciusko Street,5,2,0,3499.0
+514,brooklyn,Stuyvesant Heights,924 De Kalb Avenue,2,1,0,2700.0
+515,brooklyn,Williamsburg,106 Havemeyer Street,1,1,800,3400.0
+516,brooklyn,Brighton Beach,3058 Brighton 3rd Street,1,1,0,1850.0
+517,brooklyn,Crown Heights,901 Saint John's Place,2,1,0,2795.0
+518,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+519,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+520,brooklyn,Brighton Beach,3058 Brighton 3rd Street,2,1,0,2250.0
+521,brooklyn,Flatbush,822 Flatbush Avenue,2,2,0,3500.0
+522,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+523,brooklyn,Williamsburg,146 South 4th Street,0.5,1,0,3229.0
+524,brooklyn,Stuyvesant Heights,427 Pulaski Street,3,2,0,3250.0
+525,brooklyn,Bushwick,1040 Bushwick Avenue,3,1,1000,2700.0
+526,brooklyn,New_Dev,180 Myrtle Avenue,2,1,830,5621.0
+527,brooklyn,Greenwood,944 4th Avenue,3,1,0,2400.0
+528,brooklyn,New_Dev,1510 Gates Avenue,3,1.5,0,4300.0
+529,brooklyn,Ocean Hill,188 Hull Street,2,1,0,2650.0
+530,brooklyn,Bedford-Stuyvesant,473 Lafayette Avenue,1,2,1600,4150.0
+531,brooklyn,Flatbush,200 Linden Boulevard,1,1,0,2750.0
+532,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+533,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+534,brooklyn,Kensington,794 Mcdonald Avenue,4,2,0,3200.0
+535,brooklyn,Bushwick,92 Harman Street,3,1,0,3349.0
+536,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+537,brooklyn,New_Dev,1510 Gates Avenue,2,1,0,3750.0
+538,brooklyn,Crown Heights,1520 Carroll Street,1,1,0,2000.0
+539,brooklyn,Flatbush,2511 Bedford Avenue,1,1,0,1999.0
+540,brooklyn,New_Dev,1510 Gates Avenue,2,2,0,4250.0
+541,brooklyn,Carroll Gardens,397 Smith Street,0.5,1,0,1999.0
+542,brooklyn,Kensington,707 Beverly Road,1,1,0,2000.0
+543,brooklyn,Kensington,55 Louisa Street,2,1,0,2300.0
+544,brooklyn,Bushwick,260 Knickerbocker Avenue,2,1,0,4400.0
+545,brooklyn,New_Dev,15 Bridge Park Drive,3,2,0,10950.0
+546,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+547,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+548,brooklyn,Greenpoint,216 Eckford Street,2,1,875,5500.0
+549,brooklyn,Williamsburg,108 North 9th Street,3,1.5,1500,12500.0
+550,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+551,brooklyn,Crown Heights,203 Sullivan Place,1,1,0,1899.0
+552,brooklyn,New_Dev,1510 Gates Avenue,1,1,0,3050.0
+553,brooklyn,Crown Heights,806 Bergen Street,1,1,0,4100.0
+554,brooklyn,Downtown Brooklyn,250 Gold Street,1,1,0,4400.0
+555,brooklyn,Prospect Heights,425 Sterling Place,2,2,0,4999.0
+556,brooklyn,Downtown Brooklyn,250 Gold Street,2,1,0,5600.0
+557,brooklyn,Prospect Lefferts Gardens,33 Lincoln Road,1,1,0,3025.0
+558,brooklyn,Stuyvesant Heights,33 Patchen Avenue,3,1,850,2850.0
+559,brooklyn,East Flatbush,3411 Farragut Road,2,1,0,2399.0
+560,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+561,brooklyn,Stuyvesant Heights,427 Pulaski Street,3,2,0,3250.0
+562,brooklyn,Weeksville,1325 Eastern Parkway,1,1,0,1650.0
+563,brooklyn,Bedford-Stuyvesant,591 Marcy Avenue,5,2,0,4800.0
+564,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+565,brooklyn,Midwood,1600 East 19th Street,3,1,0,3700.0
+566,brooklyn,Gowanus,486 Carroll Street,2,1,0,3300.0
+567,brooklyn,Midwood,1600 East 19th Street,2,1,0,2900.0
+568,brooklyn,Midwood,1600 East 19th Street,1,1,0,2500.0
+569,brooklyn,Homecrest,1669 East 19th Street,1,1,0,2400.0
+570,brooklyn,Carroll Gardens,472 Smith Street,2,2,975,6250.0
+571,brooklyn,Crown Heights,653 Prospect Place,1,1,0,3150.0
+572,brooklyn,Bushwick,69 Woodbine Street,2,2,749,2790.0
+573,brooklyn,Fort Greene,8 S Portland Avenue,2,1,1100,4895.0
+574,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+575,brooklyn,Bushwick,167 Starr Street,4,1,0,3899.0
+576,brooklyn,Sheepshead Bay,2465 East 13th Street,1,1,0,2100.0
+577,brooklyn,Brooklyn Heights,9 Cranberry Street,1,1,0,3400.0
+578,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+579,brooklyn,Bushwick,186 Stockholm Street,3,1,0,3500.0
+580,brooklyn,Weeksville,136 Utica Avenue,2,1,0,2250.0
+581,brooklyn,Weeksville,136 Utica Avenue,1,1,0,1699.0
+582,brooklyn,Bushwick,174 Suydam Street,3,2,0,3100.0
+583,brooklyn,Flatbush,596 East 32nd Street,2,1,0,2400.0
+584,brooklyn,Bushwick,477 Irving Avenue,4,1,0,3600.0
+585,brooklyn,Williamsburg,83 Havemeyer Street,4,2,0,5000.0
+586,brooklyn,Sunset Park,565 49th Street,0.5,1,0,1850.0
+587,brooklyn,Bay Ridge,542 80th Street,3,1.5,1340,2950.0
+588,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+589,brooklyn,Flatbush,215 Martence Street,1,1,600,2000.0
+590,brooklyn,Flatbush,1270 New York Avenue,2,1,0,2654.0
+591,brooklyn,New_Dev,2218 Ocean Avenue,0.5,1,420,1995.0
+592,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+593,brooklyn,Kensington,39 Parkville Avenue,2,1,0,1900.0
+594,brooklyn,Ocean Hill,485 Chauncey Street,3,1,900,2700.0
+595,brooklyn,Carroll Gardens,51 2nd Street,1,1,700,3200.0
+596,brooklyn,Stuyvesant Heights,926 Madison Street,3,1,0,2499.0
+597,brooklyn,Fort Greene,475 Clermont Avenue,2,2,922,6534.0
+598,brooklyn,Crown Heights,801 Franklin Avenue,4,2,0,4600.0
+599,brooklyn,Crown Heights,864 Nostrand Avenue,3,1,0,2875.0
+600,brooklyn,Crown Heights,466 Saratoga Avenue,3,1.5,0,2699.0
+601,brooklyn,Weeksville,1993 Pacific Street,4,1.5,0,2800.0
+602,brooklyn,Stuyvesant Heights,788 Madison Street,2,1,0,2630.0
+603,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+604,brooklyn,Bedford-Stuyvesant,50 Van Buren Street,2,1,1200,2500.0
+605,brooklyn,Bath Beach,8609 Bay 16th Street,1,1,0,1700.0
+606,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+607,brooklyn,Weeksville,1520 Prospect Place,3,1.5,0,3000.0
+608,brooklyn,East Williamsburg,492 Morgan Avenue,1,1,0,2100.0
+609,brooklyn,Flatbush,55 Linden Boulevard,4,2,0,2800.0
+610,brooklyn,Fort Hamilton,210 Marine Avenue,1,1,881,1750.0
+611,brooklyn,Bensonhurst,8419 19th Avenue,1,1,738,1550.0
+612,brooklyn,Bensonhurst,1938 82nd Street,1,1,722,1500.0
+613,brooklyn,Bushwick,1120 Halsey Street,3,2,0,3992.0
+614,brooklyn,Midwood,1746 Flatbush Avenue,2,1,0,1995.0
+615,brooklyn,Bushwick,1200 Decatur Street,2,1,0,3600.0
+616,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+617,brooklyn,New_Dev,10 Montieth Street,2,2,0,4325.0
+618,brooklyn,New_Dev,25 East 19th Street,2,2,0,3536.0
+619,brooklyn,Williamsburg,188 Humboldt Street,2,1.5,0,5500.0
+620,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+621,brooklyn,Greenpoint,2 Blue Slip,0.5,1,0,3506.0
+622,brooklyn,Bay Ridge,464 85th Street,2,1,1100,2700.0
+623,brooklyn,Bushwick,699 Bushwick Avenue,3,1,0,3000.0
+624,brooklyn,Prospect Lefferts Gardens,350 Sterling Street,3,1.5,0,2795.0
+625,brooklyn,Bedford-Stuyvesant,505 Lafayette Avenue,3,1,800,2695.0
+626,brooklyn,Flatbush,645 Ocean Avenue,0.5,1,0,1850.0
+627,brooklyn,Bay Ridge,465 84th Street,0.5,1,0,1400.0
+628,brooklyn,Stuyvesant Heights,54 Patchen Avenue,4,2.5,0,3999.0
+629,brooklyn,Greenpoint,2 Blue Slip,1,1,0,4845.0
+630,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+631,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+632,brooklyn,New_Dev,420 Kent Avenue,0.5,1,0,3105.0
+633,brooklyn,Kensington,664 East Second Street,1,1,0,1900.0
+634,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+635,brooklyn,Stuyvesant Heights,462 Pulaski Street,4,1,0,3500.0
+636,brooklyn,Cobble Hill,251 Pacific Street,2,1,700,3550.0
+637,brooklyn,Bushwick,184 Noll Street,2,1,0,3708.0
+638,brooklyn,Prospect Lefferts Gardens,1208 Nostrand Avenue,2,1,0,2500.0
+639,brooklyn,Ditmas Park,615 East 17th Street,2,1,0,2799.0
+640,brooklyn,Bushwick,260 Knickerbocker Avenue,2,1,0,3500.0
+641,brooklyn,East Flatbush,3510 Avenue H,2,1,0,2200.0
+642,brooklyn,Stuyvesant Heights,669 Halsey Street,3,1.5,0,3500.0
+643,brooklyn,Park Slope,267 6th Street,1,1,600,3550.0
+644,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+645,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+646,brooklyn,Williamsburg,255 North 8th Street,2,1.5,0,3350.0
+647,brooklyn,Bushwick,531 Knickerbocker Avenue,3,1,0,2900.0
+648,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+649,brooklyn,Weeksville,227 Schenectady Avenue,1,1,0,2200.0
+650,brooklyn,Brownsville,70 Rockaway Parkway,1,1,0,1575.0
+651,brooklyn,Stuyvesant Heights,657 Macdonough Street,3,1.5,0,2995.0
+652,brooklyn,Downtown Brooklyn,1 Duffield Street,2,1,875,4400.0
+653,brooklyn,Bushwick,1209 Dekalb Avenue,1,1,0,2599.0
+654,brooklyn,Bushwick,814 Knickerbocker Avenue,3,1,0,2300.0
+655,brooklyn,Williamsburg,371 South 5th Street,1,1,0,2475.0
+656,brooklyn,New_Dev,262 9th Street,2,2,0,7500.0
+657,brooklyn,Bedford-Stuyvesant,236 Walworth Street,2,1,0,1999.0
+658,brooklyn,Flatbush,1620 New York Avenue,2,2,1500,4216.0
+659,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+660,brooklyn,Flatbush,815 Flatbush Avenue,2,2,0,3300.0
+661,brooklyn,Canarsie,1322 East 87th Street,3,1.5,0,2999.0
+662,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+663,brooklyn,Bushwick,1378 Bushwick Avenue,2,1,0,2800.0
+664,brooklyn,Crown Heights,1040 Dean Street,2,1,0,3649.0
+665,brooklyn,Greenpoint,724 Leonard Street,1,1,0,2000.0
+666,brooklyn,Stuyvesant Heights,231 Marion Street,2,1.5,975,2300.0
+667,brooklyn,Crown Heights,903 Saint John's Place,1,1,0,2387.0
+668,brooklyn,New_Dev,262 9th Street,1,1,0,4800.0
+669,brooklyn,Bushwick,1299 Greene Avenue,3,1+,0,3400.0
+670,brooklyn,Bushwick,150 Grove Street,3,1,0,2535.0
+671,brooklyn,Bedford-Stuyvesant,70 Herkimer Street,3,2,900,4499.0
+672,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+673,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+674,brooklyn,Prospect Lefferts Gardens,1211 Nostrand Avenue,2,1,0,2475.0
+675,brooklyn,Brownsville,9201 Kings Highway,1,1,800,1650.0
+676,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+677,brooklyn,Bushwick,499 Evergreen Avenue,1,1,0,3345.0
+678,brooklyn,Flatbush,3116 Clarendon Road,1,1,0,2500.0
+679,brooklyn,East Flatbush,1067 Utica Avenue,1,1,900,1975.0
+680,brooklyn,Greenpoint,860 Lorimer Street,1,1,0,4975.0
+681,brooklyn,Crown Heights,1026 President Street,1,1,570,2200.0
+682,brooklyn,East Flatbush,3506 Farragut Road,3,2,0,3400.0
+683,brooklyn,Homecrest,2481 Ocean Avenue,2,1,0,2975.0
+684,brooklyn,Farragut,1662 Albany Avenue,2,1,0,2200.0
+685,brooklyn,East Flatbush,867 Troy Avenue,4,1,1052,2395.0
+686,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+687,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+688,brooklyn,Williamsburg,230 Manhattan Avenue,2,2,0,3650.0
+689,brooklyn,East Flatbush,3413 Avenue H,1,1,800,1695.0
+690,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+691,brooklyn,Bushwick,1438 De Kalb Avenue,4,2,0,3995.0
+692,brooklyn,Marine Park,3714 Avenue S,1,1,1000,1650.0
+693,brooklyn,Stuyvesant Heights,300 Lewis Avenue,3,1,0,3200.0
+694,brooklyn,Stuyvesant Heights,61 Malcolm X Boulevard,2,2,0,2795.0
+695,brooklyn,Stuyvesant Heights,178 Bainbridge Street,1,1,0,3250.0
+696,brooklyn,Prospect Lefferts Gardens,570 Flatbush Avenue,4,2,1200,3200.0
+697,brooklyn,Crown Heights,921 Washington Avenue,4,2,0,6400.0
+698,brooklyn,Stuyvesant Heights,1052 Greene Avenue,1,1,0,2800.0
+699,brooklyn,Flatbush,215 Martence Street,1,1,600,2000.0
+700,brooklyn,Vinegar Hill,260 Water Street,2,1,0,5795.0
+701,brooklyn,Stuyvesant Heights,879 De Kalb Avenue,3,1,0,2600.0
+702,brooklyn,East New York,449 Liberty Avenue,1,1,0,2350.0
+703,brooklyn,Flatbush,45 Linden Boulevard,0.5,1,0,1525.0
+704,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+705,brooklyn,Stuyvesant Heights,289 Throop Avenue,2,1,853,2500.0
+706,brooklyn,Cobble Hill,284 Atlantic Avenue,1,1,0,2350.0
+707,brooklyn,Bushwick,296 Harman Street,3,1,0,3200.0
+708,brooklyn,Crown Heights,921 Washington Avenue,4,2,0,6800.0
+709,brooklyn,Brooklyn Heights,12 Remsen Street,1,1,0,2950.0
+710,brooklyn,Bushwick,115 Stanwix Street,2,2,0,3800.0
+711,brooklyn,Weeksville,1342 Saint Johns Place,3,1,0,2500.0
+712,brooklyn,New_Dev,1 City Point,1,1,769,4900.0
+713,brooklyn,Prospect Lefferts Gardens,318 Midwood Street,2,1,1200,2500.0
+714,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+715,brooklyn,Williamsburg,2 N 6th Place,3,3,1670,9295.0
+716,brooklyn,Sunset Park,441 63rd Street,1,1,0,2250.0
+717,brooklyn,Bedford-Stuyvesant,820 Dekalb Avenue,4,4,0,5400.0
+718,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+719,brooklyn,Bushwick,668 Bushwick Avenue,1,1,0,3000.0
+720,brooklyn,Bushwick,295 Wyckoff Avenue,3,1,0,3272.0
+721,brooklyn,Bushwick,668 Bushwick Avenue,2,2,0,3700.0
+722,brooklyn,East Flatbush,1641 New York Avenue,2,1,0,2499.0
+723,brooklyn,Williamsburg,91 Varet Street,3,1,0,3517.0
+724,brooklyn,Midwood,2501 Nostrand Avenue,2,1,0,2250.0
+725,brooklyn,Stuyvesant Heights,468 Pulaski Street,3,1.5,0,4000.0
+726,brooklyn,Williamsburg,99 North Fourth Street,6,3,0,9000.0
+727,brooklyn,Bushwick,1438 De Kalb Avenue,4,1.5,0,3750.0
+728,brooklyn,Downtown Brooklyn,333 Schermerhorn Street,1,1,0,4143.0
+729,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+730,brooklyn,Stuyvesant Heights,1875 Atlantic Avenue,2,1,0,2550.0
+731,brooklyn,Brighton Beach,371 Neptune Avenue,1,1,0,2050.0
+732,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+733,brooklyn,Stuyvesant Heights,181 Chauncey Street,2,1,0,2600.0
+734,brooklyn,Stuyvesant Heights,843 Dekalb Avenue,3,1,0,2950.0
+735,brooklyn,Bedford-Stuyvesant,281 Franklin Avenue,2,1,0,2995.0
+736,brooklyn,Bushwick,842 Flushing Avenue,3,2,0,3900.0
+737,brooklyn,Bushwick,1309 Decatur Street,4,2,0,3450.0
+738,brooklyn,Stuyvesant Heights,1875 Atlantic Avenue,2,1,0,2550.0
+739,brooklyn,Bushwick,186 Stockholm Street,2,1,0,2700.0
+740,brooklyn,Bushwick,26 Park Street,4,2,0,3700.0
+741,brooklyn,Bushwick,22 Melrose Street,3,1,0,3800.0
+742,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+743,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+744,brooklyn,Flatbush,55 Linden Boulevard,3,1,0,2230.0
+745,brooklyn,New_Dev,10 Montieth Street,1,1,600,3095.0
+746,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+747,brooklyn,Flatbush,55 Linden Boulevard,4,2,0,2780.0
+748,brooklyn,Greenwood,203 17th Street,2,1,0,2650.0
+749,brooklyn,Crown Heights,1474 Eastern Parkway,2,1,0,2249.0
+750,brooklyn,Bushwick,586 Hart Street,3,1,0,3350.0
+751,brooklyn,Bushwick,26 Irving Avenue,3,1,0,3500.0
+752,brooklyn,Stuyvesant Heights,67 Lewis Avenue,3,3,0,5995.0
+753,brooklyn,Prospect Lefferts Gardens,60 Sterling Street,3,1,1200,3800.0
+754,brooklyn,Williamsburg,146 South 4th Street,1,1,0,5095.0
+755,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+756,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+757,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+758,brooklyn,Williamsburg,22 North 6th Street,1,1,684,4600.0
+759,brooklyn,Williamsburg,224 Manhattan Avenue,2,2,0,3659.0
+760,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+761,brooklyn,Canarsie,8414 Avenue J,2,1,900,2300.0
+762,brooklyn,Bushwick,236 Palmetto Street,1,1,0,2500.0
+763,brooklyn,Bath Beach,8710 15th Avenue,1,1,0,1500.0
+764,brooklyn,Prospect Lefferts Gardens,109 Winthrop Avenue,2,1,0,2999.0
+765,brooklyn,Bedford-Stuyvesant,11 Macon Street,0.5,1,0,2000.0
+766,brooklyn,Prospect Lefferts Gardens,324 Empire Boulevard,3,1.5,0,3500.0
+767,brooklyn,Crown Heights,581 Franklin Avenue,4,2,0,4300.0
+768,brooklyn,Bushwick,26 Park Street,4,2,0,4800.0
+769,brooklyn,Park Slope,764 Union Street,3,2,0,7850.0
+770,brooklyn,Flatbush,815 Flatbush Avenue,2,2,0,3300.0
+771,brooklyn,Greenpoint,216 Eckford Street,2,1,875,5500.0
+772,brooklyn,Bushwick,236 Palmetto Street,4,3,0,7000.0
+773,brooklyn,Bushwick,221 Central Avenue,1,1,0,2800.0
+774,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+775,brooklyn,Brooklyn Heights,8 Clark Street,0.5,1,0,2600.0
+776,brooklyn,Brooklyn Heights,8 Clark Street,0.5,1,0,2400.0
+777,brooklyn,Williamsburg,222 Johnson Avenue,0.5,1,0,3050.0
+778,brooklyn,Bedford-Stuyvesant,1285 Fulton Street,3,1,1100,2995.0
+779,brooklyn,Marine Park,1518 Ryder Street,3,2,0,3199.0
+780,brooklyn,Prospect Heights,326 Saint John's Place,3,1,0,3650.0
+781,brooklyn,Flatbush,370 East 23rd Street,3,1,0,2599.0
+782,brooklyn,Stuyvesant Heights,1108 De Kalb Avenue,4,1.5,0,3600.0
+783,brooklyn,Weeksville,812 Crown Street,3,2,0,2650.0
+784,brooklyn,Ocean Hill,522 Bainbridge Street,2,1,900,2599.0
+785,brooklyn,Prospect Park South,20 Crooke Avenue,3,1,0,2650.0
+786,brooklyn,Stuyvesant Heights,319 Malcolm X Boulevard,2,1,800,2599.0
+787,brooklyn,Flatbush,256 East 28th Street,3,2,0,4139.0
+788,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+789,brooklyn,Clinton Hill,372 Grand Avenue,3,1.5,1600,6400.0
+790,brooklyn,Bedford-Stuyvesant,321 Putnam Avenue,1,1,500,2400.0
+791,brooklyn,Flatbush,1366 New York Avenue,2,1,0,2300.0
+792,brooklyn,Park Slope,286 Fifth Avenue,1,1,0,3400.0
+793,brooklyn,Bedford-Stuyvesant,256 Hancock Street,1,1,0,2275.0
+794,brooklyn,Bushwick,230 Central Avenue,4,2,0,4500.0
+795,brooklyn,Williamsburg,97 Varet Street,3,1,0,3517.0
+796,brooklyn,Homecrest,1815 East 17th Street,1,1,0,1725.0
+797,brooklyn,Williamsburg,146 South 4th Street,1,1,0,4239.0
+798,brooklyn,Bushwick,22 Starr Street,4,2,0,4250.0
+799,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+800,brooklyn,DUMBO,192 Water Street,3,2.5,2470,18000.0
+801,brooklyn,Dyker Heights,1162 66th Street,2,2,0,2290.0
+802,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+803,brooklyn,Brownsville,1606 Pitkin Avenue,3,1,0,2700.0
+804,brooklyn,Flatbush,231 Martense Street,2,1,0,2400.0
+805,brooklyn,Prospect Park South,60 East 17th Street,2,1,0,2095.0
+806,brooklyn,Weeksville,1004 Montgomery Street,2,1,0,2200.0
+807,brooklyn,Williamsburg,95 Havemeyer Street,4,2,0,5500.0
+808,brooklyn,New_Dev,365 Bond Street,0.5,1,515,3400.0
+809,brooklyn,East Flatbush,294 E 34th Street,2,1,2400,1950.0
+810,brooklyn,Weeksville,401 Schenectady Avenue,1,1,0,1695.0
+811,brooklyn,Crown Heights,896 Sterling Place,1,1,1100,2800.0
+812,brooklyn,Bushwick,115 Stanwix Street,1,1,0,3200.0
+813,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+814,brooklyn,Weeksville,1332 Prospect Place,3,1,1000,3300.0
+815,brooklyn,Bushwick,169 Suydam Street,3,2,0,3300.0
+816,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+817,brooklyn,Bushwick,16 Charles Place,1,1,0,2800.0
+818,brooklyn,Bushwick,893 Willoughby Avenue,3,1,0,3099.0
+819,brooklyn,Williamsburg,53 South 11th Street,2,1,0,3300.0
+820,brooklyn,Williamsburg,337 Kent Avenue,2,1,0,3500.0
+821,brooklyn,Clinton Hill,306 Saint James Place,1,1,0,3350.0
+822,brooklyn,New_Dev,2203 Clarendon Road,2,1,557,2600.0
+823,brooklyn,East Williamsburg,9 Judge Street,1,1,0,2500.0
+824,brooklyn,Bushwick,98 Himrod Street,2,1,0,2900.0
+825,brooklyn,New_Dev,2203 Clarendon Road,2,1,0,2600.0
+826,brooklyn,Prospect Lefferts Gardens,620 Parkside Avenue,3,1,0,3100.0
+827,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+828,brooklyn,New_Dev,2203 Clarendon Road,2,1,0,2500.0
+829,brooklyn,Crown Heights,201 Eastern Parkway,1,1,850,3080.0
+830,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+831,brooklyn,New_Dev,250 Ashland Place,0.5,1,0,3595.0
+832,brooklyn,Prospect Lefferts Gardens,430 Fenimore Street,2,1,900,2600.0
+833,brooklyn,Sunset Park,4102 Eighth Avenue,2,1,680,2500.0
+834,brooklyn,Downtown Brooklyn,333 Schermerhorn Street,1,1,0,4223.0
+835,brooklyn,Bushwick,352 Irving Avenue,3,1.5,0,3666.0
+836,brooklyn,Sheepshead Bay,2538 East 12th Street,2,1,0,2080.0
+837,brooklyn,Crown Heights,852 Classon Avenue,3,2,0,4995.0
+838,brooklyn,Williamsburg,24 Havemeyer Street,2,1,0,3750.0
+839,brooklyn,Fort Hamilton,325 Marine Avenue,1,1,0,1600.0
+840,brooklyn,East Williamsburg,15 Judge Street,2,1,0,4250.0
+841,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+842,brooklyn,East New York,449 Liberty Avenue,2,2,0,2950.0
+843,brooklyn,East New York,449 Liberty Avenue,0.5,1,0,2100.0
+844,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+845,brooklyn,Cobble Hill,208 Smith Street,1,1,725,3000.0
+846,brooklyn,Flatbush,336 East 25th Street,1,1,0,1750.0
+847,brooklyn,New_Dev,266 Kent Avenue,2,1,0,1961.0
+848,brooklyn,New_Dev,266 Kent Avenue,1,1,0,2658.0
+849,brooklyn,New_Dev,266 Kent Avenue,1,1,0,1651.0
+850,brooklyn,New_Dev,266 Kent Avenue,1,1,0,2658.0
+851,brooklyn,New_Dev,266 Kent Avenue,0.5,1,0,2490.0
+852,brooklyn,Williamsburg,95 Ainslie Street,1,2+,1110,5500.0
+853,brooklyn,Downtown Brooklyn,333 Schermerhorn Street,1,1,0,3984.0
+854,brooklyn,Flatbush,1620 New York Avenue,2,2,1500,4216.0
+855,brooklyn,Downtown Brooklyn,333 Schermerhorn Street,0.5,1,435,3388.0
+856,brooklyn,Stuyvesant Heights,229 Malcolm X Boulevard,4,1.5,0,3400.0
+857,brooklyn,Williamsburg,334 Humboldt Street,1,1,0,3700.0
+858,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+859,brooklyn,Bushwick,1200 Decatur Street,2,1.5,0,3600.0
+860,brooklyn,Bedford-Stuyvesant,1245 Bedford Avenue,1,1,0,3000.0
+861,brooklyn,Homecrest,2039 Homecrest Avenue,1,1,0,1650.0
+862,brooklyn,Williamsburg,334 Humboldt Street,1,2,0,4700.0
+863,brooklyn,Brighton Beach,3052 Brighton 05th Street,1,1,0,2000.0
+864,brooklyn,Williamsburg,349 South Fourth Street,3,1,0,4200.0
+865,brooklyn,Flatbush,322 Linden Boulevard,2,1,0,1849.0
+866,brooklyn,Greenpoint,75 Greene Street,3,1.5,0,4250.0
+867,brooklyn,Bushwick,668 Bushwick Avenue,2,1,0,3450.0
+868,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+869,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+870,brooklyn,Fort Greene,475 Clermont Avenue,1,1.5,846,5074.0
+871,brooklyn,Brighton Beach,3052 Brighton 05th Street,2,1,0,2300.0
+872,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+873,brooklyn,New_Dev,250 Ashland Place,1,1,0,4495.0
+874,brooklyn,Sunset Park,5915 Fourth Avenue,3,1,0,2450.0
+875,brooklyn,Crown Heights,1554 Pacific Street,1,1,800,2150.0
+876,brooklyn,Prospect Lefferts Gardens,620 Parkside Avenue,3,1,0,3100.0
+877,brooklyn,Fort Hamilton,9707 Fourth Avenue,0.5,1,550,1425.0
+878,brooklyn,Farragut,1351 Brooklyn Avenue,2,1,0,2599.0
+879,brooklyn,Park Slope,50 Fifth Avenue,2,1,0,3400.0
+880,brooklyn,New_Dev,3415 Farragut Road,2,2,0,2799.0
+881,brooklyn,Cobble Hill,330 Clinton Street,2,1,1100,4000.0
+882,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+883,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+884,brooklyn,Greenwood,204 29th Street,2,1,0,2300.0
+885,brooklyn,Weeksville,1672 Dean Street,0.5,1,400,1999.0
+886,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+887,brooklyn,Ditmas Park,680 East 21st Street,2,2,800,3199.0
+888,brooklyn,Ditmas Park,680 East 21st Street,2,2,650,3199.0
+889,brooklyn,Stuyvesant Heights,276 Malcolm X Boulevard,1,1,550,2399.0
+890,brooklyn,Marine Park,2881 Nostrand Avenue,2,2,1106,3000.0
+891,brooklyn,Flatbush,72 Clarkson Avenue,5,2,3000,4000.0
+892,brooklyn,East New York,726 Liberty Avenue,1,1,0,1550.0
+893,brooklyn,Flatbush,72 Clarkson Avenue,3,1,0,2800.0
+894,brooklyn,Greenwood,200A 31st Street,2,1,0,2500.0
+895,brooklyn,Greenpoint,97 Green Street,5,1,1700,5300.0
+896,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+897,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+898,brooklyn,Crown Heights,495 Saint John's Place,2,2,0,4500.0
+899,brooklyn,Bushwick,481 Evergreen Avenue,2,1,0,2470.0
+900,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+901,brooklyn,Flatbush,2819 Tilden Avenue,2,1,0,1847.0
+902,brooklyn,Weeksville,232 Schenectady Avenue,3,1,1000,2800.0
+903,brooklyn,Prospect Lefferts Gardens,1217 Nostrand Avenue,2,1,0,2287.0
+904,brooklyn,Windsor Terrace,1107 Prospect Avenue,3,2.5,1900,5500.0
+905,brooklyn,Bushwick,1120 Halsey Street,2,1,0,2745.0
+906,brooklyn,Bushwick,1120 Halsey Street,1,1.5,0,2995.0
+907,brooklyn,Williamsburg,39 Conselyea Street,1,1.5,0,2800.0
+908,brooklyn,Bushwick,1120 Halsey Street,1,1.5,0,2654.0
+909,brooklyn,Bensonhurst,2047 Bayridge Avenue,3,2,0,2600.0
+910,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+911,brooklyn,Downtown Brooklyn,333 Schermerhorn Street,1,1,0,4143.0
+912,brooklyn,Windsor Terrace,596 Prospect Avenue,3,1,0,4000.0
+913,brooklyn,Homecrest,1837 East 29th Street,1,1,875,1575.0
+914,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+915,brooklyn,Bushwick,1354 Bushwick Avenue,2,2,0,3000.0
+916,brooklyn,Stuyvesant Heights,319 Lewis Avenue,1,1,0,3200.0
+917,brooklyn,Bay Ridge,257 86th Street,2,1,0,2300.0
+918,brooklyn,Bushwick,1008 Halsey Street,2,2,0,2650.0
+919,brooklyn,Sunset Park,353 40th Street,1,1,0,1890.0
+920,brooklyn,Bushwick,277 Menahan Street,3,1.5,0,3300.0
+921,brooklyn,East Flatbush,1369 East 49th Street,2,1,1000,2200.0
+922,brooklyn,Williamsburg,40 North 4th Street,1,1,0,4250.0
+923,brooklyn,Stuyvesant Heights,625 Madison Street,5,3.5,0,4500.0
+924,brooklyn,Stuyvesant Heights,858 Hancock Street,4,2,0,3375.0
+925,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+926,brooklyn,Bay Ridge,360 85th Street,3,1,0,2800.0
+927,brooklyn,Kensington,711 East 3rd Street,3,1.5,0,3199.0
+928,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+929,brooklyn,Bushwick,238 Eldert Street,3,1,0,2995.0
+930,brooklyn,Bushwick,810 Flushing Avenue,2,1,0,3075.0
+931,brooklyn,Bay Ridge,315 72nd Street,1,1,0,2100.0
+932,brooklyn,Bushwick,668 Bushwick Avenue,3,2,0,4201.0
+933,brooklyn,Bushwick,668 Bushwick Avenue,2,2,0,3800.0
+934,brooklyn,Bushwick,668 Bushwick Avenue,1,1,0,3000.0
+935,brooklyn,Borough Park,1162 37th Street,2,1,1000,2600.0
+936,brooklyn,Bushwick,668 Bushwick Avenue,1,1,0,3101.0
+937,brooklyn,Ditmas Park,400 East 21st Street,2,1,0,1999.0
+938,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+939,brooklyn,Bushwick,115 Stanwix Street,2,1,0,3800.0
+940,brooklyn,Weeksville,239 Utica Avenue,1,1,0,1999.0
+941,brooklyn,Williamsburg,126 North Fifth Street,2,1,0,4000.0
+942,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+943,brooklyn,Sunset Park,565 49th Street,3,2.5,2000,3200.0
+944,brooklyn,Williamsburg,299 Broadway,4,2,0,6000.0
+945,brooklyn,Fort Greene,241 Carlton Avenue,1,1,1000,3700.0
+946,brooklyn,New_Dev,180 Myrtle Avenue,0.5,1,443,3250.0
+947,brooklyn,East Williamsburg,136 Grattan Street,2,2,0,3190.0
+948,brooklyn,Sunset Park,327 43rd Street,2,1,0,2100.0
+949,brooklyn,Windsor Terrace,605 18th Street,1,1,0,2850.0
+950,brooklyn,East Williamsburg,97 Morgan Avenue,3,1,0,3575.0
+951,brooklyn,Bedford-Stuyvesant,700 Flushing Avenue,4,2,0,4250.0
+952,brooklyn,Bushwick,668 Bushwick Avenue,1,1,0,3000.0
+953,brooklyn,East Williamsburg,15 Judge Street,2,1,0,4250.0
+954,brooklyn,Borough Park,1747 62nd Street,1,1,0,1700.0
+955,brooklyn,Williamsburg,49 Broadway,1,1,0,3500.0
+956,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+957,brooklyn,Clinton Hill,127 Lefferts Place,3,2,0,4000.0
+958,brooklyn,Bedford-Stuyvesant,700 Flushing Avenue,4,2,0,4250.0
+959,brooklyn,Bay Ridge,644 73rd Street,1,1,0,1650.0
+960,brooklyn,Stuyvesant Heights,1875 Atlantic Avenue,2,1,0,2550.0
+961,brooklyn,Cobble Hill,111 Pacific Street,4,1,0,6000.0
+962,brooklyn,Bushwick,340 Evergreen Avenue,0.5,1,0,2400.0
+963,brooklyn,Williamsburg,310 Graham Avenue,3,1,0,5000.0
+964,brooklyn,Stuyvesant Heights,758 Putnam Avenue,4,1,0,3500.0
+965,brooklyn,Williamsburg,286 South 2nd Street,1,1,0,2750.0
+966,brooklyn,Ocean Hill,9 Pleasant Place,3,1,1000,2575.0
+967,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+968,brooklyn,Sunset Park,4422 Third Avenue,3,1.5,0,3000.0
+969,brooklyn,Sunset Park,4422 Third Avenue,2,1.5,0,2400.0
+970,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+971,brooklyn,Prospect Heights,832 Washington Avenue,3,1,0,3000.0
+972,brooklyn,Bedford-Stuyvesant,1491 Atlantic Avenue,1,1,0,2000.0
+973,brooklyn,Ocean Hill,141 Thomas S Boyland Street,2,1,0,2250.0
+974,brooklyn,East Flatbush,1645 New York Avenue,0.5,1,0,2500.0
+975,brooklyn,New_Dev,3415 Farragut Road,2,2,0,2850.0
+976,brooklyn,Bay Ridge,540 82nd Street,2,1,850,2200.0
+977,brooklyn,Fort Hamilton,378 92nd Street,2,2,0,2500.0
+978,brooklyn,Williamsburg,189 Ross Street,1,1,0,2500.0
+979,brooklyn,New_Dev,169 Johnson Avenue,1,1,0,3800.0
+980,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+981,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+982,brooklyn,Bedford-Stuyvesant,743 Park Avenue,2,1,0,3000.0
+983,brooklyn,Canarsie,917 East 92nd Street,2,1,0,2500.0
+984,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+985,brooklyn,Bushwick,1045 Jefferson Avenue,4,2,0,3400.0
+986,brooklyn,Williamsburg,236 South 1st Street,1,1,766,3995.0
+987,brooklyn,Prospect Park South,123 Parkside Avenue,0.5,1,557,2400.0
+988,brooklyn,Fort Greene,66 Rockwell Place,2,2,1025,6570.0
+989,brooklyn,Crown Heights,782 Franklin Avenue,3,2,0,3795.0
+990,brooklyn,Brighton Beach,3118 Brighton Fourth Street,1,1,0,1699.0
+991,brooklyn,Bushwick,334 Central Avenue,3,1,0,2995.0
+992,brooklyn,Bedford-Stuyvesant,820 Dekalb Avenue,4,4,1400,5400.0
+993,brooklyn,Bushwick,644 Wilson Avenue,2,2,0,2700.0
+994,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+995,brooklyn,Gravesend,8301 Bay Parkway,1,1,810,1995.0
+996,brooklyn,Williamsburg,17 Monitor Street,1,1,0,2999.0
+997,brooklyn,Crown Heights,1061 Bergen Street,3,1,0,2800.0
+998,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+999,brooklyn,Bushwick,247 Covert Street,2,1,0,2495.0
+1000,brooklyn,Weeksville,190 Utica Avenue,2,1,0,2350.0
+1001,brooklyn,Bushwick,24 Lawton Street,1,1,0,2550.0
+1002,brooklyn,Flatbush,1427 Flatbush Avenue,1,1,0,2399.0
+1003,brooklyn,Bedford-Stuyvesant,820 Dekalb Avenue,4,4,2500,5400.0
+1004,brooklyn,Bushwick,72 Palmetto Street,3,1,0,2899.0
+1005,brooklyn,New_Dev,1510 Gates Avenue,3,1.5,0,4350.0
+1006,brooklyn,Weeksville,650 Crown Street,1,1,0,1825.0
+1007,brooklyn,Williamsburg,310 Broadway,4,2,0,5999.0
+1008,brooklyn,Stuyvesant Heights,890 Herkimer Street,3,2,0,2600.0
+1009,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+1010,brooklyn,Fort Greene,66 Rockwell Place,0.5,1,512,3100.0
+1011,brooklyn,New_Dev,1510 Gates Avenue,2,1,0,3700.0
+1012,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+1013,brooklyn,Ocean Hill,587 Bainbridge Street,1,1,0,2199.0
+1014,brooklyn,Gravesend,206 Quentin Road,1,1,0,1750.0
+1015,brooklyn,Bushwick,1240 Madison Street,1,1.5,0,2999.0
+1016,brooklyn,New_Dev,1510 Gates Avenue,1,1,0,2950.0
+1017,brooklyn,Ocean Hill,2156 Fulton Street,2,1,0,2350.0
+1018,brooklyn,Stuyvesant Heights,926 Madison Street,3,1,0,2499.0
+1019,brooklyn,Crown Heights,1468 Eastern Parkway,3,2,900,2600.0
+1020,brooklyn,Bath Beach,54 Bay 29th Street,1,1,700,1600.0
+1021,brooklyn,Williamsburg,300 Broadway,4,2,0,5999.0
+1022,brooklyn,Stuyvesant Heights,1052 Greene Avenue,1,1,0,2800.0
+1023,brooklyn,Stuyvesant Heights,836 Monroe Street,3,1,0,2899.0
+1024,brooklyn,Bushwick,1040 Jefferson Avenue,4,2,0,3599.0
+1025,brooklyn,Sheepshead Bay,2738 East 19th Street,1,1,650,1600.0
+1026,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+1027,brooklyn,Farragut,5110 Clarendon Road,3,1,0,2500.0
+1028,brooklyn,Dyker Heights,1270 Ovington Avenue,0.5,1,0,1599.0
+1029,brooklyn,Flatbush,1361 Nostrand Avenue,3,1.5,0,2975.0
+1030,brooklyn,Fort Hamilton,357 88th Street,2,1,800,2800.0
+1031,brooklyn,Downtown Brooklyn,250 Gold Street,0.5,1,0,3300.0
+1032,brooklyn,Bushwick,1461 Gates Avenue,1,1.5,0,2950.0
+1033,brooklyn,Kensington,589 East 2nd Street,1,1,0,1850.0
+1034,brooklyn,Bay Ridge,316 68th Street,1,1,0,1550.0
+1035,brooklyn,Bushwick,422 Melrose Street,4,1.5,0,3550.0
+1036,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+1037,brooklyn,Bushwick,361 Stockholm Street,3,3,0,3900.0
+1038,brooklyn,Downtown Brooklyn,250 Gold Street,3,2,0,7000.0
+1039,brooklyn,Bushwick,1110 Halsey Street,2,1,0,2995.0
+1040,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+1041,brooklyn,Flatbush,14 East 21st Street,1,1,0,2375.0
+1042,brooklyn,East Flatbush,977 East 34th Street,2,2,0,2450.0
+1043,brooklyn,Downtown Brooklyn,250 Gold Street,2,1,0,4900.0
+1044,brooklyn,Kensington,796 Mcdonald Avenue,4,2,0,3000.0
+1045,brooklyn,Stuyvesant Heights,234 Pulaski Street,2,1,0,2599.0
+1046,brooklyn,Stuyvesant Heights,111 Van Buren Street,2,1,0,2400.0
+1047,brooklyn,Bay Ridge,62 Mac Kay Place,2,1,700,2000.0
+1048,brooklyn,East New York,107 Euclid Avenue,1,1,0,1650.0
+1049,brooklyn,Downtown Brooklyn,250 Gold Street,2,1,0,4650.0
+1050,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1051,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+1052,brooklyn,Fort Hamilton,357 88th Street,2,1,800,2800.0
+1053,brooklyn,Sunset Park,875 43rd Street,2,1,0,2121.0
+1054,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+1055,brooklyn,Flatbush,2553 Church Avenue,3,1,0,2500.0
+1056,brooklyn,Flatbush,316 East 29th Street,3,1.5,0,3000.0
+1057,brooklyn,Bushwick,1495 Gates Avenue,4,1.5,0,3665.0
+1058,brooklyn,Homecrest,2728 Kings Highway,1,1,0,1675.0
+1059,brooklyn,Williamsburg,276 Grand Street,1,1,0,3900.0
+1060,brooklyn,Prospect Heights,381 Park Place,2,1,1500,5500.0
+1061,brooklyn,Bushwick,175 Stockholm Street,4,1,0,3500.0
+1062,brooklyn,Columbia St Waterfront District,280 Columbia Street,2,1,0,3000.0
+1063,brooklyn,Park Slope,340 15th Street,3,1,0,3500.0
+1064,brooklyn,Fort Hamilton,233 95th Street,1,2,1100,2600.0
+1065,brooklyn,Stuyvesant Heights,858 Hancock Street,4,2,0,3299.0
+1066,brooklyn,Canarsie,1063 East 83rd Street,2,1,0,2300.0
+1067,brooklyn,Greenwood,201 17th Street,2,1,0,2575.0
+1068,brooklyn,Weeksville,1226 Lincoln Place,2,1,0,2099.0
+1069,brooklyn,Weeksville,1294 Park Place,1,1,0,2350.0
+1070,brooklyn,Park Slope,842 President Street,1,1,900,2900.0
+1071,brooklyn,Fort Hamilton,357 88th Street,3,1.5,1200,3500.0
+1072,brooklyn,Bushwick,304 Irving Avenue,3,1.5,0,3666.0
+1073,brooklyn,Homecrest,2530 Ocean Avenue,1,1,0,1500.0
+1074,brooklyn,Flatbush,1010 Rogers Avenue,2,1,0,2600.0
+1075,brooklyn,Greenwood,230 20th Street,3,2,0,4500.0
+1076,brooklyn,Bushwick,157 Starr Street,3,1,0,3200.0
+1077,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+1078,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+1079,brooklyn,Marine Park,2222 Ryder Street,0.5,1,210,1400.0
+1080,brooklyn,Bushwick,26 Park Street,4,2,0,3699.0
+1081,brooklyn,Brownsville,1115 Willmohr Street,3,2,0,2400.0
+1082,brooklyn,Bedford-Stuyvesant,333 Greene Avenue,2,2,0,5851.0
+1083,brooklyn,Prospect Lefferts Gardens,342 Rutland Road,3,1.5,0,2999.0
+1084,brooklyn,Stuyvesant Heights,157 Van Buren Street,3,2,1000,3400.0
+1085,brooklyn,Downtown Brooklyn,388 Bridge Street,1,1,615,3600.0
+1086,brooklyn,Downtown Brooklyn,388 Bridge Street,1,1,0,3600.0
+1087,brooklyn,Williamsburg,28 Cook Street,1,1,0,2500.0
+1088,brooklyn,Bedford-Stuyvesant,140 Madison Street,3,1,1000,2700.0
+1089,brooklyn,Bedford-Stuyvesant,360 Franklin Avenue,4,1,1000,2800.0
+1090,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+1091,brooklyn,Greenpoint,125 Mc Guiness Boulevard,1,1,600,2300.0
+1092,brooklyn,Bedford-Stuyvesant,217 Gates Avenue,3,1.5,1600,6000.0
+1093,brooklyn,Bushwick,435 Wilson Avenue,2,1.5,0,3200.0
+1094,brooklyn,East Flatbush,3405 Farragut Road,4,2,0,3000.0
+1095,brooklyn,Fort Hamilton,185 Marine Avenue,1,1,0,1699.0
+1096,brooklyn,Weeksville,1495 Sterling Place,2,1,0,2500.0
+1097,brooklyn,Bushwick,742 Bushwick Avenue,4,2,0,3799.0
+1098,brooklyn,Bushwick,70 Stockholm Street,3,1,0,2999.0
+1099,brooklyn,Boerum Hill,253 Dean Street,5,2.5,2395,20000.0
+1100,brooklyn,Park Slope,458 Fifth Avenue,3,1,930,4995.0
+1101,brooklyn,Bay Ridge,601 79th Street,1,1,900,1725.0
+1102,brooklyn,Williamsburg,353 South Fourth Street,3,2,0,4400.0
+1103,brooklyn,Crown Heights,377 Montgomery Street,3,1,0,2870.0
+1104,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+1105,brooklyn,Brownsville,75 East 95th Street,1,1,0,1525.0
+1106,brooklyn,Bushwick,147 Bleeker Street,2,2,0,2900.0
+1107,brooklyn,Kensington,318 Ditmas Avenue,2,1,0,2300.0
+1108,brooklyn,Crown Heights,1057 Bergan Street,2,1.5,0,3150.0
+1109,brooklyn,Crown Heights,769 Saint Johns Place,4,1,0,3500.0
+1110,brooklyn,Bedford-Stuyvesant,699 Lafayette Avenue,2,2,0,4250.0
+1111,brooklyn,Bushwick,541 Central Avenue,1,1,0,2199.0
+1112,brooklyn,Sunset Park,889 Fifth Avenue,1,1,0,1695.0
+1113,brooklyn,Bushwick,519 Knickerbocker Avenue,3,1,0,2899.0
+1114,brooklyn,Homecrest,2481 Ocean Avenue,0.5,1,650,2175.0
+1115,brooklyn,Williamsburg,297 Broadway,4,2,0,5999.0
+1116,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+1117,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+1118,brooklyn,Stuyvesant Heights,968 Myrtle Avenue,3,2,0,4000.0
+1119,brooklyn,Canarsie,1289 East 93rd Street,2,1,0,2100.0
+1120,brooklyn,Bedford-Stuyvesant,699 Lafayette Avenue,2,1.5,0,4250.0
+1121,brooklyn,Bushwick,26 Covert Street,3,1.5,0,3000.0
+1122,brooklyn,Bushwick,519 Knickerbocker Avenue,3,1,0,2899.0
+1123,brooklyn,Ditmas Park,404 East 21st Street,2,1,0,2045.0
+1124,brooklyn,Bedford-Stuyvesant,464 Quincy Street,2,1,0,2200.0
+1125,brooklyn,Canarsie,942 East 89th Street,3,1,0,2400.0
+1126,brooklyn,Fort Greene,66 Rockwell Place,1,1,710,4500.0
+1127,brooklyn,Bushwick,152 Grove Street,3,1,0,2549.0
+1128,brooklyn,New_Dev,365 Bond Street,2,1+,1351,7695.0
+1129,brooklyn,Bushwick,115 Stanwix Street,2,2,0,3800.0
+1130,brooklyn,Bushwick,594 Bushwick Avenue,2,1,0,3799.0
+1131,brooklyn,East Flatbush,1291 East 51st Street,2,1,0,2200.0
+1132,brooklyn,Bushwick,1225 Bushwick Avenue,3,1,0,2799.0
+1133,brooklyn,Bushwick,1140 Willoughby Avenue,3,1,0,3499.0
+1134,brooklyn,Stuyvesant Heights,268 Bainbridge Street,0.5,1,0,1750.0
+1135,brooklyn,Park Slope,160 Sixth Avenue,2,1,1000,3500.0
+1136,brooklyn,Greenwood,188 22nd Street,1,1,0,2400.0
+1137,brooklyn,Greenpoint,282A Nassau Avenue,1,1,917,3950.0
+1138,brooklyn,Bushwick,1114 Willoughby Avenue,2,2,0,2895.0
+1139,brooklyn,Bedford-Stuyvesant,699 Lafayette Avenue,1,1,600,2900.0
+1140,brooklyn,Prospect Lefferts Gardens,350 Sterling Street,2,1,0,2525.0
+1141,brooklyn,Bedford-Stuyvesant,18A Vernon Avenue,2,1,0,3150.0
+1142,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+1143,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+1144,brooklyn,Crown Heights,519 Eastern Parkway,1,1,0,2250.0
+1145,brooklyn,Midwood,1106 Avenue K,2,1,0,2100.0
+1146,brooklyn,Midwood,1906 Ocean Avenue,1,1,700,1800.0
+1147,brooklyn,Park Slope,189 Fifth Avenue,2,2,1000,4000.0
+1148,brooklyn,Marine Park,3912 Fillmore Avenue,3,1.5,0,3000.0
+1149,brooklyn,Prospect Park South,55 Parade Place,1,1,0,2200.0
+1150,brooklyn,Prospect Lefferts Gardens,576 Parkside Avenue,3,1,0,2400.0
+1151,brooklyn,Fort Greene,82A Vanderbilt Avenue,0.5,1,0,2450.0
+1152,brooklyn,Williamsburg,185 Leonard Street,1,1,0,3200.0
+1153,brooklyn,Flatbush,128 Linden Boulevard,2,1,0,2200.0
+1154,brooklyn,Bay Ridge,418 73rd Street,2,1,1000,2500.0
+1155,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+1156,brooklyn,Downtown Brooklyn,333 Schermerhorn Street,0.5,1,435,3388.0
+1157,brooklyn,Weeksville,1310 Saint John's Place,1,1,0,1975.0
+1158,brooklyn,Greenwood,291 20th Street,2,1,0,2699.0
+1159,brooklyn,East Williamsburg,65 Maspeth Avenue,2,1,0,3638.0
+1160,brooklyn,Bushwick,1271 Willoughby Avenue,3,2,0,4000.0
+1161,brooklyn,East Flatbush,3303 Foster Avenue,0.5,1,0,1465.0
+1162,brooklyn,Crown Heights,920 Pacific Street,2,2,0,4000.0
+1163,brooklyn,Bushwick,1229 Putman Avenue,2,2,900,3750.0
+1164,brooklyn,Downtown Brooklyn,343 Gold Street,2,2,1012,6084.0
+1165,brooklyn,Downtown Brooklyn,100 Willoughby Street,1,1,487,3470.0
+1166,brooklyn,Bedford-Stuyvesant,16 Saint Andrew's Place,3,1,0,3400.0
+1167,brooklyn,Flatbush,1620 New York Avenue,2,2,1500,4216.0
+1168,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+1169,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1170,brooklyn,East Flatbush,977 East 34th Street,2,2,0,2449.0
+1171,brooklyn,Flatbush,177 Veronica Place,2,1,0,2499.0
+1172,brooklyn,Park Slope,260 Fifth Avenue,3,2,1500,5800.0
+1173,brooklyn,Stuyvesant Heights,379 Kosciuszko Street,4,2,1700,4400.0
+1174,brooklyn,Dyker Heights,1322 80th Street,3,1,1000,2500.0
+1175,brooklyn,Flatbush,896 New York Avenue,2,2,0,2850.0
+1176,brooklyn,Homecrest,2277 Homecrest Avenue,1,1,700,1900.0
+1177,brooklyn,Bushwick,1086 Bushwick Avenue,3,2,1400,3499.0
+1178,brooklyn,Williamsburg,72 Maujer Street,1,1,0,3100.0
+1179,brooklyn,Crown Heights,776 Lincoln Place,5,1+,0,6500.0
+1180,brooklyn,Bushwick,541 Knickerbocker Avenue,4,1.5,0,4100.0
+1181,brooklyn,East New York,2227 Pitkin Avenue,2,1,0,2050.0
+1182,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+1183,brooklyn,Fort Hamilton,301 100th Street,1,1,738,1599.0
+1184,brooklyn,East Flatbush,483 Linden Boulevard,1,1,0,1750.0
+1185,brooklyn,Bay Ridge,230 73rd Street,1,1,0,1650.0
+1186,brooklyn,Fort Greene,475 Clermont Avenue,0.5,1,475,3682.0
+1187,brooklyn,Fort Greene,475 Clermont Avenue,1,1,540,3745.0
+1188,brooklyn,Fort Greene,475 Clermont Avenue,1,1.5,863,5244.0
+1189,brooklyn,Williamsburg,146 Meserole Street,3,1,0,3900.0
+1190,brooklyn,Bedford-Stuyvesant,103 Quincy Street,4,1,0,3999.0
+1191,brooklyn,Bedford-Stuyvesant,194 Herkimer Street,2,1,0,2475.0
+1192,brooklyn,Prospect Heights,533 Bergen Street,3,1,0,4200.0
+1193,brooklyn,Williamsburg,40 North 4th Street,1,2,0,5850.0
+1194,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+1195,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1196,brooklyn,Bushwick,412 Suydam Street,3,2,0,4499.0
+1197,brooklyn,Bensonhurst,2111 71st Street,3,1,1100,2400.0
+1198,brooklyn,Bedford-Stuyvesant,321 Putnam Avenue,3,2,0,3450.0
+1199,brooklyn,New_Dev,325 Kent Avenue,2,2,0,7127.0
+1200,brooklyn,Bushwick,22 Fayette Street,4,2,0,3999.0
+1201,brooklyn,Bushwick,233 Weirfield Street,2,1,0,2550.0
+1202,brooklyn,Brooklyn Heights,8 Garden Place,0.5,1,350,2150.0
+1203,brooklyn,Williamsburg,286 Broadway,4,2,0,5999.0
+1204,brooklyn,New_Dev,250 Ashland Place,1,1,0,4495.0
+1205,brooklyn,Sheepshead Bay,2908 Avenue X,3,1.5,0,2500.0
+1206,brooklyn,Bushwick,923 Broadway,3,1.5,0,3200.0
+1207,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+1208,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+1209,brooklyn,Crown Heights,1468 Eastern Parkway,2,1,700,2200.0
+1210,brooklyn,Bushwick,578 Bushwick Avenue,4,1.5,0,4500.0
+1211,brooklyn,Greenpoint,303 Kingland Avenue,3,1.5,0,3600.0
+1212,brooklyn,Bushwick,578 Bushwick Avenue,3,1.5,0,3500.0
+1213,brooklyn,Williamsburg,225 North 9th Street,1,1,0,5385.0
+1214,brooklyn,Bedford-Stuyvesant,518 Lafayette Avenue,2,1,0,2699.0
+1215,brooklyn,East Flatbush,779 Troy Avenue,2,1,0,2199.0
+1216,brooklyn,Bedford-Stuyvesant,505 Lafayette Avenue,3,1,0,2950.0
+1217,brooklyn,Bushwick,175 Stockholm Street,3,1,0,2800.0
+1218,brooklyn,Greenpoint,26 West Street,0.5,1,0,2792.0
+1219,brooklyn,Prospect Lefferts Gardens,620 Parkside Avenue,3,1,0,3100.0
+1220,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+1221,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+1222,brooklyn,Bushwick,816 Knickerbocker Avenue,2,1,0,2300.0
+1223,brooklyn,Williamsburg,74 Maujer Street,0.5,1,0,3100.0
+1224,brooklyn,Williamsburg,185 Leonard Street,0.5,1,0,3000.0
+1225,brooklyn,Williamsburg,69 Ten Eyck Street,1,1,0,3300.0
+1226,brooklyn,East Williamsburg,312 Devoe Street,1,1,0,3300.0
+1227,brooklyn,Bushwick,115 Stanwix Street,2,1,0,3800.0
+1228,brooklyn,Bushwick,115 Stanwix Street,1,1,0,3200.0
+1229,brooklyn,Williamsburg,284 Broadway,4,2,0,6000.0
+1230,brooklyn,Bushwick,153 Starr Street,3,1,0,3200.0
+1231,brooklyn,Prospect Lefferts Gardens,350 Sterling Street,2,1.5,0,2795.0
+1232,brooklyn,Flatbush,800 Flatbush Avenue,2,1,0,2993.0
+1233,brooklyn,Williamsburg,2 N 6th Place,3,3,1670,9295.0
+1234,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1235,brooklyn,Prospect Park South,1702 Caton Avenue,2,1,800,2599.0
+1236,brooklyn,Downtown Brooklyn,125 Court Street,0.5,1,520,3395.0
+1237,brooklyn,Fort Greene,300 Ashland Place,0.5,1,0,3250.0
+1238,brooklyn,Flatbush,800 Flatbush Avenue,3,2,0,3452.0
+1239,brooklyn,Flatbush,800 Flatbush Avenue,1,1,0,2487.0
+1240,brooklyn,Ditmas Park,520 East 21st Street,3,1,0,2285.0
+1241,brooklyn,Bushwick,230 Central Avenue,1,1,0,2750.0
+1242,brooklyn,Flatbush,800 Flatbush Avenue,1,1,0,2487.0
+1243,brooklyn,Bath Beach,2074 20 Lane,2,1,0,2050.0
+1244,brooklyn,Weeksville,1551 Sterling Place,3,1.5,1200,2599.0
+1245,brooklyn,Flatbush,800 Flatbush Avenue,0.5,1,0,1979.0
+1246,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+1247,brooklyn,Bushwick,115 Stanwix Street,2,1,0,3800.0
+1248,brooklyn,Kensington,707 Beverley Road,2,1,0,2500.0
+1249,brooklyn,Downtown Brooklyn,110 Livingston Street,3,2,1427,7995.0
+1250,brooklyn,Brownsville,217 East 92nd Street,2,1,0,2150.0
+1251,brooklyn,Bedford-Stuyvesant,154 Jefferson Avenue,1,1,0,2200.0
+1252,brooklyn,Flatbush,800 Flatbush Avenue,0.5,1,0,1979.0
+1253,brooklyn,Flatbush,894 New York Avenue,2,2,0,2849.0
+1254,brooklyn,Gravesend,1922 West 10th Street,2,1,0,2550.0
+1255,brooklyn,Ocean Hill,255 Hull Street,6,3,2500,4600.0
+1256,brooklyn,Ocean Hill,260 Mac Dougal Street,4,1,1000,2800.0
+1257,brooklyn,Ditmas Park,613 East 16th Street,1,1,0,1750.0
+1258,brooklyn,Bushwick,115 Stanwix Street,1,1,0,3200.0
+1259,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1260,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+1261,brooklyn,Bedford-Stuyvesant,35 Claver Place,2,2,0,3500.0
+1262,brooklyn,Williamsburg,205 North Ninth Street,1,1,0,5150.0
+1263,brooklyn,Downtown Brooklyn,125 Court Street,1,1,0,3995.0
+1264,brooklyn,Fort Hamilton,134 93rd Street,2,1,0,2600.0
+1265,brooklyn,Clinton Hill,54 Lexington Avenue,1,1,925,3225.0
+1266,brooklyn,Flatbush,1127 Flatbush Avenue,1,1,0,2225.0
+1267,brooklyn,Clinton Hill,54 Lexington Avenue,0.5,1,0,2850.0
+1268,brooklyn,Bushwick,340 Irving Avenue,4,1.5,0,3999.0
+1269,brooklyn,Bushwick,334 Central Avenue,3,1,0,3000.0
+1270,brooklyn,Crown Heights,1515 Pacific Street,2,1,1000,2995.0
+1271,brooklyn,Williamsburg,207 Richardson Street,2,1,0,3800.0
+1272,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+1273,brooklyn,Stuyvesant Heights,1052 Greene Avenue,1,1,0,2800.0
+1274,brooklyn,Bushwick,1071 Jefferson Avenue,6,4,1500,6000.0
+1275,brooklyn,Bensonhurst,1402 West Fourth Street,2,1,0,2199.0
+1276,brooklyn,Flatbush,986 Rogers Avenue,1,1,0,2500.0
+1277,brooklyn,Sunset Park,738 53rd Street,2,1,0,2399.0
+1278,brooklyn,Homecrest,2922 Nostrand Avenue,0.5,1,0,1390.0
+1279,brooklyn,Flatbush,154 East 29th Street,1,1,0,4060.0
+1280,brooklyn,Bushwick,260 Knickerbocker Avenue,2,1,0,4100.0
+1281,brooklyn,Greenpoint,157 Newel Street,2,1,0,4000.0
+1282,brooklyn,Park Slope,87 Fourth Avenue,3,2,0,3300.0
+1283,brooklyn,Bay Ridge,569 Bayridge Parkway,3,1,1200,2400.0
+1284,brooklyn,Stuyvesant Heights,655 Mac Donough Street,4,2,0,3200.0
+1285,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1286,brooklyn,Bushwick,668 Bushwick Avenue,3,2,0,4201.0
+1287,brooklyn,Greenpoint,26 West Street,0.5,1,0,2686.0
+1288,brooklyn,Dyker Heights,7121 Fort Hamilton Parkwa,2,1,888,1875.0
+1289,brooklyn,New_Dev,420 Kent Avenue,2,2,0,7206.0
+1290,brooklyn,Bedford-Stuyvesant,593 Marcy Avenue,1,1,0,2475.0
+1291,brooklyn,Crown Heights,238 Albany Avenue,1,1,900,2100.0
+1292,brooklyn,Brooklyn Heights,153 Remsen Street,2,2,0,6449.0
+1293,brooklyn,Stuyvesant Heights,319 Malcolm X Boulevard,2,2,0,2499.0
+1294,brooklyn,Weeksville,1993 Pacific Street,3,1,0,2999.0
+1295,brooklyn,Kensington,211 East 3rd Street,3,2,0,4500.0
+1296,brooklyn,Bedford-Stuyvesant,595 Marcy Avenue,5,2,0,4800.0
+1297,brooklyn,Weeksville,1244 Lincoln Place,3,1,0,2495.0
+1298,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+1299,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+1300,brooklyn,Williamsburg,300 Broadway,4,2,0,5995.0
+1301,brooklyn,Brownsville,694 Rockaway Avenue,2,1,0,1825.0
+1302,brooklyn,Bushwick,50 Irving Avenue,3,1.5,1675,4150.0
+1303,brooklyn,Bushwick,46 Starr Street,2,2,0,3099.0
+1304,brooklyn,Bedford-Stuyvesant,422 Lexington Avenue,3,2,0,3800.0
+1305,brooklyn,Bushwick,380 Grove Street,0.5,1,0,2650.0
+1306,brooklyn,Park Slope,536 2nd Street,1,1,900,3995.0
+1307,brooklyn,East New York,975 Liberty Avenue,1,1,0,2150.0
+1308,brooklyn,Stuyvesant Heights,539A Monroe Street,2,2,0,2800.0
+1309,brooklyn,Stuyvesant Heights,340 Chauncey Street,1,1,0,2500.0
+1310,brooklyn,East Williamsburg,222 Boerum Street,4,1.5,0,4500.0
+1311,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1312,brooklyn,East Flatbush,3514 Farragut Road,3,2,0,3300.0
+1313,brooklyn,Bedford-Stuyvesant,570 Nostrand Avenue,2,2,0,3400.0
+1314,brooklyn,Dyker Heights,1370 72nd Street,1,1,0,2200.0
+1315,brooklyn,Fort Hamilton,336 93rd Street,1,1,758,1575.0
+1316,brooklyn,Bedford-Stuyvesant,756 Myrtle Avenue,3,2,0,5900.0
+1317,brooklyn,Bath Beach,151 Bay 13th Street,2,1,1200,2000.0
+1318,brooklyn,Bay Ridge,219 78th Street,0.5,1,0,1495.0
+1319,brooklyn,Midwood,1355 East 18th Street,1,1,0,1700.0
+1320,brooklyn,Ocean Hill,540 Bainbridge Street,3,2,900,2395.0
+1321,brooklyn,Crown Heights,564 Saint John's Place 60EIGHT,0.5,1,443,2849.0
+1322,brooklyn,Bensonhurst,1402 West Fourth Street,2,1,0,2175.0
+1323,brooklyn,New_Dev,21 India Street,1,1,746,5450.0
+1324,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+1325,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+1326,brooklyn,Bushwick,582 Bushwick Avenue,4,1.5,0,4500.0
+1327,brooklyn,Crown Heights,635 Sterling Place,4,2,0,4650.0
+1328,brooklyn,New_Dev,550 Vanderbilt Avenue,1,1,646,3850.0
+1329,brooklyn,Brighton Beach,231 Brightwater Court,2,1,0,2500.0
+1330,brooklyn,Fort Hamilton,233 95th Street,1,2,1100,2600.0
+1331,brooklyn,Midwood,3310 Avenue J,4,1.5,0,2950.0
+1332,brooklyn,Bushwick,582 Bushwick Avenue,3,1.5,0,3500.0
+1333,brooklyn,Brownsville,305 Rockaway Parkway,3,1,0,2700.0
+1334,brooklyn,East Flatbush,3510 Avenue H,2,1,0,2299.0
+1335,brooklyn,Gowanus,569 Union Street,1,1,0,2300.0
+1336,brooklyn,New_Dev,21 India Street,1,1,695,4040.0
+1337,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+1338,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+1339,brooklyn,Crown Heights,495 Saint John's Place,2,2,0,4000.0
+1340,brooklyn,Midwood,1422 Avenue L,1,1,0,1650.0
+1341,brooklyn,Downtown Brooklyn,125 Court Street,0.5,1,0,3295.0
+1342,brooklyn,Williamsburg,440 Kent Avenue,3,2,0,17500.0
+1343,brooklyn,Greenwood,736 Fourth Avenue,3,1,1050,3500.0
+1344,brooklyn,Borough Park,937 63rd Street,1,1,0,1475.0
+1345,brooklyn,Homecrest,1815 East 17th Street,2,1,0,1950.0
+1346,brooklyn,Bushwick,467 Troutman Street,1,1,800,2800.0
+1347,brooklyn,Weeksville,1540 Sterling Place,2,1,0,2297.0
+1348,brooklyn,Crown Heights,635 Sterling Place,3,2,0,4400.0
+1349,brooklyn,Wingate,446 Kingston Avenue UNITB28,1,1,0,1595.0
+1350,brooklyn,Prospect Lefferts Gardens,620 Parkside Avenue,3,1,0,3100.0
+1351,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+1352,brooklyn,New_Dev,365 Bond Street,0.5,1,409,2846.0
+1353,brooklyn,New_Dev,1365 Nostrand Avenue,3,1.5,0,2775.0
+1354,brooklyn,New_Dev,420 Kent Avenue,0.5,1,0,3500.0
+1355,brooklyn,Stuyvesant Heights,536 Kosciusko Street,1,1,0,2340.0
+1356,brooklyn,Stuyvesant Heights,1004 Gates Avenue,1,1,0,2500.0
+1357,brooklyn,Clinton Hill,108 Steuben Street,0.5,1,0,2100.0
+1358,brooklyn,Crown Heights,409 Eastern Parkway,1,1,665,3695.0
+1359,brooklyn,Williamsburg,446 Kent Avenue,1,1,908,4000.0
+1360,brooklyn,Bushwick,744 Bushwick Avenue,4,2,0,3800.0
+1361,brooklyn,Flatbush,2064 Nostrand Avenue,1,1,0,1625.0
+1362,brooklyn,Bushwick,1075 Greene Avenue,3,2,0,3500.0
+1363,brooklyn,Williamsburg,111 Richardson Street,2,1,0,2395.0
+1364,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+1365,brooklyn,Ocean Hill,56A Somers Street,4,2,0,3500.0
+1366,brooklyn,Weeksville,215 Rochester Avenue,1,1,0,1850.0
+1367,brooklyn,Park Slope,571 Carroll Street,1,1,500,2750.0
+1368,brooklyn,Ocean Hill,56A Somers Street,3,2,0,2800.0
+1369,brooklyn,Fort Greene,1 Flatbush Avenue,0.5,1,455,2876.0
+1370,brooklyn,Brighton Beach,310 Neptune Avenue,1,1,0,1900.0
+1371,brooklyn,Canarsie,722 East 102nd Street,2,1,0,2000.0
+1372,brooklyn,Bensonhurst,1402 West Fourth Street,1,1,0,1799.0
+1373,brooklyn,Weeksville,1063 Eastern Parkway,4,2,0,2998.0
+1374,brooklyn,East Williamsburg,125 Thames Street,1,1,0,4400.0
+1375,brooklyn,Bath Beach,8654 16th Avenue,1,1,0,2750.0
+1376,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+1377,brooklyn,Bushwick,7 Ridgewood Place,2,1,0,2699.0
+1378,brooklyn,Greenpoint,305 Mc Guinness Boulevard,1,1,1121,4895.0
+1379,brooklyn,Prospect Lefferts Gardens,109 Winthrop Avenue,3,2,0,3700.0
+1380,brooklyn,Crown Heights,818 Bergan Street,1,1,0,4100.0
+1381,brooklyn,Crown Heights,732 Saint Mark's Avenue,3,1,0,2800.0
+1382,brooklyn,Bushwick,253 Stockholm Street,3,1,0,2750.0
+1383,brooklyn,Williamsburg,184 Kent Avenue,1,1,0,4700.0
+1384,brooklyn,Bushwick,196 Saint Nicholas Avenue,4,2,0,4000.0
+1385,brooklyn,Bay Ridge,514 Bay Ridge Parkway,1,1,0,1800.0
+1386,brooklyn,Flatbush,2116 Regent Place,2,1,0,2450.0
+1387,brooklyn,Kensington,905 Cortelyou Road,3,2.5,1300,3800.0
+1388,brooklyn,Midwood,848 East 28th Street,2,1,1000,2050.0
+1389,brooklyn,Bushwick,183 Eldert Street,3,1.5,0,3900.0
+1390,brooklyn,Canarsie,948 East 81st Street,4,2.5,0,3200.0
+1391,brooklyn,Bushwick,527 Knickerbocker Avenue,2,1.5,0,2885.0
+1392,brooklyn,Bushwick,951 Madison Street,4,1,0,4000.0
+1393,brooklyn,Prospect Heights,662 Pacific Street,0.5,1,0,3295.0
+1394,brooklyn,Flatbush,755 Rogers Avenue,2,1,0,2395.0
+1395,brooklyn,Crown Heights,1515 Pacific Street,3,1,0,3000.0
+1396,brooklyn,Flatbush,1814 Nostrand Avenue,1,1,900,1975.0
+1397,brooklyn,Bedford-Stuyvesant,640 Lafayette Avenue,1,1,0,2300.0
+1398,brooklyn,Bushwick,1144 Lafayette Avenue,3,3,2300,4800.0
+1399,brooklyn,Crown Heights,785 Franklin Avenue,4,2,0,4600.0
+1400,brooklyn,Midwood,1464 Ocean Avenue,1,1,0,1795.0
+1401,brooklyn,Bay Ridge,160 72nd Street,1,1,700,1850.0
+1402,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+1403,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+1404,brooklyn,New_Dev,363 Bond Street,1,1,0,3790.0
+1405,brooklyn,Midwood,1886 New York Avenue,2,1,0,2300.0
+1406,brooklyn,Bensonhurst,1365 West 7th Street,1,1,649,1499.0
+1407,brooklyn,Bensonhurst,1578 83rd Street,3,2,0,3200.0
+1408,brooklyn,Wingate,667 Brooklyn Avenue,3,1,0,2850.0
+1409,brooklyn,Crown Heights,1416 Saint Mark's Avenue,2,2,0,2500.0
+1410,brooklyn,Ditmas Park,390 East 21st Street,2,1,0,1998.0
+1411,brooklyn,Ditmas Park,390 East 21st Street,1,1,0,1775.0
+1412,brooklyn,Bedford-Stuyvesant,135 Quincy Street,1,1,0,3100.0
+1413,brooklyn,Bushwick,1147 Decatur Street,4,2,0,3495.0
+1414,brooklyn,Stuyvesant Heights,886 Hancock Street,0.5,1,0,1700.0
+1415,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+1416,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+1417,brooklyn,Flatbush,838 Flatbush Avenue,0.5,1,0,1950.0
+1418,brooklyn,Farragut,768 East 46th Street,2,1,0,2000.0
+1419,brooklyn,Ocean Hill,522 Bainbridge Street,2,1,900,2599.0
+1420,brooklyn,Downtown Brooklyn,248 Duffield Street,2,2,0,6895.0
+1421,brooklyn,Bushwick,361 Stockholm Street,3,3,0,3900.0
+1422,brooklyn,Fort Hamilton,59 Gelston Avenue,0.5,1,0,1600.0
+1423,brooklyn,Williamsburg,86 Havemeyer Street,4,2,0,5250.0
+1424,brooklyn,Flatbush,2728 Church Avenue,1,1,662,1950.0
+1425,brooklyn,Brooklyn Heights,20 Henry Street,1,1,0,4500.0
+1426,brooklyn,Brighton Beach,3066 Brighton Fourth Street,0.5,1,575,1515.0
+1427,brooklyn,Sunset Park,766 55th Street,1,1,850,1749.0
+1428,brooklyn,Carroll Gardens,65 2 Place,3,2.5,0,12750.0
+1429,brooklyn,Williamsburg,2 N 6th Place,3,3,1670,9295.0
+1430,brooklyn,Flatbush,375 East 31st Street,2,1,0,2100.0
+1431,brooklyn,East Flatbush,799 East 34th Street,2,2,0,2200.0
+1432,brooklyn,Stuyvesant Heights,519 Herkimer Street,3,2,0,3200.0
+1433,brooklyn,New_Dev,180 Myrtle Avenue,0.5,1,472,3150.0
+1434,brooklyn,Bushwick,1170 Madison Street,4,1,0,3250.0
+1435,brooklyn,Bushwick,638 Wilson Avenue,3,1.5,0,2800.0
+1436,brooklyn,Stuyvesant Heights,770 Lexington Avenue,2,2,0,2710.0
+1437,brooklyn,Williamsburg,146 South 4th Street,1,1,0,4239.0
+1438,brooklyn,Flatbush,221 Martence Street,3,1,0,2500.0
+1439,brooklyn,Gowanus,150 Fourth Avenue,2,2,0,6700.0
+1440,brooklyn,Bedford-Stuyvesant,566 Gates Avenue,2,1,0,2500.0
+1441,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1442,brooklyn,Sunset Park,5424 5th Avenue,3,1.5,1000,2900.0
+1443,brooklyn,East New York,Wyona Street,2,1,0,2250.0
+1444,brooklyn,Midwood,1510 Ocean Parkway,1,1,0,1650.0
+1445,brooklyn,Williamsburg,353 South Fourth Street,3,2,0,4200.0
+1446,brooklyn,New_Dev,1510 Gates Avenue,2,2,0,4300.0
+1447,brooklyn,New_Dev,1510 Gates Avenue,1,1,0,2950.0
+1448,brooklyn,Williamsburg,106 Bedford Avenue,4,1.5,0,7600.0
+1449,brooklyn,Bushwick,1327 Halsey Street,3,1,0,2800.0
+1450,brooklyn,Windsor Terrace,510 16th Street,2,1,0,3800.0
+1451,brooklyn,New_Dev,169 Johnson Avenue,2,2,0,4850.0
+1452,brooklyn,New_Dev,169 Johnson Avenue,1,1,0,3800.0
+1453,brooklyn,Crown Heights,885 Saint Johns Place,1,1,0,2650.0
+1454,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+1455,brooklyn,Flatbush,1626 New York Avenue,3,2,1500,4300.0
+1456,brooklyn,Downtown Brooklyn,250 Gold Street,3,2,0,7200.0
+1457,brooklyn,Greenpoint,1031 Lorimer Street,3,1,0,5000.0
+1458,brooklyn,Downtown Brooklyn,250 Gold Street,1,1,0,4250.0
+1459,brooklyn,Bay Ridge,455 78th Street,2,1,0,2600.0
+1460,brooklyn,Downtown Brooklyn,250 Gold Street,2,1,0,4800.0
+1461,brooklyn,Prospect Park South,700 Ocean Avenue,2,1,0,2550.0
+1462,brooklyn,Gravesend,2278 80th Street,2,2,0,2400.0
+1463,brooklyn,Bushwick,54 Noll Street,2,1,0,3577.0
+1464,brooklyn,Fort Greene,300 Ashland Place,2,2,0,6390.0
+1465,brooklyn,Fort Greene,300 Ashland Place,1,1,0,4190.0
+1466,brooklyn,Greenwood,282 18th Street,2,1,750,2500.0
+1467,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+1468,brooklyn,Stuyvesant Heights,858 Hancock Street,4,2,0,3375.0
+1469,brooklyn,Crown Heights,781 Lincoln Place,5,1+,0,6500.0
+1470,brooklyn,Bushwick,1389 Madison Street,1,1,0,2999.0
+1471,brooklyn,Bushwick,1342 Jefferson Avenue,3,1,0,3399.0
+1472,brooklyn,Stuyvesant Heights,1000 Herkimer Street GARDEN-APT,2,2,1400,3200.0
+1473,brooklyn,Sheepshead Bay,2730 East 23rd Street,1,1,0,1950.0
+1474,brooklyn,Bushwick,1153 Broadway,1,1,0,2300.0
+1475,brooklyn,Crown Heights,1418 Saint Mark's Avenue,2,2,0,2500.0
+1476,brooklyn,East Williamsburg,121 Knickerbocker Avenue,1,1,925,4315.0
+1477,brooklyn,New_Dev,420 Kent Avenue,0.5,1,0,3400.0
+1478,brooklyn,Greenpoint,145 Milton Street,1,1,0,3500.0
+1479,brooklyn,Stuyvesant Heights,59 Bainbridge Street,1,1,0,1900.0
+1480,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+1481,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+1482,brooklyn,East New York,66 Williams Avenue,3,1,1200,2800.0
+1483,brooklyn,Bushwick,1442 De Kalb Avenue,4,1.5,0,3750.0
+1484,brooklyn,Canarsie,1447 East 95th Street,2,1,0,2500.0
+1485,brooklyn,Sunset Park,4601 Sixth Avenue,1,1,0,1725.0
+1486,brooklyn,Kensington,234 East 4th Street,2,1,1000,3200.0
+1487,brooklyn,East Flatbush,1187 New York Avenue,3,2,0,2750.0
+1488,brooklyn,Stuyvesant Heights,568 Macon Street,0.5,1,0,1700.0
+1489,brooklyn,Bensonhurst,1970 85th Street,2,1,0,2000.0
+1490,brooklyn,Dyker Heights,6724 Eighth Avenue,2,1,800,1950.0
+1491,brooklyn,Borough Park,4512 Eleventh Avenue,2,1,0,2200.0
+1492,brooklyn,Williamsburg,121 Kent Avenue,2,1,0,3995.0
+1493,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1494,brooklyn,Fort Hamilton,233 95th Street,1,2,1100,2600.0
+1495,brooklyn,Bensonhurst,7121 20th Avenue,3,1,0,2100.0
+1496,brooklyn,Bay Ridge,138 71st Street,1,1,0,2000.0
+1497,brooklyn,Fort Hamilton,226 87th Street,3,1,0,2600.0
+1498,brooklyn,Greenpoint,1048 Manhattan Avenue,3,2,0,3950.0
+1499,brooklyn,Canarsie,948 East 81st Street,4,2.5,0,3200.0
+1500,brooklyn,Weeksville,1689 Sterling Place,4,4,0,4000.0
+1501,brooklyn,Stuyvesant Heights,851 Willoughby Avenue,2,1,0,2800.0
+1502,brooklyn,Bedford-Stuyvesant,1073 Bedford Avenue,4,1,0,3600.0
+1503,brooklyn,East Flatbush,774 East 56th Street,3,1.5,1100,2500.0
+1504,brooklyn,Gravesend,80 Bay 46th Street,3,2,1000,2600.0
+1505,brooklyn,Kensington,602 Ocean Parkway,1,1,700,1700.0
+1506,brooklyn,Crown Heights,1320 Dean Street,1,1,0,3000.0
+1507,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+1508,brooklyn,Bensonhurst,1838 80th Street,2,1,750,2100.0
+1509,brooklyn,Bay Ridge,42 72nd Street,3,2,0,3800.0
+1510,brooklyn,Greenpoint,733 Meeker Avenue,5,2,0,4600.0
+1511,brooklyn,Sunset Park,5217 Fourth Avenue,2,1,0,2599.0
+1512,brooklyn,Park Slope,206 Berkeley Place,0.5,1,0,2250.0
+1513,brooklyn,Sunset Park,4908 Fifth Avenue,2,1,0,2500.0
+1514,brooklyn,East New York,529 Hinsdale Street,2,1,0,2300.0
+1515,brooklyn,East Flatbush,451 East 53rd Street,3,2,0,2500.0
+1516,brooklyn,Brownsville,217 East 93rd Street,2,1,0,2300.0
+1517,brooklyn,Crown Heights,1237 President Street,2,1,1400,3795.0
+1518,brooklyn,Bushwick,1169 Jefferson Avenue,2,1,0,2750.0
+1519,brooklyn,Williamsburg,2 N 6th Place,3,3,1670,9295.0
+1520,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+1521,brooklyn,Gravesend,2795 Shore Parkway,0.5,1,0,1425.0
+1522,brooklyn,Park Slope,598 6th Street,1,2,0,3200.0
+1523,brooklyn,Midwood,1122 Chestnut Avenue,2,2,900,2823.0
+1524,brooklyn,Bedford-Stuyvesant,70 Herkimer Street,5,2,1000,4999.0
+1525,brooklyn,Canarsie,9516 Avenue A,2,1,0,2100.0
+1526,brooklyn,Bushwick,44 Troutman Street,4,1,0,3750.0
+1527,brooklyn,Brownsville,56 Rockaway Parkway,1,1,0,1650.0
+1528,brooklyn,Brownsville,200 East 94th Street,3,1,0,2800.0
+1529,brooklyn,Bath Beach,8745 19th Avenue,2,1,0,1975.0
+1530,brooklyn,East Flatbush,319 East 46th Street,3,1,0,2550.0
+1531,brooklyn,Midwood,1122 Chestnut Avenue,2,2,950,2522.0
+1532,brooklyn,Bushwick,115 Stanwix Street,1,1,0,3500.0
+1533,brooklyn,New_Dev,138 Willoughby Street,1,1,735,4500.0
+1534,brooklyn,Crown Heights,2169 Pacific Street,3,1,0,2400.0
+1535,brooklyn,Bedford-Stuyvesant,591 Marcy Avenue,1,1,0,2475.0
+1536,brooklyn,Borough Park,902 44th Street,1,1,750,1550.0
+1537,brooklyn,Bedford-Stuyvesant,103 Quincy Street,0.5,1,0,3999.0
+1538,brooklyn,Crown Heights,1057 Bergen Street,2,1.5,0,3150.0
+1539,brooklyn,Bedford-Stuyvesant,451 Franklin Avenue,2,1,0,2850.0
+1540,brooklyn,Wingate,706 Lefferts Avenue,1,1,775,1550.0
+1541,brooklyn,Greenwood,255A 19th Street,1,1,0,1899.0
+1542,brooklyn,Bushwick,340 Irving Avenue,2,1,450,2835.0
+1543,brooklyn,Crown Heights,771 Saint Johns Place,4,1,0,3500.0
+1544,brooklyn,Bushwick,960 Willoughby Avenue,3,1,0,3400.0
+1545,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+1546,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+1547,brooklyn,Brooklyn Heights,29 Willow Street,2,1,1000,6600.0
+1548,brooklyn,Brooklyn Heights,75 Clinton Street,1,1,0,4750.0
+1549,brooklyn,East Flatbush,3301 Farragut Road,1,1,775,1625.0
+1550,brooklyn,Downtown Brooklyn,111 Lawrence Street,1,1,667,3633.0
+1551,brooklyn,Flatbush,2513 Newkirk Avenue,1,1,825,1550.0
+1552,brooklyn,Bay Ridge,545 85th Street,1,1,0,1800.0
+1553,brooklyn,Downtown Brooklyn,196 Willoughby Street,2,1,0,8300.0
+1554,brooklyn,Stuyvesant Heights,655 Quincy Street,3,1.5,0,3000.0
+1555,brooklyn,Downtown Brooklyn,196 Willoughby Street,1,1,0,4325.0
+1556,brooklyn,Bushwick,238 Eldert Street,3,1,0,2995.0
+1557,brooklyn,Downtown Brooklyn,196 Willoughby Street,1,1,0,4700.0
+1558,brooklyn,Stuyvesant Heights,790 Madison Street,2,1,0,2654.0
+1559,brooklyn,Flatbush,1626 New York Avenue,3,2,1500,4300.0
+1560,brooklyn,Downtown Brooklyn,196 Willoughby Street,1,1,0,4425.0
+1561,brooklyn,Downtown Brooklyn,196 Willoughby Street,1,1,0,4650.0
+1562,brooklyn,Ocean Hill,1945 Broadway,2,1,0,2400.0
+1563,brooklyn,Stuyvesant Heights,214 Bainbridge Street,2,1,0,3199.0
+1564,brooklyn,Downtown Brooklyn,196 Willoughby Street,1,1,0,5025.0
+1565,brooklyn,Kensington,264 Webster Avenue,1,1,796,2875.0
+1566,brooklyn,Bushwick,1112 Halsey Street,2,1,0,2970.0
+1567,brooklyn,Downtown Brooklyn,196 Willoughby Street,0.5,1,0,3625.0
+1568,brooklyn,Bushwick,1112 Halsey Street,3,2,0,4325.0
+1569,brooklyn,Downtown Brooklyn,196 Willoughby Street,0.5,1,0,3875.0
+1570,brooklyn,Downtown Brooklyn,196 Willoughby Street,0.5,1,0,3675.0
+1571,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1572,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+1573,brooklyn,Williamsburg,228 South 3rd Street,1,1,0,2900.0
+1574,brooklyn,Bedford-Stuyvesant,1328 Fulton Street,3,2,0,4988.0
+1575,brooklyn,Canarsie,699 East 91st Street,3,1,0,3300.0
+1576,brooklyn,Downtown Brooklyn,196 Willoughby Street,0.5,1,0,3400.0
+1577,brooklyn,East Flatbush,3508 Farragut Rd,3,2,0,3299.0
+1578,brooklyn,Bedford-Stuyvesant,94 Mac Donough Street,2,1.5,0,5000.0
+1579,brooklyn,Bushwick,252 Stockholm Street,3,1,0,2750.0
+1580,brooklyn,Williamsburg,197 Humboldt Street,2,3,1700,7000.0
+1581,brooklyn,Prospect Lefferts Gardens,1283 Nostrand Avenue,3,1.5,0,2800.0
+1582,brooklyn,Stuyvesant Heights,316 Patchen Avenue,2,1,0,2600.0
+1583,brooklyn,East Flatbush,3508 Farragut Rd,2,1,0,2399.0
+1584,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+1585,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+1586,brooklyn,East Williamsburg,901 Grand Street,2,1,1000,3495.0
+1587,brooklyn,Homecrest,2075 East 16th Street,1,1,0,1699.0
+1588,brooklyn,Bushwick,412 Suydam Street,3,2,0,4250.0
+1589,brooklyn,Bath Beach,137 Bay 17th Street,3,1.5,1100,2300.0
+1590,brooklyn,New_Dev,10 Montieth Street,1,1,0,3709.0
+1591,brooklyn,Williamsburg,322 Rodney Street,2,1,0,3400.0
+1592,brooklyn,Bedford-Stuyvesant,756 Myrtle Avenue,1,1,0,3195.0
+1593,brooklyn,Clinton Hill,489 Washington Avenue,1,1,0,3000.0
+1594,brooklyn,Bushwick,115 Stanwix Street,2,1,0,3800.0
+1595,brooklyn,Bedford-Stuyvesant,1134 Fulton Street,2,1,0,3775.0
+1596,brooklyn,New_Dev,1510 Gates Avenue,1,1,0,2950.0
+1597,brooklyn,Bushwick,1556 Greene Avenue,4,2,0,3695.0
+1598,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+1599,brooklyn,Bushwick,369 Harman Street,3,1.5,0,4000.0
+1600,brooklyn,Bushwick,843 Knickerbocker Avenue,1,1,0,2000.0
+1601,brooklyn,Bushwick,336 Himrod Street,1,1,0,3350.0
+1602,brooklyn,Borough Park,913 47th Street,2,1,811,2000.0
+1603,brooklyn,Vinegar Hill,79 Bridge Street,0.5,1,695,3695.0
+1604,brooklyn,Flatbush,1083 Rogers Avenue,0.5,1,0,2100.0
+1605,brooklyn,Bedford-Stuyvesant,756 Myrtle Avenue,1,1,0,3000.0
+1606,brooklyn,Bath Beach,194 Bay 22nd Street,2,1,0,2095.0
+1607,brooklyn,Clinton Hill,425 Grand Avenue,1,1,0,3075.0
+1608,brooklyn,Stuyvesant Heights,479 Halsey Street,1,1,600,2150.0
+1609,brooklyn,Bedford-Stuyvesant,94 Mac Donough Street,4,4.5,0,10000.0
+1610,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+1611,brooklyn,Williamsburg,2 N 6th Place,3,3,1670,9295.0
+1612,brooklyn,Williamsburg,516 Lorimer Street,2,2,0,5400.0
+1613,brooklyn,DUMBO,220 Water Street,3,2,1500,8200.0
+1614,brooklyn,Ocean Hill,75A Somers Street,1,1,600,2100.0
+1615,brooklyn,Crown Heights,766 Franklin Avenue,1,1,0,2195.0
+1616,brooklyn,East Flatbush,129 East 52nd Street,4,2,0,3000.0
+1617,brooklyn,Crown Heights,901 Saint Johns Place,2,1,0,2795.0
+1618,brooklyn,Greenpoint,23 Greenpoint Avenue,3,2,1200,8500.0
+1619,brooklyn,Kensington,4219 18th Avenue,1,1,0,1750.0
+1620,brooklyn,Stuyvesant Heights,996 Putnam Avenue,4,2,0,3500.0
+1621,brooklyn,Ocean Hill,122 Thomas Boyland Street,2,1,0,2400.0
+1622,brooklyn,Fort Greene,188 South Oxford Street,2,1,0,3250.0
+1623,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1624,brooklyn,Williamsburg,2 N 6th Place,3,3,1670,9295.0
+1625,brooklyn,Dyker Heights,1210 Bayridge Parkway,3,1,1200,2600.0
+1626,brooklyn,Fort Hamilton,59 Gelston Avenue,0.5,1,0,1600.0
+1627,brooklyn,Williamsburg,198 Wilson Street,2,1,0,2498.0
+1628,brooklyn,Crown Heights,623 Nostrand Avenue,0.5,1.5,1000,1500.0
+1629,brooklyn,Williamsburg,217 Maujer Street,2,1,0,2599.0
+1630,brooklyn,Crown Heights,796 Sterling Place,0.5,1,0,1620.0
+1631,brooklyn,Park Slope,607 6th Street,1,1,0,3195.0
+1632,brooklyn,Bushwick,441 Irving Avenue,1,1,0,2475.0
+1633,brooklyn,Bushwick,1043 Jefferson Avenue,4,2,0,3400.0
+1634,brooklyn,Clinton Hill,139 Cambridge Place,3,2,0,5250.0
+1635,brooklyn,Bedford-Stuyvesant,186 Tompkins Avenue,2,2.5,1900,6000.0
+1636,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+1637,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+1638,brooklyn,Brooklyn Heights,172 Montague Street,2,2,0,6750.0
+1639,brooklyn,New_Dev,33 Bond Street,2,2,0,5360.0
+1640,brooklyn,Bushwick,1044 Hart Street,1,1,600,2200.0
+1641,brooklyn,Crown Heights,1440 Pacific Street,4,3,0,4800.0
+1642,brooklyn,Crown Heights,1440 Pacific Street,5,3,0,6000.0
+1643,brooklyn,Bushwick,345 Eldert Street,2,1,1200,2550.0
+1644,brooklyn,Prospect Lefferts Gardens,205 Sterling Street,2,1,1000,2800.0
+1645,brooklyn,Sheepshead Bay,3041 Ocean Avenue,2,2,1200,3500.0
+1646,brooklyn,Crown Heights,60 New York Avenue,4,2,0,3750.0
+1647,brooklyn,Brooklyn,10031A Fourth Avenue,2,2,1000,2875.0
+1648,brooklyn,Crown Heights,1436 Pacific Street,5,3,0,6000.0
+1649,brooklyn,Prospect Lefferts Gardens,620 Parkside Avenue,3,1,0,3100.0
+1650,brooklyn,Sunset Park,4422 Third Avenue,3,1.5,0,3000.0
+1651,brooklyn,Crown Heights,1436 Pacific Street,4,2,0,4800.0
+1652,brooklyn,East Flatbush,5608 Beverly Road,2,1,0,2400.0
+1653,brooklyn,Sheepshead Bay,2471 Coyle Street,2,1,0,2200.0
+1654,brooklyn,Crown Heights,1470 Eastern Parkway,2,1,0,2250.0
+1655,brooklyn,Bushwick,682 Bushwick Avenue,2,1,0,2475.0
+1656,brooklyn,Prospect Park South,60 Turner Place,0.5,1,0,1650.0
+1657,brooklyn,Ocean Hill,818 Mac Donough Street,4,3,2000,4000.0
+1658,brooklyn,Stuyvesant Heights,865 Willoughby Avenue,2,1,0,2950.0
+1659,brooklyn,Homecrest,1670 East 19th Street,1,1,0,2600.0
+1660,brooklyn,Bedford-Stuyvesant,756 Myrtle Avenue,2,2,0,3750.0
+1661,brooklyn,Bushwick,889 Bushwick Avenue,1,1,0,2500.0
+1662,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+1663,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1664,brooklyn,Park Slope,1650 Eighth Avenue,4,2,0,8750.0
+1665,brooklyn,Bushwick,123 Melrose Street,0.5,1,0,2450.0
+1666,brooklyn,Bushwick,145 Weirfield Street,3,2,0,3995.0
+1667,brooklyn,Bushwick,371 Irving Avenue,3,2,0,3600.0
+1668,brooklyn,Stuyvesant Heights,434 Hancock Street,3,1,0,3150.0
+1669,brooklyn,Bushwick,275 Irving Avenue,4,1.5,0,3300.0
+1670,brooklyn,Stuyvesant Heights,629A Madison Street,1,1,0,2400.0
+1671,brooklyn,Downtown Brooklyn,10 Nevins Street,2,2,984,5700.0
+1672,brooklyn,Williamsburg,32 Meserole Street,5,2,0,6200.0
+1673,brooklyn,Williamsburg,32 Meserole Street,3,1,0,4450.0
+1674,brooklyn,Williamsburg,381 Metropolitan Avenue,4,1,0,5100.0
+1675,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+1676,brooklyn,Prospect Lefferts Gardens,342 Rutland Road,3,1.5,0,3099.0
+1677,brooklyn,Cobble Hill,189 Amity Street,3,1,0,7900.0
+1678,brooklyn,Flatbush,2337 Bedford Avenue,3,2,0,4401.0
+1679,brooklyn,Brooklyn Heights,16 Willow Place,5,2.5,0,14000.0
+1680,brooklyn,Ocean Hill,398 Marion Street,3,2,0,3000.0
+1681,brooklyn,Bushwick,499 Evergreen Avenue,1,1,960,3245.0
+1682,brooklyn,Greenpoint,142 Franklin Street,2,1,0,2895.0
+1683,brooklyn,Windsor Terrace,33 Caton Place,2,2,0,4405.0
+1684,brooklyn,Crown Heights,374 Eastern Parkway,1,1,1100,2900.0
+1685,brooklyn,Clinton Hill,90 Downing Street,2,1,0,3995.0
+1686,brooklyn,Crown Heights,461 Saratoga Avenue,3,1,0,2449.0
+1687,brooklyn,Flatbush,1363 Nostrand Avenue,3,1.5,0,2775.0
+1688,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+1689,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+1690,brooklyn,Brooklyn Heights,141 Joralemon Street,3,2,0,5700.0
+1691,brooklyn,Crown Heights,497 Prospect Place,4,1.5,0,3849.0
+1692,brooklyn,Bushwick,527 Knickerbocker Avenue,4,1.5,0,4000.0
+1693,brooklyn,Crown Heights,497 Prospect Place,4,1.5,0,3799.0
+1694,brooklyn,Downtown Brooklyn,388 Bridge Street,0.5,1,504,2995.0
+1695,brooklyn,Bedford-Stuyvesant,141 Spencer Street,1,1,0,3300.0
+1696,brooklyn,Bay Ridge,542 80th Street,3,1.5,0,2950.0
+1697,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+1698,brooklyn,Bushwick,123 Melrose Street,1,1,0,3550.0
+1699,brooklyn,Homecrest,1584 East 29th Street,3,1,0,2400.0
+1700,brooklyn,Flatlands,2185 Schenectady Avenue,2,1,660,2400.0
+1701,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+1702,brooklyn,Bushwick,16 Charles Place,1,1,0,2800.0
+1703,brooklyn,Crown Heights,591 Franklin Avenue,4,1,0,3650.0
+1704,brooklyn,Bushwick,90 Wilson Avenue,4,1,0,3650.0
+1705,brooklyn,Williamsburg,71 Herbert Street,2,1,0,3300.0
+1706,brooklyn,Gowanus,93 15th Street,1,1,0,2300.0
+1707,brooklyn,Flatbush,2610 Glenwood Road,2,1,900,2250.0
+1708,brooklyn,Sunset Park,4102 Eighth Avenue,2,1,0,2499.0
+1709,brooklyn,Bushwick,803 Wyckoff Avenue,3,2,0,3550.0
+1710,brooklyn,Brooklyn Heights,19 Grace Court,2,1,900,4200.0
+1711,brooklyn,Sheepshead Bay,2680 East 19th Street,1,1,675,1600.0
+1712,brooklyn,Crown Heights,625 Park Place,4,2,0,4600.0
+1713,brooklyn,Prospect Lefferts Gardens,330 Lefferts Avenue,3,1,0,2950.0
+1714,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+1715,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+1716,brooklyn,Stuyvesant Heights,415 Chauncey Street,1,1,0,1800.0
+1717,brooklyn,Bushwick,1234 Bushwick Avenue,1,1,0,2600.0
+1718,brooklyn,Bay Ridge,8520 Third Avenue,3,1,0,2600.0
+1719,brooklyn,Stuyvesant Heights,646 Hancock Street,1,1,900,1900.0
+1720,brooklyn,Bensonhurst,7402 Bay Parkway,1,1,0,1800.0
+1721,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+1722,brooklyn,Weeksville,1481 Prospect Place,3,1,0,3300.0
+1723,brooklyn,Crown Heights,366 Montgomery Street,3,2,0,3600.0
+1724,brooklyn,Boerum Hill,610 Warren Street,2,2,1142,5995.0
+1725,brooklyn,Brownsville,426 Rockaway Parkway,1,1,0,1500.0
+1726,brooklyn,Park Slope,182 Garfield Place,0.5,1,0,1950.0
+1727,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+1728,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+1729,brooklyn,Park Slope,182 Garfield Place,1,1,0,2275.0
+1730,brooklyn,Bushwick,133 Starr Street,4,1,0,3895.0
+1731,brooklyn,Clinton Hill,93 Waverly Avenue,1,1,1000,3190.0
+1732,brooklyn,Fort Greene,475 Clermont Avenue,1,1.5,786,4921.0
+1733,brooklyn,Bushwick,820 Knickerbocker Avenue,2,2,0,2900.0
+1734,brooklyn,Crown Heights,487 Saint Johns Place,0.5,1,0,1742.0
+1735,brooklyn,Crown Heights,836 Bergen Street,4,2,1450,6241.0
+1736,brooklyn,New_Dev,10 Montieth Street,2,1,0,3654.0
+1737,brooklyn,Gravesend,2354 West Street,2,1,0,2199.0
+1738,brooklyn,Bushwick,889 Bushwick Avenue,2,1,0,3200.0
+1739,brooklyn,Williamsburg,402 Broadway,3,1,0,3600.0
+1740,brooklyn,East Williamsburg,1087 Flushing Avenue,1,1,1000,4400.0
+1741,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+1742,brooklyn,Bath Beach,8630 Bay Parkway,2,1,800,1950.0
+1743,brooklyn,Fort Hamilton,351 Marine Avenue,1,1,900,1775.0
+1744,brooklyn,Homecrest,2276 East 13th Street,1,1,550,1600.0
+1745,brooklyn,Homecrest,2414 Kings Highway,4,2,0,3300.0
+1746,brooklyn,Weeksville,1625 Park Place,2,1,0,2275.0
+1747,brooklyn,Williamsburg,111 Richardson Street,2,1,0,2395.0
+1748,brooklyn,Weeksville,1444 Saint Johns Place,2,1,534,2200.0
+1749,brooklyn,Crown Heights,1323 Bedford Avenue,3,1,0,2850.0
+1750,brooklyn,Greenpoint,72 Box Street,0.5,1,0,2730.0
+1751,brooklyn,Gravesend,9 Murdock Court,1,1,803,1875.0
+1752,brooklyn,Ditmas Park,732 East 21st Street,1,1,0,1800.0
+1753,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+1754,brooklyn,East Williamsburg,15 Judge Street,2,1,0,4250.0
+1755,brooklyn,Bedford-Stuyvesant,717 De Kalb Avenue,3,1.5,0,3200.0
+1756,brooklyn,Weeksville,353 Troy Avenue,3,2,1000,2750.0
+1757,brooklyn,Bay Ridge,333 86th Street,1,1,0,2099.0
+1758,brooklyn,Flatbush,1274 New York Avenue,2,1,0,2654.0
+1759,brooklyn,Greenpoint,150 Eagle Street,1,1,0,4800.0
+1760,brooklyn,Bedford-Stuyvesant,545 Marcy Avenue,2,1,0,2500.0
+1761,brooklyn,DUMBO,60 Water Street,2,1,0,6632.0
+1762,brooklyn,Bushwick,1009 Willoughby Avenue,3,3,0,3999.0
+1763,brooklyn,Bushwick,18 Jefferson Street,3,2,1100,3625.0
+1764,brooklyn,East Williamsburg,250 Moore Street,0.5,1,1000,3500.0
+1765,brooklyn,East Williamsburg,924 Metropolitan Avenue,2,1,0,4350.0
+1766,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1767,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+1768,brooklyn,Wingate,530 Midwood Street,2,2,0,2850.0
+1769,brooklyn,New Lots,864 Elton Street,3,1,0,2868.0
+1770,brooklyn,Stuyvesant Heights,623 Halsey Street,3,2,0,2988.0
+1771,brooklyn,Ditmas Park,955 Coney Island Avenue,2,1,0,2500.0
+1772,brooklyn,Williamsburg,431 Humboldt Street,1,1,0,2700.0
+1773,brooklyn,Bushwick,218 Stanhope Street,4,1,0,3599.0
+1774,brooklyn,Flatbush,8 Fairview Place,2,1,1100,3400.0
+1775,brooklyn,Williamsburg,240 Meeker Avenue,2,1,0,3799.0
+1776,brooklyn,East Flatbush,800 Empire Boulevard,3,2,0,3400.0
+1777,brooklyn,Kensington,25 Tehama Street,1,1,0,2099.0
+1778,brooklyn,Crown Heights,228 New York Avenue,3,2,0,3274.0
+1779,brooklyn,DUMBO,100 Jay Street,1,1,0,4495.0
+1780,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1781,brooklyn,Weeksville,1184 Saint Marks Avenue,3,1,0,2650.0
+1782,brooklyn,Crown Heights,1700 Lincoln Place,2,1.5,0,2650.0
+1783,brooklyn,Crown Heights,1700 Lincoln Place,3,2,0,2650.0
+1784,brooklyn,Flatbush,850 Flatbush Avenue,2,1,0,2850.0
+1785,brooklyn,Flatbush,794 Rogers Avenue,1,1,0,2299.0
+1786,brooklyn,Bushwick,88 George Street,3,1,0,3100.0
+1787,brooklyn,Bushwick,507 Central Avenue,4,3.5,0,4300.0
+1788,brooklyn,Prospect Lefferts Gardens,336 Rutland Road,3,1.5,0,3095.0
+1789,brooklyn,Crown Heights,1700 Lincoln Place,2,1,0,2250.0
+1790,brooklyn,Bushwick,115 Stanwix Street,2,1,0,3800.0
+1791,brooklyn,Brooklyn Heights,75 Clinton Street,0.5,1,0,3600.0
+1792,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+1793,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+1794,brooklyn,Red Hook,415 Van Brunt Street,1,1,700,2650.0
+1795,brooklyn,Clinton Hill,278 Lafayette Avenue,1,1,0,3950.0
+1796,brooklyn,Sunset Park,465 46th Street,3,1,0,2350.0
+1797,brooklyn,New_Dev,1 Ocean Drive,1,1,0,2546.0
+1798,brooklyn,Downtown Brooklyn,237 Duffield Street,0.5,1,0,2750.0
+1799,brooklyn,Weeksville,205 Troy Avenue,2,1.5,0,2999.0
+1800,brooklyn,Gravesend,26 Bay 38th Street,3,1,0,2400.0
+1801,brooklyn,New_Dev,111 Montgomery Street,1,1,643,3500.0
+1802,brooklyn,Weeksville,205 Troy Avenue,3,1.5,0,2999.0
+1803,brooklyn,Canarsie,638 East 103rd Street,3,2,1000,2499.0
+1804,brooklyn,New_Dev,10 Montieth Street,1,1,0,3700.0
+1805,brooklyn,Prospect Lefferts Gardens,1208 Nostrand Avenue,2,1,0,2500.0
+1806,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+1807,brooklyn,New_Dev,11 Hoyt Street,1,1,698,4550.0
+1808,brooklyn,Park Slope,182 Garfield Place,0.5,1,0,2050.0
+1809,brooklyn,Flatbush,1822 Nostrand Avenue,2,1,0,2299.0
+1810,brooklyn,Crown Heights,245 Sullivan Place,2,1.5,997,2700.0
+1811,brooklyn,Bushwick,537 Central Avenue,1,1,0,2200.0
+1812,brooklyn,Flatbush,159 Martense Street,2,1,1100,2800.0
+1813,brooklyn,New_Dev,10 Montieth Street,1,1,0,3146.0
+1814,brooklyn,New_Dev,10 Montieth Street,1,1,0,2842.0
+1815,brooklyn,Flatbush,1822 Nostrand Avenue,3,1,0,2299.0
+1816,brooklyn,Weeksville,1298 Park Place,1,1,0,2299.0
+1817,brooklyn,Bushwick,296 Melrose Street,2,1.5,0,3650.0
+1818,brooklyn,Bushwick,668 Bushwick Avenue,1,1,0,3000.0
+1819,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+1820,brooklyn,Flatbush,1363 Nostrand Avenue,2,1,0,2750.0
+1821,brooklyn,Flatbush,1363 Nostrand Avenue,3,1,0,2750.0
+1822,brooklyn,Prospect Park South,1015 Church Avenue,0.5,1,0,2100.0
+1823,brooklyn,Stuyvesant Heights,470 Pulaski Street,2,1,0,2800.0
+1824,brooklyn,Greenwood,208 19th Street,3,3,2000,7500.0
+1825,brooklyn,New_Dev,1 Ocean Drive,3,2,0,4421.0
+1826,brooklyn,New_Dev,1 Ocean Drive,1,1,0,2419.0
+1827,brooklyn,Clinton Hill,3 Quincy Street,3,1,0,3450.0
+1828,brooklyn,Bushwick,35 Schaefer Street,2,2,0,2345.0
+1829,brooklyn,Stuyvesant Heights,460 Pulaski Street,3,1,0,3300.0
+1830,brooklyn,Williamsburg,275 South 5th Street,1,1,0,5157.0
+1831,brooklyn,Bushwick,115 Stanwix Street,2,2,0,3800.0
+1832,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+1833,brooklyn,Crown Heights,941 Washington Avenue,4,2,0,7000.0
+1834,brooklyn,Bushwick,392 Stanhope Street,3,1.5,1300,2900.0
+1835,brooklyn,Crown Heights,921 Washington Avenue,3,2,0,5100.0
+1836,brooklyn,Prospect Lefferts Gardens,620 Parkside Avenue,2,1,0,2650.0
+1837,brooklyn,Bushwick,115 Stanwix Street,2,2,0,3800.0
+1838,brooklyn,Bushwick,115 Stanwix Street,3,2,0,5500.0
+1839,brooklyn,Crown Heights,225 Eastern Parkway,4,3,2000,7500.0
+1840,brooklyn,East New York,2227 Pitkin Avenue,2,1,0,2050.0
+1841,brooklyn,Sunset Park,845 43rd Street,1,1,622,2150.0
+1842,brooklyn,Greenpoint,127 Newton Street,1,1,0,2400.0
+1843,brooklyn,Stuyvesant Heights,987 Lafayette Avenue,4,1.5,0,3399.0
+1844,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+1845,brooklyn,Sunset Park,4422 Third Avenue,2,1.5,0,2400.0
+1846,brooklyn,Kensington,525 Ocean Parkway,1,1,0,1975.0
+1847,brooklyn,Bedford-Stuyvesant,978 Kent Avenue,3,2,0,3800.0
+1848,brooklyn,Bedford-Stuyvesant,978 Kent Avenue,2,1,0,2800.0
+1849,brooklyn,Ocean Hill,274 Sumpter Street,4,1,0,2999.0
+1850,brooklyn,Stuyvesant Heights,220A Patchen Avenue,3,2.5,2100,4990.0
+1851,brooklyn,East New York,366 Ridgewood Avenue,2,1,0,2200.0
+1852,brooklyn,Bay Ridge,8220 Ft Hamilton Parkway,1,1,0,1900.0
+1853,brooklyn,Flatbush,61 Martense Street,2,1,786,2700.0
+1854,brooklyn,Canarsie,1625 Rockaway Parkway,3,1,0,2375.0
+1855,brooklyn,Park Slope,420 Seventh Avenue,3,2,0,6400.0
+1856,brooklyn,Bushwick,825 Bushwick Avenue,5,3,0,4250.0
+1857,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+1858,brooklyn,Williamsburg,288 Ainslie Street,2,1,0,3850.0
+1859,brooklyn,Ditmas Park,386 East 16th Street,2,1,0,2550.0
+1860,brooklyn,East Flatbush,799 East 34th Street,3,2,0,2850.0
+1861,brooklyn,East New York,396 Shepherd Avenue,1,2,0,2450.0
+1862,brooklyn,Fort Hamilton,8701 Fifth Avenue,2,1,0,1975.0
+1863,brooklyn,East Flatbush,3414 Farragut Road,1,1,829,3050.0
+1864,brooklyn,East Flatbush,3414 Farragut Road,2,2,801,3200.0
+1865,brooklyn,New_Dev,1 City Point,1,1,0,4650.0
+1866,brooklyn,Williamsburg,185 Leonard Street,2,1,0,4000.0
+1867,brooklyn,Weeksville,1772 Bergen Street,3,1,0,2900.0
+1868,brooklyn,Bushwick,174 Knickerbocker Avenue,3,1,0,3100.0
+1869,brooklyn,Weeksville,1540 Park Place,1,1,0,2044.0
+1870,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1871,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+1872,brooklyn,Bushwick,24 Lawton Street,2,1,0,3125.0
+1873,brooklyn,Sunset Park,463 43rd Street,1,1,1000,2400.0
+1874,brooklyn,Weeksville,209 Troy Avenue,3,1.5,0,2995.0
+1875,brooklyn,Bedford-Stuyvesant,427 Putnam Avenue,2,1,0,2550.0
+1876,brooklyn,Stuyvesant Heights,358 Kosciuszko Street,2,1,0,3145.0
+1877,brooklyn,Ocean Hill,255 Hull Street,3,1,0,2650.0
+1878,brooklyn,Brownsville,2106 Strauss Street,3,2,0,2400.0
+1879,brooklyn,East Flatbush,3414 Farragut Road,2,1,707,2950.0
+1880,brooklyn,New_Dev,420 Kent Avenue,0.5,1,0,3200.0
+1881,brooklyn,East Flatbush,3506 Farragut Road,3,2,0,3300.0
+1882,brooklyn,Downtown Brooklyn,436 Albee Square,1,1,0,3400.0
+1883,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+1884,brooklyn,Stuyvesant Heights,655 Mac Donough Street,4,2,0,3200.0
+1885,brooklyn,New_Dev,1 Blue Slip,2,2,0,6985.0
+1886,brooklyn,Ditmas Park,985 Ocean Avenue,1,1,0,1700.0
+1887,brooklyn,Prospect Lefferts Gardens,305 Ocean Avenue,2,1,0,2450.0
+1888,brooklyn,Weeksville,1298 Park Place,2,1,0,2299.0
+1889,brooklyn,Midwood,1096 East 16th Street,2,1,0,1999.0
+1890,brooklyn,Prospect Park South,11 Crooke Avenue,1,1,0,2300.0
+1891,brooklyn,Bushwick,64 Harman Street,1,1,0,2099.0
+1892,brooklyn,Bushwick,339 Cornelia Street,3,2,1000,3500.0
+1893,brooklyn,Stuyvesant Heights,867 De Kalb Avenue,3,1,0,2850.0
+1894,brooklyn,Brooklyn Heights,180 Montague Street,1,1,518,3501.0
+1895,brooklyn,East Flatbush,3414 Farragut Road,1,1,672,2800.0
+1896,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+1897,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1898,brooklyn,Fort Greene,16 North Portland Avenue,2,1,0,2900.0
+1899,brooklyn,Williamsburg,65 Scholes Street,3,2,1510,5750.0
+1900,brooklyn,East Flatbush,3414 Farragut Road,2,1,680,2800.0
+1901,brooklyn,Ocean Hill,249 Hull Street,3,2,1116,3500.0
+1902,brooklyn,East Flatbush,3414 Farragut Road,2,1,640,2950.0
+1903,brooklyn,Stuyvesant Heights,865 Willoughby Avenue,2,1,0,2799.0
+1904,brooklyn,Flatbush,2574 Bedford Avenue,2,1,0,2100.0
+1905,brooklyn,Park Slope,615 Warren Street,1,1,0,2750.0
+1906,brooklyn,Stuyvesant Heights,295 Bainbridge Street,2,1,0,2250.0
+1907,brooklyn,Crown Heights,1830 Prospect Place,2,1,800,2200.0
+1908,brooklyn,Stuyvesant Heights,686 Jefferson Avenue,4,2,0,3600.0
+1909,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+1910,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+1911,brooklyn,Greenwood,610 Fifth Avenue,1,2,850,2600.0
+1912,brooklyn,Bushwick,35 Pilling Street,1,1,700,1700.0
+1913,brooklyn,Clinton Hill,555 Washington Avenue,1,1.5,1400,3650.0
+1914,brooklyn,Bedford-Stuyvesant,1043 Bedford Avenue,3,1.5,0,3045.0
+1915,brooklyn,Downtown Brooklyn,250 Gold Street,3,2,0,6000.0
+1916,brooklyn,Stuyvesant Heights,181 Chauncey Street,2,2,0,3475.0
+1917,brooklyn,Williamsburg,80 Metropolitan Avenue,0.5,1,529,3250.0
+1918,brooklyn,Bushwick,1054 Bushwick Avenue,3,1,0,3650.0
+1919,brooklyn,Ditmas Park,1160 Ocean Avenue,0.5,1,0,1399.0
+1920,brooklyn,Bushwick,1054 Bushwick Avenue,1,1.5,0,3400.0
+1921,brooklyn,Kensington,102 Albemarle Road,3,1,1000,3250.0
+1922,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1923,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+1924,brooklyn,New_Dev,595 Baltic Street,1,1,0,4160.0
+1925,brooklyn,Williamsburg,70 Bushwick Avenue,3,2,0,4200.0
+1926,brooklyn,Bushwick,1054 Bushwick Avenue,2,1.5,0,3400.0
+1927,brooklyn,Bushwick,537 Central Avenue,1,1,0,2200.0
+1928,brooklyn,Williamsburg,209 Montrose Avenue,4,2,0,6750.0
+1929,brooklyn,Crown Heights,901 Saint Johns Place,2,1,0,2795.0
+1930,brooklyn,Gravesend,114 Bay 49th Street,1,1,0,1525.0
+1931,brooklyn,Gravesend,1945 West 6th Street,1,1,0,1450.0
+1932,brooklyn,Prospect Park South,522 Ocean Avenue,1,1,0,1750.0
+1933,brooklyn,Bedford-Stuyvesant,535 Classon Avenue,1,1,0,2995.0
+1934,brooklyn,Bushwick,1079 Madison Street,2,1,0,2695.0
+1935,brooklyn,Bushwick,361 Stockholm Street,3,3,0,3900.0
+1936,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+1937,brooklyn,Weeksville,1364 Sterling Place,3,1,0,2695.0
+1938,brooklyn,Crown Heights,89 Kingston Avenue,4,1,0,3400.0
+1939,brooklyn,New_Dev,500 Metropolitan Avenue,1,1,0,3970.0
+1940,brooklyn,New_Dev,1365 Nostrand Avenue,3,1.5,0,2770.0
+1941,brooklyn,Park Slope,267 6th Street,1,1,0,4000.0
+1942,brooklyn,Flatbush,880 New York Avenue,3,1,800,2700.0
+1943,brooklyn,Midwood,202 Avenue M,3,1,1100,2700.0
+1944,brooklyn,Ocean Hill,61A Somers Street,2,1.5,0,2350.0
+1945,brooklyn,Weeksville,1135 Saint Mark's Avenue,3,1.5,0,2600.0
+1946,brooklyn,Kensington,15 Turner Place,2,1,900,3500.0
+1947,brooklyn,Downtown Brooklyn,100 Willoughby Street,0.5,1,431,3275.0
+1948,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+1949,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+1950,brooklyn,Crown Heights,222 Albany Avenue,1,1,0,2000.0
+1951,brooklyn,East New York,287 Shepherd Avenue,2,1,0,2350.0
+1952,brooklyn,Stuyvesant Heights,470 Pulaski Street,3,1,0,4000.0
+1953,brooklyn,Stuyvesant Heights,470 Pulaski Street,2,1,0,2800.0
+1954,brooklyn,Greenpoint,13 Clifford Place,3,3,1100,5995.0
+1955,brooklyn,Fort Greene,357 Adelphi Street,0.5,1,0,2600.0
+1956,brooklyn,Stuyvesant Heights,364 Bainbridge Street,2,1,0,2450.0
+1957,brooklyn,Carroll Gardens,142 Summit Street,0.5,1,0,2000.0
+1958,brooklyn,Greenpoint,162 Russell Street,1,1,0,2699.0
+1959,brooklyn,Bushwick,1576 Gates Avenue,3,1,1100,3599.0
+1960,brooklyn,Crown Heights,372 Montgomery Street,3,1,0,2900.0
+1961,brooklyn,Stuyvesant Heights,879 De Kalb Avenue,3,1,0,2600.0
+1962,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+1963,brooklyn,East Flatbush,1136 Brooklyn Avenue,1,1,0,2050.0
+1964,brooklyn,Fort Hamilton,210 Marine Avenue,1,1,775,1750.0
+1965,brooklyn,Crown Heights,673 Sterling Place,3,1,0,3295.0
+1966,brooklyn,Greenpoint,1 Bell Slip,0.5,1,0,3440.0
+1967,brooklyn,Greenpoint,1 Bell Slip,2,2,0,6868.0
+1968,brooklyn,Bushwick,12 Belvidere Street,4,1.5,0,3895.0
+1969,brooklyn,Brooklyn Heights,140 State Street,2,1,0,6500.0
+1970,brooklyn,Crown Heights,1082 Pacific Street,3,1.5,0,2995.0
+1971,brooklyn,Bedford-Stuyvesant,7 Spencer Place,1,1,0,2750.0
+1972,brooklyn,Bedford-Stuyvesant,7 Spencer Place,1,1,0,2600.0
+1973,brooklyn,East New York,666 Dumont Avenue,2,1,0,1795.0
+1974,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+1975,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+1976,brooklyn,Ditmas Park,1122 Ocean Avenue,1,1,0,1800.0
+1977,brooklyn,Bushwick,1330 Halsey Street,2,1,0,2400.0
+1978,brooklyn,Brooklyn Heights,90 Furman Street,3,3,2916,16950.0
+1979,brooklyn,Brighton Beach,272 Corbin Place,1,1,0,2250.0
+1980,brooklyn,Weeksville,1720 Carroll Street,4,1.5,2500,2525.0
+1981,brooklyn,New_Dev,10 Montieth Street,1,1,550,2987.0
+1982,brooklyn,Brownsville,255 Amboy Street,3,1,0,2800.0
+1983,brooklyn,Williamsburg,40 North 4th Street,2,2,0,5850.0
+1984,brooklyn,Williamsburg,228 South 3rd Street,1,1,0,2900.0
+1985,brooklyn,New_Dev,10 Montieth Street,1,1,650,3090.0
+1986,brooklyn,Downtown Brooklyn,125 Court Street,0.5,1,0,3495.0
+1987,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+1988,brooklyn,Bushwick,286 Stanhope Street,3,1,0,3272.0
+1989,brooklyn,New_Dev,23 West Street,0.5,1,475,1528.0
+1990,brooklyn,New_Dev,23 West Street,1,1,690,1634.0
+1991,brooklyn,New_Dev,23 West Street,0.5,1,471,1528.0
+1992,brooklyn,Williamsburg,133 North Fourth Street,3,1,1100,7499.0
+1993,brooklyn,Williamsburg,189 Devoe Street,2,1,0,2900.0
+1994,brooklyn,Prospect Heights,662 Pacific Street,1,1,0,4165.0
+1995,brooklyn,Bushwick,115 Stanwix Street,2,2,0,3800.0
+1996,brooklyn,Bushwick,318 Knickerbocker Avenue,2,2,1070,4500.0
+1997,brooklyn,Weeksville,353 Troy Avenue,3,2,0,2750.0
+1998,brooklyn,Bushwick,920 Bushwick Avenue,3,2,0,3500.0
+1999,brooklyn,New_Dev,10 Montieth Street,2,2,794,4325.0
+2000,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+2001,brooklyn,Greenpoint,216 Eckford Street,2,1,875,5500.0
+2002,brooklyn,New_Dev,23 West Street,2,1,910,1955.0
+2003,brooklyn,New_Dev,23 West Street,2,1,886,1955.0
+2004,brooklyn,Gravesend,180 Bay 31st Street,3,1,0,2199.0
+2005,brooklyn,Williamsburg,595 Metropolitan Avenue,3,1,0,5395.0
+2006,brooklyn,Ditmas Park,985 Ocean Avenue,1,1,0,1850.0
+2007,brooklyn,Cobble Hill,135 Amity Street,2,2,0,4995.0
+2008,brooklyn,Gravesend,8700 25th Avenue,1,1,0,1775.0
+2009,brooklyn,Park Slope,276 13th Street,2,2,960,5000.0
+2010,brooklyn,East Williamsburg,924 Metropolitan Avenue,1,1,0,3100.0
+2011,brooklyn,Fiske Terrace,1290 Ocean Avenue,3,2,0,2299.0
+2012,brooklyn,Stuyvesant Heights,220A Patchen Avenue,2,1,750,2675.0
+2013,brooklyn,Prospect Park South,1702 Caton Avenue,2,1,800,2599.0
+2014,brooklyn,East Williamsburg,1087 Flushing Avenue,1,1,1000,4400.0
+2015,brooklyn,Williamsburg,180 Scholes Street,3,1,0,4200.0
+2016,brooklyn,Bushwick,999 Willoughby Avenue,1,1,0,2990.0
+2017,brooklyn,Greenpoint,1 Bell Slip,1,1,0,4681.0
+2018,brooklyn,Williamsburg,213 Union Avenue,1,1,0,2900.0
+2019,brooklyn,Bay Ridge,179 70th Street,2,1,1200,3000.0
+2020,brooklyn,Flatbush,1370 Nostrand Avenue,3,1.5,0,2750.0
+2021,brooklyn,Stuyvesant Heights,270 Malcolm X Boulevard,2,1,0,2300.0
+2022,brooklyn,Williamsburg,228 South 3rd Street,1,1,0,2900.0
+2023,brooklyn,Midwood,1414 East 28th Street,2,1,0,2700.0
+2024,brooklyn,Williamsburg,57 Stagg Street,3,1,0,4400.0
+2025,brooklyn,Bushwick,352 Irving Avenue,4,1.5,0,3650.0
+2026,brooklyn,Bushwick,16 Charles Place,1,1,0,2800.0
+2027,brooklyn,Flatbush,3116 Clarendon Road,2,1,0,3100.0
+2028,brooklyn,Bushwick,282 Cooper Avenue,2,1.5,0,2940.0
+2029,brooklyn,Bay Ridge,543 76th Street,2,1,1100,2400.0
+2030,brooklyn,Greenwood,249 21st Street,2,1,0,2399.0
+2031,brooklyn,Ditmas Park,1326 Ocean Avenue,0.5,1,0,2060.0
+2032,brooklyn,New_Dev,1 Clinton Street,1,1,932,6000.0
+2033,brooklyn,Homecrest,1602 Avenue R,2,1.5,1300,3300.0
+2034,brooklyn,Bay Ridge,7101 Colonial Road,1,1,800,1750.0
+2035,brooklyn,East New York,667 Linwood Street,3,2,0,2499.0
+2036,brooklyn,Vinegar Hill,167 Sands Street,1,1,600,2400.0
+2037,brooklyn,Ocean Hill,202 Hull Street,2,1,0,2375.0
+2038,brooklyn,New_Dev,111 Clarkson Avenue,1,1,0,3013.0
+2039,brooklyn,Williamsburg,2 N 6th Place,3,3,1670,9295.0
+2040,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+2041,brooklyn,Bedford-Stuyvesant,224 Clifton Place,2,2,0,5499.0
+2042,brooklyn,Bushwick,36 Linden Street,5,2,0,5300.0
+2043,brooklyn,Flatbush,293 Martense Street,1,1,0,1475.0
+2044,brooklyn,Gravesend,9 Murdock Court,2,1,0,2195.0
+2045,brooklyn,Bushwick,282 Cooper Avenue,2,1.5,0,2940.0
+2046,brooklyn,Greenpoint,1 Bell Slip,0.5,1,0,3125.0
+2047,brooklyn,Greenpoint,227 Kingsland Avenue,1,1,0,2599.0
+2048,brooklyn,Williamsburg,288 Ainslie Street,2,1,0,3850.0
+2049,brooklyn,Ditmas Park,615 East 17th Street,2,1.5,0,2599.0
+2050,brooklyn,Sheepshead Bay,2672 East 11th Street,3,2,0,3000.0
+2051,brooklyn,Bushwick,1496 Bushwick Avenue,2,1,0,2100.0
+2052,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+2053,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+2054,brooklyn,Sheepshead Bay,2672 East 11th Street,3,2,0,3200.0
+2055,brooklyn,Bushwick,27 Palmetto Street,3,1.5,950,2850.0
+2056,brooklyn,Flatbush,359 East 21st Street,1,1,0,1891.0
+2057,brooklyn,Williamsburg,82 Powers Street,2,1,850,2900.0
+2058,brooklyn,Greenpoint,344 Mc Guinness Boulevard,2,2,0,4390.0
+2059,brooklyn,Crown Heights,2402 Dean Street,2,1,712,2200.0
+2060,brooklyn,Greenwood,215 33rd Street,1,1,400,2100.0
+2061,brooklyn,Bensonhurst,1462 72nd Street,1,1,0,1650.0
+2062,brooklyn,Mapleton,5911 18th Avenue,1,1,850,1650.0
+2063,brooklyn,Bushwick,1436 De Kalb Avenue,4,2,0,3750.0
+2064,brooklyn,Bushwick,330 Central Avenue,3,1,0,2995.0
+2065,brooklyn,Prospect Lefferts Gardens,620 Parkside Avenue,3,1,0,3100.0
+2066,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+2067,brooklyn,Stuyvesant Heights,4 Malcolm X Boulevard,1,1,0,1600.0
+2068,brooklyn,Bushwick,195 Saint Nicholas's Avenue,3,1,0,3250.0
+2069,brooklyn,East New York,659 Vermont Street,1,1,0,1950.0
+2070,brooklyn,Flatbush,123 Linden Boulevard,1,1,0,2727.0
+2071,brooklyn,Flatbush,123 Linden Boulevard,1,1,0,2769.0
+2072,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+2073,brooklyn,East Williamsburg,415 Bushwick Avenue,3,1,0,2695.0
+2074,brooklyn,Bushwick,16 Fayette Street,4,2.5,0,4000.0
+2075,brooklyn,Fort Greene,66 Rockwell Place,0.5,1,501,3150.0
+2076,brooklyn,Midwood,1096 East 16th Street,2,1,0,2000.0
+2077,brooklyn,New_Dev,138 Willoughby Street,1,1,735,4500.0
+2078,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+2079,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+2080,brooklyn,Ditmas Park,400 Argyle Road,1,1,850,2225.0
+2081,brooklyn,Crown Heights,409 Eastern Parkway,1,1,637,3850.0
+2082,brooklyn,New_Dev,626 Flatbush Avenue,3,2,0,5859.0
+2083,brooklyn,Bay Ridge,24 70th Street,2,1,0,3000.0
+2084,brooklyn,Stuyvesant Heights,962 Greene Avenue,1,1,0,2500.0
+2085,brooklyn,Flatbush,699 Ocean Avenue,1,1,0,1950.0
+2086,brooklyn,Bedford-Stuyvesant,165 Tompkins Avenue,3,1,0,3000.0
+2087,brooklyn,Greenpoint,166 Franklin Street,2,2,1200,4650.0
+2088,brooklyn,Prospect Heights,662 Pacific Street,2,1,0,6295.0
+2089,brooklyn,Weeksville,1294 Sterling Place,3,1,0,2350.0
+2090,brooklyn,East New York,3059 Fulton Street,2,1,0,2195.0
+2091,brooklyn,New_Dev,1365 Nostrand Avenue,3,1.5,0,2775.0
+2092,brooklyn,Greenpoint,216 Eckford Street,2,1,875,5500.0
+2093,brooklyn,Bensonhurst,1737 79th Street,2,1,920,1850.0
+2094,brooklyn,Williamsburg,100 Moore Street,1,1,0,2150.0
+2095,brooklyn,Bushwick,12 Saint Nicholas Avenue,3,2,0,3995.0
+2096,brooklyn,New_Dev,45 Hoyt Street,0.5,1,517,3268.0
+2097,brooklyn,East New York,79 Vermont Street,1,1,600,2000.0
+2098,brooklyn,Ditmas Park,2007 Foster Avenue,3,1,0,2295.0
+2099,brooklyn,Bushwick,54 Noll Street,1,1,0,3175.0
+2100,brooklyn,Fort Greene,253 Cumberland Street,1,1,0,2500.0
+2101,brooklyn,Bushwick,54 Noll Street,2,2,0,4450.0
+2102,brooklyn,Prospect Heights,18 Sixth Avenue,0.5,1,0,3348.0
+2103,brooklyn,Homecrest,2569 Ocean Avenue,3,2,1708,3600.0
+2104,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+2105,brooklyn,Carroll Gardens,65 2 Place,3,2.5,0,12750.0
+2106,brooklyn,Downtown Brooklyn,248 Duffield Street,0.5,1,906,4595.0
+2107,brooklyn,Park Slope,400 Seventh Avenue,2,2,0,3900.0
+2108,brooklyn,Crown Heights,696 Eastern Parkway,2,1,900,2800.0
+2109,brooklyn,Bushwick,48 Cornelia Street,0.5,1,0,1900.0
+2110,brooklyn,Prospect Heights,461 Dean Street,1,1,729,4350.0
+2111,brooklyn,Canarsie,1260 East 91st Street,2,1,850,2300.0
+2112,brooklyn,Brighton Beach,10 Shore Boulevard,1,1,750,1995.0
+2113,brooklyn,Kensington,412 Cortelyou Road,4,1.5,1100,3000.0
+2114,brooklyn,Midwood,918 East 14th Street,1,1,600,1475.0
+2115,brooklyn,Clinton Hill,425 Grand Avenue,1,1,0,2900.0
+2116,brooklyn,Stuyvesant Heights,470 Pulaski Street,2,1,0,2750.0
+2117,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+2118,brooklyn,Downtown Brooklyn,333 Schermerhorn Street,1,1,0,4143.0
+2119,brooklyn,Williamsburg,146 South 4th Street,1,1,0,4239.0
+2120,brooklyn,Ditmas Park,1326 Ocean Avenue,1,1,0,2500.0
+2121,brooklyn,Canarsie,948 East 81st Street,4,2.5,1800,3000.0
+2122,brooklyn,Bath Beach,2126 Benson Avenue,1,1,550,1595.0
+2123,brooklyn,Gravesend,168 Bay 49th Street,3,2,1096,2800.0
+2124,brooklyn,Wingate,501 Midwood Street,3,1,0,2500.0
+2125,brooklyn,Crown Heights,527 Lincoln Place,2,2,0,4000.0
+2126,brooklyn,Greenpoint,2 Blue Slip,2,2,0,17403.0
+2127,brooklyn,Park Slope,300 Seventh Avenue,2,1,0,3600.0
+2128,brooklyn,Sheepshead Bay,2655 East 21st Street,3,2,1500,3100.0
+2129,brooklyn,Stuyvesant Heights,390 Decatur Street,4,3,2000,7500.0
+2130,brooklyn,New_Dev,138 Willoughby Street,1,1,735,4500.0
+2131,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+2132,brooklyn,Sunset Park,756 40th Street,1,1,753,2300.0
+2133,brooklyn,Bushwick,115 Stanwix Street,3,2,0,5500.0
+2134,brooklyn,Clinton Hill,308 Park Avenue,2,1,0,2799.0
+2135,brooklyn,Stuyvesant Heights,235 Malcom X Boulevard,2,1,0,2700.0
+2136,brooklyn,Kensington,535 East 4th Street,4,3,1400,3995.0
+2137,brooklyn,Bedford-Stuyvesant,220 Spencer Street,2,1,0,2500.0
+2138,brooklyn,Prospect Lefferts Gardens,396 Lefferts Avenue,3,3,1921,4700.0
+2139,brooklyn,Fort Greene,61 South Oxford Street,3,2,2000,8499.0
+2140,brooklyn,Kensington,640 Ditmas Avenue,1,1,0,1850.0
+2141,brooklyn,Downtown Brooklyn,237 Duffield Street,1,1,562,3650.0
+2142,brooklyn,Dyker Heights,6715 Eighth Avenue,2,1,0,2099.0
+2143,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+2144,brooklyn,New_Dev,138 Willoughby Street,1,1,735,4500.0
+2145,brooklyn,New_Dev,2218 Ocean Avenue,1,1,526,2495.0
+2146,brooklyn,Midwood,1320 Coney Island Avenue,1,1,0,1650.0
+2147,brooklyn,East Flatbush,3512 Farragut Rd,3,2,0,3299.0
+2148,brooklyn,Midwood,1730 Ocean Avenue,2,1,800,2700.0
+2149,brooklyn,Borough Park,973 44th Street,1,1,0,2000.0
+2150,brooklyn,Stuyvesant Heights,328 Halsey Street,2,1,900,2350.0
+2151,brooklyn,Williamsburg,366 South 5th Street,3,1,0,3500.0
+2152,brooklyn,New_Dev,100 Steuben Street,2,2,0,5214.0
+2153,brooklyn,Stuyvesant Heights,712A Greene Avenue,3,1.5,0,3199.0
+2154,brooklyn,Ditmas Park,390 Rugby Road,0.5,1,500,1700.0
+2155,brooklyn,Williamsburg,146 South 4th Street,1,1,0,4239.0
+2156,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+2157,brooklyn,DUMBO,100 Jay Street,1,1,0,4495.0
+2158,brooklyn,Prospect Lefferts Gardens,1214 Nostrand Avenue,2,1,0,2195.0
+2159,brooklyn,Bedford-Stuyvesant,57 Halsey Street,3,2.5,1600,5150.0
+2160,brooklyn,Bushwick,663 Central Avenue,2,1,0,2350.0
+2161,brooklyn,Flatbush,2620 Beverley Road,1,1,0,1750.0
+2162,brooklyn,Sunset Park,325 44th Street,2,1,0,1650.0
+2163,brooklyn,Bushwick,889 Bushwick Avenue,1,1,0,2600.0
+2164,brooklyn,Bay Ridge,580 84th Street,1,1,700,1650.0
+2165,brooklyn,Crown Heights,89 Kingston Avenue,4,1,0,3350.0
+2166,brooklyn,Crown Heights,919 Park Place,2,2,0,2900.0
+2167,brooklyn,Bay Ridge,345 Bay Ridge Parkway,1,1,550,1500.0
+2168,brooklyn,Williamsburg,146 South 4th Street,0.5,1,0,3229.0
+2169,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+2170,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+2171,brooklyn,Stuyvesant Heights,1003 Greene Avenue,1,1,0,2800.0
+2172,brooklyn,Williamsburg,35 Meserole Street,4,1,0,4450.0
+2173,brooklyn,Stuyvesant Heights,1875 Atlantic Avenue,2,1,0,2550.0
+2174,brooklyn,Stuyvesant Heights,1875 Atlantic Avenue,2,1,0,2550.0
+2175,brooklyn,Crown Heights,2303A Pacific Street,1,1,0,2050.0
+2176,brooklyn,Bushwick,340 Evergreen Avenue,1,1,0,2600.0
+2177,brooklyn,Clinton Hill,519 Myrtle Avenue,3,1,0,3400.0
+2178,brooklyn,Downtown Brooklyn,111 Lawrence Street,0.5,1,404,3273.0
+2179,brooklyn,Fort Hamilton,8805 Third Avenue,0.5,1,0,1500.0
+2180,brooklyn,Bensonhurst,8013 20th Avenue,1,1,0,1795.0
+2181,brooklyn,Stuyvesant Heights,887 Lexington Avenue,2,1,0,2800.0
+2182,brooklyn,Stuyvesant Heights,790 Madison Street,2,1,0,2654.0
+2183,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+2184,brooklyn,Weeksville,141 Utica Avenue,3,1,0,2750.0
+2185,brooklyn,Bedford-Stuyvesant,924 Myrtle Avenue,1,1,0,2233.0
+2186,brooklyn,Williamsburg,86 Havemeyer Street,4,2,0,5250.0
+2187,brooklyn,East Flatbush,228 East 38th Street,3,1,0,2600.0
+2188,brooklyn,Williamsburg,250 Bedford Avenue 157-203,2,2,0,5750.0
+2189,brooklyn,Fort Greene,475 Clermont Avenue,1,1,589,4589.0
+2190,brooklyn,Bedford-Stuyvesant,101 Quincy Street,4,1.5,0,3980.0
+2191,brooklyn,Flatbush,330 Lenox Road,1,1,0,1700.0
+2192,brooklyn,Bushwick,150 Grove Street,3,1,0,2535.0
+2193,brooklyn,Bushwick,527 Knickerbocker Avenue,2,1.5,0,2885.0
+2194,brooklyn,Bushwick,527 Knickerbocker Avenue,3,1,0,2985.0
+2195,brooklyn,Sunset Park,4422 Third Avenue,2,1.5,0,2400.0
+2196,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+2197,brooklyn,Crown Heights,461 Saratoga Avenue,3,1,0,2685.0
+2198,brooklyn,Sunset Park,679 48th Street,1,1,700,1799.0
+2199,brooklyn,Fort Greene,475 Clermont Avenue,1,2,908,6049.0
+2200,brooklyn,Park Slope,401 Eighth Street,1,1,1100,4499.0
+2201,brooklyn,Park Slope,362 9th Street,2,1,890,5500.0
+2202,brooklyn,Williamsburg,41 Skillman Avenue,6,3+,0,9251.0
+2203,brooklyn,Fort Hamilton,373 92nd Street,1,1,780,1650.0
+2204,brooklyn,Bay Ridge,466 82nd Street,4,2,0,3300.0
+2205,brooklyn,Stuyvesant Heights,987 Greene Avenue,3,1,0,2850.0
+2206,brooklyn,Crown Heights,808 Prospect Place,2,1,0,2350.0
+2207,brooklyn,Prospect Park South,10 Westminster Road,4,2,0,3950.0
+2208,brooklyn,Ocean Hill,9 Pleasant Place,3,1,1000,2575.0
+2209,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+2210,brooklyn,Crown Heights,1916 Prospect Place,0.5,1,0,1800.0
+2211,brooklyn,Bushwick,183 Eldert Street,3,3,0,3200.0
+2212,brooklyn,Ocean Hill,1407 Herkimer Street,1,1,0,1750.0
+2213,brooklyn,Homecrest,2569 Ocean Avenue,3,2,1589,3750.0
+2214,brooklyn,East New York,59 Logan Street,1,1,0,1625.0
+2215,brooklyn,Brighton Beach,333 Neptune Avenue,1,1,0,1599.0
+2216,brooklyn,Gowanus,202 8th Street,2,2,886,4700.0
+2217,brooklyn,Bushwick,291 Stanhope Street,3,1,0,3272.0
+2218,brooklyn,East New York,16 Atkins Avenue,3,1,0,2249.0
+2219,brooklyn,Bedford-Stuyvesant,189 Hart Street,1,1,0,2795.0
+2220,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+2221,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+2222,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+2223,brooklyn,Stuyvesant Heights,419 Pulaski Street,3,2,0,3200.0
+2224,brooklyn,Bushwick,7 Ridgewood Place,2,1,0,2699.0
+2225,brooklyn,Carroll Gardens,222 Degraw Street,1,1,900,5000.0
+2226,brooklyn,Sunset Park,5718 Third Avenue,2,1,0,2400.0
+2227,brooklyn,Downtown Brooklyn,187 State Street,2,1,0,8000.0
+2228,brooklyn,New_Dev,365 Bond Street,1,1,656,4408.0
+2229,brooklyn,Greenpoint,2 Blue Slip,1,1,0,5710.0
+2230,brooklyn,Greenpoint,2 Blue Slip,0.5,1,0,3575.0
+2231,brooklyn,Bedford-Stuyvesant,473 Lafayette Avenue,2,2,0,4150.0
+2232,brooklyn,Bushwick,38 Wilson Avenue,1,1,0,2800.0
+2233,brooklyn,Kensington,796 Mcdonald Avenue,2,1,0,2195.0
+2234,brooklyn,Stuyvesant Heights,890 Herkimer Street,3,2,0,2600.0
+2235,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+2236,brooklyn,Weeksville,1543 Park Place,0.5,1,0,1500.0
+2237,brooklyn,Williamsburg,146 South 4th Street,1,1,0,4239.0
+2238,brooklyn,New_Dev,2484 Bedford Avenue,3,2,0,3100.0
+2239,brooklyn,Bensonhurst,1446 71st Street,2,1,0,2500.0
+2240,brooklyn,Bushwick,276 Cooper Street,2,1,0,2000.0
+2241,brooklyn,Gowanus,150 Fourth Avenue,2,2,0,6400.0
+2242,brooklyn,Weeksville,71 Utica Avenue,3,1.5,1000,2750.0
+2243,brooklyn,Stuyvesant Heights,851 Willoughby Avenue,3,2,0,2999.0
+2244,brooklyn,East Flatbush,777 East 56th Street BASEMENT,0.5,1,0,1800.0
+2245,brooklyn,East New York,529 Hinsdale Street,2,1,0,2175.0
+2246,brooklyn,Downtown Brooklyn,111 Lawrence Street,0.5,1,476,3295.0
+2247,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+2248,brooklyn,Fort Greene,810 Fulton Street,1,1,0,2499.0
+2249,brooklyn,Stuyvesant Heights,10 Buffalo Avenue,2,1,0,2275.0
+2250,brooklyn,Stuyvesant Heights,101 Patchen Avenue,2,1,0,2850.0
+2251,brooklyn,Stuyvesant Heights,180 Bainbridge Street,1,1,0,3250.0
+2252,brooklyn,Stuyvesant Heights,101 Patchen Avenue,1,1,0,2600.0
+2253,brooklyn,Williamsburg,72 South 1st Street,2,1,0,4500.0
+2254,brooklyn,Bushwick,234 Knickerbocker Avenue,3,1,900,3500.0
+2255,brooklyn,Stuyvesant Heights,304 Lewis Avenue,3,1,0,2600.0
+2256,brooklyn,Midwood,1903 Ocean Avenue,1,1,0,1725.0
+2257,brooklyn,Bushwick,1227 Gates Avenue,3,1,800,2300.0
+2258,brooklyn,Brooklyn Heights,107 Columbia Heights,1,1,0,4300.0
+2259,brooklyn,Park Slope,540 9th Street,3,2,0,5999.0
+2260,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+2261,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+2262,brooklyn,Midwood,1401 Ocean Avenue,1,1,0,2350.0
+2263,brooklyn,Midwood,762 Westminster Road,2,2,0,2600.0
+2264,brooklyn,Midwood,3809 Kings Highway,2,1,940,1900.0
+2265,brooklyn,Bedford-Stuyvesant,1267 Fulton Street,1,1,0,2450.0
+2266,brooklyn,Bushwick,172 Suydam Street,2,2,0,3300.0
+2267,brooklyn,Fort Hamilton,9116 Third Avenue,2,1,0,1950.0
+2268,brooklyn,Crown Heights,259 Albany Avenue,1,1,0,2420.0
+2269,brooklyn,Crown Heights,1162 Pacific Street,4,2,1440,4700.0
+2270,brooklyn,Flatbush,1329 Rogers Avenue,1,1,0,2400.0
+2271,brooklyn,Stuyvesant Heights,885 Park Avenue,2,2,0,2750.0
+2272,brooklyn,Stuyvesant Heights,760 Greene Avenue,2,1,0,2300.0
+2273,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+2274,brooklyn,Prospect Park South,11 Crooke Avenue,1,1,0,2300.0
+2275,brooklyn,Downtown Brooklyn,225 Schermerhorn Street,0.5,1,426,2720.0
+2276,brooklyn,Gravesend,2436 East 3rd Street,4,1,0,3000.0
+2277,brooklyn,Bushwick,167 Starr Street,4,1,0,3899.0
+2278,brooklyn,East Flatbush,443 East 56th Street,1,1,0,1850.0
+2279,brooklyn,Stuyvesant Heights,142 Decatur Street,1,1,0,2200.0
+2280,brooklyn,Bushwick,181 Cornelia Street,3,2,0,2800.0
+2281,brooklyn,New_Dev,45 Hoyt Street,1,1,629,3913.0
+2282,brooklyn,Bushwick,606 Bushwick Avenue,2,1,0,3100.0
+2283,brooklyn,New_Dev,160 Front Street,2,2,0,6800.0
+2284,brooklyn,New_Dev,160 Front Street,1,1,0,5100.0
+2285,brooklyn,New_Dev,160 Front Street,0.5,1,0,3820.0
+2286,brooklyn,Prospect Heights,446 Saint John's Place,3,1,0,3650.0
+2287,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+2288,brooklyn,Bushwick,594 Bushwick Avenue,2,1,0,3799.0
+2289,brooklyn,Flatbush,2415 Church Avenue,2,2,0,3456.0
+2290,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+2291,brooklyn,Bedford-Stuyvesant,1198 Bedford Avenue,1,1,0,2900.0
+2292,brooklyn,Weeksville,1736 Pacific Street,2,1.5,0,2595.0
+2293,brooklyn,Bedford-Stuyvesant,220 Spencer Street,1,1,0,2500.0
+2294,brooklyn,Prospect Heights,662 Pacific Street,2,2,0,7495.0
+2295,brooklyn,Gravesend,224 Bay 34th Street,2,1,1100,2200.0
+2296,brooklyn,Crown Heights,1237 President Street,1,1,0,3195.0
+2297,brooklyn,Williamsburg,55 Berry Street,1,2.5,2300,10500.0
+2298,brooklyn,Flatbush,1052 Flatbush Avenue,1,1,0,1950.0
+2299,brooklyn,Prospect Park South,20 Crooke Avenue,3,1,0,2650.0
+2300,brooklyn,Crown Heights,1320 Dean Street,1,1,0,3000.0
+2301,brooklyn,Bushwick,647 Knickerbocker Avenue,2,1,0,3150.0
+2302,brooklyn,Bushwick,1556 Greene Avenue,4,2,0,3695.0
+2303,brooklyn,Ditmas Park,434 East 22nd Street,3,1,0,2199.0
+2304,brooklyn,Flatbush,144 Woodruff Avenue,2,2,0,3000.0
+2305,brooklyn,Homecrest,2325 Ocean Avenue,0.5,1,0,1399.0
+2306,brooklyn,Downtown Brooklyn,225 Schermerhorn Street,2,2,977,4850.0
+2307,brooklyn,New_Dev,10 Montieth Street,2,2,824,4516.0
+2308,brooklyn,New_Dev,10 Montieth Street,2,2,824,4515.0
+2309,brooklyn,Stuyvesant Heights,228 Pulaski Street,2,1,0,2549.0
+2310,brooklyn,Williamsburg,35 Graham Avenue,2,1,565,2700.0
+2311,brooklyn,Williamsburg,91 Metropolitan Avenue,0.5,1.5,1200,5300.0
+2312,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+2313,brooklyn,Bushwick,594 Bushwick Avenue,2,1,0,3799.0
+2314,brooklyn,Crown Heights,100 Rogers Avenue,4,1,0,3200.0
+2315,brooklyn,Flatbush,2806 Farragut Road,4,1.5,0,3150.0
+2316,brooklyn,Crown Heights,98 Troy Avenue,3,2,0,2650.0
+2317,brooklyn,Clinton Hill,10 Lexington Avenue,3,2,0,4500.0
+2318,brooklyn,Stuyvesant Heights,890 Lafayette Avenue,4,3,0,5500.0
+2319,brooklyn,New_Dev,1 Ocean Drive 22D-WEST,1,1,0,2546.0
+2320,brooklyn,Brooklyn Heights,180 Montague Street,1,1,589,3666.0
+2321,brooklyn,Homecrest,2066 East 15th Street,1,1,0,1595.0
+2322,brooklyn,Crown Heights,1468 Eastern Parkway,2,1,0,2239.0
+2323,brooklyn,Crown Heights,916 Bergen Street,3,1,0,3700.0
+2324,brooklyn,New_Dev,1 Ocean Drive 19G-WEST,0.5,1,0,1781.0
+2325,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+2326,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+2327,brooklyn,Williamsburg,36 Meserole Street,4,1,0,4451.0
+2328,brooklyn,Weeksville,1384 Sterling Place,2,1,0,2650.0
+2329,brooklyn,Williamsburg,34 Meserole Street,5,2,0,6200.0
+2330,brooklyn,New_Dev,1 Ocean Drive 5D-EAST,0.5,1,0,1785.0
+2331,brooklyn,Kensington,378 East 2nd Street,2,1,0,2100.0
+2332,brooklyn,Park Slope,619 Sixth Avenue,0.5,1,0,1995.0
+2333,brooklyn,East Flatbush,1415 New York Avenue,2,1,0,2000.0
+2334,brooklyn,Sheepshead Bay,1524 Sheepshead Bay Road,1,1,626,3241.0
+2335,brooklyn,Stuyvesant Heights,996 Putnam Avenue,2,3,1500,3000.0
+2336,brooklyn,Bushwick,80-52 57th Street,1,1,0,1800.0
+2337,brooklyn,Crown Heights,285 New York Avenue,2,2,1000,3200.0
+2338,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+2339,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+2340,brooklyn,Williamsburg,354 Broadway,2,1,0,3199.0
+2341,brooklyn,Crown Heights,802 Park Place,1,1,0,1950.0
+2342,brooklyn,Brownsville,147 Rockaway Parkway,4,2,0,2500.0
+2343,brooklyn,Bushwick,172 Suydam Street,3,2,0,3295.0
+2344,brooklyn,Clinton Hill,273 Grand Avenue,3,2,0,3999.0
+2345,brooklyn,Gravesend,2318 81st Street,2,1,1050,2100.0
+2346,brooklyn,New_Dev,325 Lafayette Avenue,0.5,1,0,2995.0
+2347,brooklyn,Fort Greene,66 Rockwell Place,0.5,1,560,3500.0
+2348,brooklyn,Fort Greene,118 Lafayette Avenue,0.5,1,0,2995.0
+2349,brooklyn,Stuyvesant Heights,887 Lexington Avenue,2,2,0,2999.0
+2350,brooklyn,Williamsburg,188 Humboldt Street,3,1.5,0,5500.0
+2351,brooklyn,Stuyvesant Heights,890 Lafayette Avenue,4,3,0,5500.0
+2352,brooklyn,Bushwick,803 Wyckoff Avenue,3,2,0,3550.0
+2353,brooklyn,Bushwick,286 Stanhope Street,3,1,0,3272.0
+2354,brooklyn,New_Dev,180 Myrtle Avenue,1,1,602,4050.0
+2355,brooklyn,Vinegar Hill,260 Water Street,2,1,0,5795.0
+2356,brooklyn,Prospect Park South,123 Parkside Avenue,0.5,1,841,3100.0
+2357,brooklyn,Carroll Gardens,162 West 9th Street,0.5,0,0,3150.0
+2358,brooklyn,Bushwick,240 Suydam Street,1,1,825,2489.0
+2359,brooklyn,East New York,73 Crystal Street,3,1,0,2600.0
+2360,brooklyn,New_Dev,250 Ashland Place,1,1,0,4304.0
+2361,brooklyn,Stuyvesant Heights,222 Pulaski Street,2,1,0,2450.0
+2362,brooklyn,Stuyvesant Heights,879 De Kalb Avenue,3,1,0,2600.0
+2363,brooklyn,New_Dev,1 Ocean Drive 11C-EAST,0.5,1,0,1879.0
+2364,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+2365,brooklyn,Williamsburg,288 Ainslie Street,2,1,0,3850.0
+2366,brooklyn,New_Dev,1 Ocean Drive,2,2,0,2689.0
+2367,brooklyn,Williamsburg,446 Kent Avenue,2,2,0,8000.0
+2368,brooklyn,Stuyvesant Heights,79 Malcolm X Boulevard,2,1,0,2499.0
+2369,brooklyn,Stuyvesant Heights,484 Kosciuszko Street,5,1.5,0,3850.0
+2370,brooklyn,Greenwood,687A Fifth Avenue,3,2,0,5000.0
+2371,brooklyn,Carroll Gardens,269 Union Street,3,2,1100,5100.0
+2372,brooklyn,Bay Ridge,7128 Fifth Avenue,2,1,1100,2650.0
+2373,brooklyn,Fort Greene,66 Rockwell Place,0.5,1,521,3300.0
+2374,brooklyn,Prospect Heights,662 Pacific Street,1,1,0,4829.0
+2375,brooklyn,East New York,630 Miller Avenue,1,1,0,1600.0
+2376,brooklyn,New_Dev,1 Ocean Drive,1,1,0,2089.0
+2377,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+2378,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+2379,brooklyn,New_Dev,10 Montieth Street,2,2,0,4517.0
+2380,brooklyn,Park Slope,416 Bergen Street,1,1,800,3500.0
+2381,brooklyn,Brighton Beach,3440 Guider Avenue,1,1,0,2399.0
+2382,brooklyn,Sunset Park,5517 Fifth Avenue,1,1,0,1600.0
+2383,brooklyn,Weeksville,1738A Pacific Street,2,1,0,2230.0
+2384,brooklyn,Park Slope,280 14th Street,2,1,0,2899.0
+2385,brooklyn,Downtown Brooklyn,120 Nassau Street,2,2,0,6260.0
+2386,brooklyn,Flatbush,800 Flatbush Avenue,3,1,0,3452.0
+2387,brooklyn,New_Dev,181 Front Street,2,2,0,6496.0
+2388,brooklyn,Williamsburg,146 South 4th Street,0.5,1,0,3613.0
+2389,brooklyn,Prospect Heights,313 Saint Mark's Avenue,0.5,1,0,3000.0
+2390,brooklyn,Williamsburg,2 N 6th Place,3,3,1670,9295.0
+2391,brooklyn,Canarsie,948 East 81st Street,4,2.5,0,3200.0
+2392,brooklyn,Prospect Heights,363 Prospect Place,2,1,0,4400.0
+2393,brooklyn,Williamsburg,595 Metropolitan Avenue,2,1,0,4595.0
+2394,brooklyn,Mapleton,1932 64th Street,2,1,550,1800.0
+2395,brooklyn,New_Dev,363 Bond Street,0.5,1,0,3235.0
+2396,brooklyn,New_Dev,10 Montieth Street,2,2,0,4325.0
+2397,brooklyn,Sunset Park,535 45th Street,3,1,0,2600.0
+2398,brooklyn,Clinton Hill,260 Saint James Place,1,1,0,2499.0
+2399,brooklyn,Crown Heights,377 Montgomery Street,3,1,0,2870.0
+2400,brooklyn,New_Dev,10 Montieth Street,1,1,0,3629.0
+2401,brooklyn,Midwood,850 East 31st Street,1,1,0,1990.0
+2402,brooklyn,Park Slope,609 Sixth Avenue,2,1,0,2400.0
+2403,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+2404,brooklyn,Bushwick,167 Starr Street,4,1,0,3899.0
+2405,brooklyn,New_Dev,550 Vanderbilt Avenue,1,1,0,3800.0
+2406,brooklyn,Stuyvesant Heights,1100 De Kalb Avenue,4,1.5,0,3400.0
+2407,brooklyn,Greenwood,199 17th Street,2,1,0,2575.0
+2408,brooklyn,Bushwick,172 Suydam Street,3,2,0,3295.0
+2409,brooklyn,DUMBO,60 Water Street,2,2,0,6995.0
+2410,brooklyn,Park Slope,465 Seventh Avenue,1,1,0,3500.0
+2411,brooklyn,Crown Heights,2175 Bergen Street,3,2,0,3000.0
+2412,brooklyn,Stuyvesant Heights,217 Malcolm X Boulevard,3,1+,0,3500.0
+2413,brooklyn,Bushwick,1503 Gates Avenue,2,1,0,2750.0
+2414,brooklyn,Windsor Terrace,22 Caton Place,0.5,1,461,2325.0
+2415,brooklyn,Greenpoint,13 Clifford Place,1,1,0,2999.0
+2416,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+2417,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+2418,brooklyn,Bushwick,22 Starr Street,4,2,0,4250.0
+2419,brooklyn,Dyker Heights,1350 84th Street PVT-HOME,3,2.5,0,3695.0
+2420,brooklyn,Bushwick,84 George Street,2,1,0,2350.0
+2421,brooklyn,Crown Heights,1026 President Street,2,1,705,2699.0
+2422,brooklyn,Bushwick,1106 Bushwick Avenue,1,1,0,2200.0
+2423,brooklyn,Bushwick,123 Melrose Street,1,1,0,3200.0
+2424,brooklyn,Kensington,111 Albemarle Road,4,1,0,3275.0
+2425,brooklyn,New_Dev,10 Monteith Street,1,2,794,3992.0
+2426,brooklyn,Bushwick,1168 Madison Street,3,1,980,2850.0
+2427,brooklyn,Crown Heights,625 Park Place,4,2,0,4600.0
+2428,brooklyn,Kensington,850 Mcdonald Avenue,2,1,0,2000.0
+2429,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+2430,brooklyn,Flatbush,215 Martence Street,1,1,600,2000.0
+2431,brooklyn,Fort Greene,43 Cumberland Street,2,2,0,3000.0
+2432,brooklyn,Brighton Beach,3111 Ocean Parkway,3,2,0,3400.0
+2433,brooklyn,Stuyvesant Heights,916 Madison Street,3,1,0,2499.0
+2434,brooklyn,Bushwick,150 Grove Street,3,1,0,2549.0
+2435,brooklyn,Weeksville,1544 Bergen Street,3,1.5,0,3000.0
+2436,brooklyn,Bushwick,527 Knickerbocker Avenue,3,1,0,2900.0
+2437,brooklyn,Crown Heights,1468 Eastern Parkway,2,1,0,2400.0
+2438,brooklyn,Gravesend,114 Bay 49th Street,2,1,0,1820.0
+2439,brooklyn,Brighton Beach,2911 Brighton 05th Street,1,1,0,1600.0
+2440,brooklyn,Sunset Park,537 40th Street,3,2,1000,3795.0
+2441,brooklyn,Bay Ridge,6819 Bay Cliff Terrace,3,1,1100,3200.0
+2442,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+2443,brooklyn,Downtown Brooklyn,333 Schermerhorn Street,0.5,1,435,3388.0
+2444,brooklyn,Fort Hamilton,9615 Shore Road,3,1.5,0,3100.0
+2445,brooklyn,Fort Hamilton,266 86th Street,1,1,0,1800.0
+2446,brooklyn,Bedford-Stuyvesant,373 Jefferson Avenue,1,2,0,3000.0
+2447,brooklyn,Kensington,294 Webster Avenue,2,1,0,2000.0
+2448,brooklyn,Downtown Brooklyn,10 Nevins Street,1,1,725,4295.0
+2449,brooklyn,New_Dev,10 Montieth Street,2,2,0,4365.0
+2450,brooklyn,Prospect Park South,20 Crooke Avenue,3,1,0,2650.0
+2451,brooklyn,Bay Ridge,180 72nd Street,0.5,1,0,1650.0
+2452,brooklyn,East New York,673 Liberty Avenue,2,1,900,1999.0
+2453,brooklyn,Bay Ridge,7912 Third Avenue,2,1,0,2400.0
+2454,brooklyn,Crown Heights,221 Rockaway Avenue,0.5,1,0,1750.0
+2455,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+2456,brooklyn,Flatbush,2302 Bedford Avenue,2,1,1508,2595.0
+2457,brooklyn,Stuyvesant Heights,962 Greene Avenue,1,1,0,2500.0
+2458,brooklyn,Flatbush,720 East 31st Street,1,1,0,1600.0
+2459,brooklyn,Williamsburg,172 Meserole Street,1,1,0,3485.0
+2460,brooklyn,Bay Ridge,255 79th Street,0.5,1,0,1650.0
+2461,brooklyn,Farragut,604 East 43rd Street,3,1,900,2750.0
+2462,brooklyn,Ocean Hill,137 Thomas S Boyland Street,1,1,900,2100.0
+2463,brooklyn,Farragut,604 East 43rd Street,3,2,1800,3200.0
+2464,brooklyn,Stuyvesant Heights,300 Marion Street,1,1,0,2399.0
+2465,brooklyn,Bensonhurst,7412 18th Avenue,2,1,800,2000.0
+2466,brooklyn,Weeksville,1090 Eastern Parkway,3,1,0,2995.0
+2467,brooklyn,Sheepshead Bay,1657 Sheepshead Bay Road,3,1,1100,2500.0
+2468,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+2469,brooklyn,Bedford-Stuyvesant,224 Clifton Place,2,2,0,5499.0
+2470,brooklyn,Brooklyn Heights,145 Hicks Street,1,1,800,3500.0
+2471,brooklyn,Starrett City,526 Louisiana Avenue,2,1,1000,2300.0
+2472,brooklyn,Flatbush,1370 Nostrand Avenue,2,2,0,2650.0
+2473,brooklyn,Canarsie,1470 East 86th Street,3,1,1000,2400.0
+2474,brooklyn,East New York,164 Schenck Avenue,3,2,1100,3100.0
+2475,brooklyn,Downtown Brooklyn,125 Court Street,1,1,0,3995.0
+2476,brooklyn,East New York,280 Milford Street,1,1,0,1641.0
+2477,brooklyn,Brownsville,604 Bristol Street,1,1,700,1676.0
+2478,brooklyn,Bushwick,22 Cornelia Street,3,2,0,2700.0
+2479,brooklyn,Fort Hamilton,9902 Third Avenue,1,1,650,2100.0
+2480,brooklyn,Crown Heights,770 Saint Mark's Avenue,2,2,0,3200.0
+2481,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+2482,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+2483,brooklyn,Crown Heights,770 Saint Mark's Avenue,4,2.5,0,5150.0
+2484,brooklyn,Bay Ridge,230 Senator Street,1,1,800,1675.0
+2485,brooklyn,Crown Heights,696 Eastern Parkway,2,1,900,2799.0
+2486,brooklyn,East New York,289 Warwick Street,5,2,1400,2999.0
+2487,brooklyn,East Flatbush,361 East 46th Street,3,1,0,2700.0
+2488,brooklyn,Brooklyn Heights,107 Columbia Heights,1,1,513,3850.0
+2489,brooklyn,New_Dev,347 Henry Street,3,3.5,2129,20000.0
+2490,brooklyn,East Flatbush,295 East 34th Street,1,1,0,2100.0
+2491,brooklyn,Farragut,816 East 46th Street,3,1,0,2900.0
+2492,brooklyn,Midwood,1800 Ocean Avenue,1,1,0,2900.0
+2493,brooklyn,Stuyvesant Heights,790 Madison Street,2,1,0,2654.0
+2494,brooklyn,East Williamsburg,15 Judge Street,2,1,0,4250.0
+2495,brooklyn,Bushwick,668 Bushwick Avenue,1,1,0,3000.0
+2496,brooklyn,Stuyvesant Heights,788 Madison Street,2,1,0,2630.0
+2497,brooklyn,Gowanus,150 Fourth Avenue,1,1,0,4012.0
+2498,brooklyn,Carroll Gardens,158 Union Street,3,1,1100,3900.0
+2499,brooklyn,Williamsburg,152 Withers Street,2,2,1104,6100.0
+2500,brooklyn,Bay Ridge,7608 Third Avenue,2,1,1000,2300.0
+2501,brooklyn,Kensington,214 Newkirk Avenue,2,1,0,2689.0
+2502,brooklyn,Stuyvesant Heights,846 Monroe Street,3,1,0,2799.0
+2503,brooklyn,Sunset Park,555 39th Street,3,1,0,2250.0
+2504,brooklyn,Weeksville,237 Utica Avenue,1,1,0,1995.0
+2505,brooklyn,Weeksville,237 Utica Avenue,0.5,1,0,1749.0
+2506,brooklyn,Sunset Park,846 50th Street,1,1,0,1800.0
+2507,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+2508,brooklyn,Williamsburg,50 North 5th Street,0.5,1,0,3816.0
+2509,brooklyn,Flatbush,2302 Bedford Avenue,2,1,1508,2595.0
+2510,brooklyn,Williamsburg,185 South 4th Street,1,1,0,3705.0
+2511,brooklyn,Flatbush,339 Lenox Road,3,1.5,0,2975.0
+2512,brooklyn,Bushwick,175 Palmetto Street,2,1,0,3150.0
+2513,brooklyn,Carroll Gardens,65 2 Place,3,2.5,0,12750.0
+2514,brooklyn,Williamsburg,484 Humboldt Street,1,1,0,3500.0
+2515,brooklyn,Bushwick,340 Evergreen Avenue,0.5,1,0,2400.0
+2516,brooklyn,Crown Heights,707 Sterling Place,3,1,0,2800.0
+2517,brooklyn,New Lots,442 Sapphire Street,2,2,0,2500.0
+2518,brooklyn,Gravesend,675 Avenue Z,0.5,1,0,1475.0
+2519,brooklyn,Gravesend,9 Murdock Court,0.5,1,0,1399.0
+2520,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+2521,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3425.0
+2522,brooklyn,Downtown Brooklyn,333 Schermerhorn Street,1,1,0,4143.0
+2523,brooklyn,New_Dev,2484 Bedford Avenue,3,2,0,3273.0
+2524,brooklyn,Williamsburg,457 Keap Street,2,1,0,3095.0
+2525,brooklyn,Brownsville,44 Lott Avenue,2,1,950,2100.0
+2526,brooklyn,Bushwick,1368 Decatur Street,3,1,0,2399.0
+2527,brooklyn,Gravesend,412 Kings Highway,1,1,0,2250.0
+2528,brooklyn,Flatbush,2324 Clarendon Road,3,2,0,3000.0
+2529,brooklyn,Flatbush,2324 Clarendon Road,3,2,0,3050.0
+2530,brooklyn,Bushwick,182 Cornelia Street,2,1.5,0,2995.0
+2531,brooklyn,Midwood,1494 Ocean Avenue,2,1,0,2650.0
+2532,brooklyn,Brooklyn Heights,107 Columbia Heights,1,1,541,4000.0
+2533,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+2534,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+2535,brooklyn,East Flatbush,3506 Farragut Road,2,1,0,2400.0
+2536,brooklyn,Crown Heights,1598 Pacific Street,2,1,0,2300.0
+2537,brooklyn,Greenpoint,53 Hausman Street,3,1,950,3200.0
+2538,brooklyn,Prospect Lefferts Gardens,305 Clarkson Avenue,1,1,0,2150.0
+2539,brooklyn,Flatbush,123 Linden Boulevard,1,1,0,2862.0
+2540,brooklyn,Stuyvesant Heights,242 Bainbridge Street,1,1,0,2500.0
+2541,brooklyn,Park Slope,108 Park Place,0.5,1,0,2650.0
+2542,brooklyn,Gravesend,2580 Ocean Parkway,2,1,925,2100.0
+2543,brooklyn,Flatbush,123 Linden Boulevard,1,1,0,3000.0
+2544,brooklyn,Flatbush,123 Linden Boulevard,1,1,0,3046.0
+2545,brooklyn,Prospect Heights,364 Lincoln Place,2,2,0,4100.0
+2546,brooklyn,Weeksville,1756 Bergen Street,3,2,0,2650.0
+2547,brooklyn,Fort Greene,810 Fulton Street,1,1,0,2499.0
+2548,brooklyn,Bushwick,183 Eldert Street,4,2,0,3950.0
+2549,brooklyn,Bushwick,17 Troutman Street,3,1,0,2900.0
+2550,brooklyn,Brownsville,1151 Lenox Road,2,1,0,2095.0
+2551,brooklyn,Stuyvesant Heights,890 Herkimer Street,3,2,0,2600.0
+2552,brooklyn,Downtown Brooklyn,196 Willoughby Street,0.5,1,0,3625.0
+2553,brooklyn,Fort Hamilton,9402 Fourth Avenue,1,1,780,1700.0
+2554,brooklyn,New_Dev,310 Livingston Street,1,1,0,4350.0
+2555,brooklyn,New_Dev,310 Livingston Street,1,1,0,4110.0
+2556,brooklyn,Weeksville,243 Troy Avenue,1,1,0,1999.0
+2557,brooklyn,Stuyvesant Heights,140 Ralph Avenue,3,1.5,0,3600.0
+2558,brooklyn,Williamsburg,34 Meserole Street,3,1,0,4450.0
+2559,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+2560,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+2561,brooklyn,Crown Heights,1468 Eastern Parkway,2,1,0,2250.0
+2562,brooklyn,Stuyvesant Heights,744 Willoughby Avenue,3,1,0,3000.0
+2563,brooklyn,Cobble Hill,217 Court Street,2,2,0,5000.0
+2564,brooklyn,Williamsburg,161 Maujer Street,3,2,0,4300.0
+2565,brooklyn,Bushwick,177 Palmetto Street,4,2,0,4450.0
+2566,brooklyn,Midwood,920 East 17th Street,0.5,1,676,1800.0
+2567,brooklyn,Williamsburg,555 Grand Street,3,1.5,0,5000.0
+2568,brooklyn,Park Slope,581 5th Avenue,2,2,1200,5400.0
+2569,brooklyn,Bay Ridge,6819 Third Avenue,1,1,0,1900.0
+2570,brooklyn,Ditmas Park,415 East 17th Street,0.5,1,0,1745.0
+2571,brooklyn,Flatbush,170 Woodruff Avenue,2,1,0,1900.0
+2572,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+2573,brooklyn,Stuyvesant Heights,1052 Greene Avenue,1,1,0,2800.0
+2574,brooklyn,Kensington,415 Beverley Road,0.5,1,0,1750.0
+2575,brooklyn,Flatlands,1228 East 58th Street,3,1,1200,2500.0
+2576,brooklyn,Bushwick,1179 Putnam Avenue,3,2,0,3499.0
+2577,brooklyn,Flatbush,2337 Bedford Avenue,3,2,0,4000.0
+2578,brooklyn,Ocean Hill,1381 Herkimer Street,3,2,1600,3000.0
+2579,brooklyn,Stuyvesant Heights,981 Putnam Avenue,3,2.5,1600,4750.0
+2580,brooklyn,Prospect Lefferts Gardens,253 Clarkson Avenue,0.5,1,0,1649.0
+2581,brooklyn,Gowanus,237 11th Street,2,2,0,6125.0
+2582,brooklyn,Kensington,794 Macdonald Avenue,4,2,0,3395.0
+2583,brooklyn,Prospect Heights,138 Saint Mark's Avenue,1,1,0,3400.0
+2584,brooklyn,Prospect Heights,662 Pacific Street,0.5,1,0,4171.0
+2585,brooklyn,Williamsburg,1 N 4th Place,3,2.5,1388,10591.0
+2586,brooklyn,Prospect Park South,200 East 18th Street,1,1,0,2100.0
+2587,brooklyn,Flatbush,844 Flatbush Avenue,1,1,0,1850.0
+2588,brooklyn,Kensington,585 Ocean Parkway,2,1.5,0,2639.0
+2589,brooklyn,Clinton Hill,490 Myrtle Avenue,1,1,0,3619.0
+2590,brooklyn,Clinton Hill,504 Myrtle Avenue,0.5,1,0,3039.0
+2591,brooklyn,Clinton Hill,555 Waverly Avenue,1,1,0,3995.0
+2592,brooklyn,Williamsburg,247 North Seventh Street,0.5,1,469,3524.0
+2593,brooklyn,Gravesend,379 Kings Highway,2,2,1000,2700.0
+2594,brooklyn,Bushwick,1423 De Kalb Avenue,3,1,0,3000.0
+2595,brooklyn,Weeksville,1368 Saint Mark's Avenue,2,1,0,2499.0
+2596,brooklyn,Kensington,107 Dahill Road,3,1,0,3200.0
+2597,brooklyn,DUMBO,100 Jay Street,2,2.5,0,9200.0
+2598,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+2599,brooklyn,New_Dev,86 Fleet Place,0.5,1,501,3101.0
+2600,brooklyn,Flatbush,800 Flatbush Avenue,2,1,0,2993.0
+2601,brooklyn,DUMBO,100 Jay Street,1,1,0,4495.0
+2602,brooklyn,Flatbush,800 Flatbush Avenue,2,1,0,2993.0
+2603,brooklyn,Brownsville,105 Rockaway Parkway,2,1,725,2149.0
+2604,brooklyn,Williamsburg,100 Bushwick Avenue,3,1,1000,3200.0
+2605,brooklyn,New_Dev,10 Montieth Street,2,1,0,3908.0
+2606,brooklyn,Bedford-Stuyvesant,133A Quincy Street,6,3,0,6900.0
+2607,brooklyn,Downtown Brooklyn,309 Gold Street,2,1,0,5295.0
+2608,brooklyn,Bensonhurst,1946 84th Street,3,2,0,2650.0
+2609,brooklyn,New_Dev,85 Jay Street,1,1,631,4850.0
+2610,brooklyn,Downtown Brooklyn,343 Gold Street,1,1,699,3774.0
+2611,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+2612,brooklyn,Stuyvesant Heights,427 Pulaski Street,3,2,0,3250.0
+2613,brooklyn,Gravesend,2168 East 2nd Street,2,1,0,2000.0
+2614,brooklyn,Gravesend,2470 West 1st Street,1,1,0,1600.0
+2615,brooklyn,Homecrest,2066 East 15th Street,1,1,750,1600.0
+2616,brooklyn,Weeksville,1602 Prospect Place,2,1,650,2000.0
+2617,brooklyn,Red Hook,99 West 9th Street,1,1,1100,2850.0
+2618,brooklyn,Williamsburg,95 North Seventh Street,2,1,0,3599.0
+2619,brooklyn,Canarsie,1468 East 87th Street,2,1,850,2000.0
+2620,brooklyn,Crown Heights,377 Montgomery Street,1,1,0,1575.0
+2621,brooklyn,Park Slope,351 Douglass Street,4,1.5,0,4795.0
+2622,brooklyn,Brownsville,226 East 95th Street,1,1,0,1850.0
+2623,brooklyn,Park Slope,195 Berkeley Place,4,2,0,9500.0
+2624,brooklyn,Bushwick,1106 Bushwick Avenue,1,1,0,2200.0
+2625,brooklyn,Prospect Park South,11 Crooke Avenue,1,1,0,2300.0
+2626,brooklyn,Bushwick,273A Cooper Street,3,1,0,3200.0
+2627,brooklyn,Williamsburg,269 Ainslie Street,3,1,0,3800.0
+2628,brooklyn,Gowanus,436 Fourth Avenue,1,1,0,2250.0
+2629,brooklyn,Bedford-Stuyvesant,27 Pulaski Street,3,2,0,3250.0
+2630,brooklyn,Park Slope,575 10th Street,2,1,0,3850.0
+2631,brooklyn,Bay Ridge,7224 Fourth Avenue,2,1,0,1899.0
+2632,brooklyn,Williamsburg,275 South 5th Street,2,2,0,7152.0
+2633,brooklyn,Bushwick,1277 Hancock Street,2,1,900,2100.0
+2634,brooklyn,Carroll Gardens,190 West 9th Street,3,1,0,3050.0
+2635,brooklyn,Stuyvesant Heights,414A Kosciusko Street,2,1,777,2300.0
+2636,brooklyn,Greenpoint,77 Clay Street,4,2,0,6000.0
+2637,brooklyn,Williamsburg,1 N 4th Place,1,1,600,4597.0
+2638,brooklyn,Williamsburg,2 N 6th Place,3,3,1670,9295.0
+2639,brooklyn,Crown Heights,518 Eastern Parkway,2,1,850,2450.0
+2640,brooklyn,East Williamsburg,246 Johnson Avenue,1,1,0,3475.0
+2641,brooklyn,New_Dev,160 Front Street,2,2,0,6850.0
+2642,brooklyn,New_Dev,160 Front Street,1,1,0,4694.0
+2643,brooklyn,Williamsburg,138 Broadway,3,2,1800,10000.0
+2644,brooklyn,Clinton Hill,79 Clifton Place,4,2,0,6350.0
+2645,brooklyn,Bushwick,831 Bushwick Avenue,3,1,0,3100.0
+2646,brooklyn,Homecrest,2481 Ocean Avenue,2,1,0,2975.0
+2647,brooklyn,Carroll Gardens,472 Smith Street,2,2,950,6250.0
+2648,brooklyn,Stuyvesant Heights,489 Halsey Street,2,1,0,2299.0
+2649,brooklyn,Stuyvesant Heights,410 Marcus Garvey Boulevard,2,1,700,2200.0
+2650,brooklyn,Crown Heights,1436 Pacific Street,5,3,0,6000.0
+2651,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+2652,brooklyn,Crown Heights,1474 Eastern Parkway,2,1,0,2250.0
+2653,brooklyn,Fort Hamilton,422 100th Street,3,2,1000,2900.0
+2654,brooklyn,East Williamsburg,312 Devoe Street,1,1,0,3200.0
+2655,brooklyn,Ocean Hill,357 Sumpter Street,3,1,0,2450.0
+2656,brooklyn,Stuyvesant Heights,936 Madison Street,3,1,0,2900.0
+2657,brooklyn,Borough Park,5814 New Utrecht Avenue,2,1,768,2300.0
+2658,brooklyn,Bay Ridge,348 Senator Street,2,1,1000,2550.0
+2659,brooklyn,Fort Greene,810 Fulton Street,1,1,0,2499.0
+2660,brooklyn,Fort Greene,810 Fulton Street,0.5,1,0,1999.0
+2661,brooklyn,Midwood,1857 Coney Island Avenue,2,1,0,1800.0
+2662,brooklyn,Williamsburg,233 Maujer Street,0.5,1,0,2399.0
+2663,brooklyn,Bushwick,115 Stanwix Street,2,1,0,3800.0
+2664,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+2665,brooklyn,Bushwick,1086 Bushwick Avenue,3,2,1400,3499.0
+2666,brooklyn,Bushwick,161 Stockholm Street,4,2,0,3600.0
+2667,brooklyn,East Williamsburg,312 Devoe Street,1,1,0,3300.0
+2668,brooklyn,Prospect Lefferts Gardens,430 Fenimore Street,3,2,1000,3100.0
+2669,brooklyn,Crown Heights,926 Prospect Place,3,2,0,3400.0
+2670,brooklyn,Stuyvesant Heights,876 Greene Avenue,2,1,0,2000.0
+2671,brooklyn,Prospect Heights,426 Park Place,2,1,750,3300.0
+2672,brooklyn,Stuyvesant Heights,125 Chauncey Street,1,1,0,2750.0
+2673,brooklyn,Stuyvesant Heights,617 Halsey Street,3,2,1250,3800.0
+2674,brooklyn,Weeksville,61 Utica Avenue,0.5,1,0,2500.0
+2675,brooklyn,Williamsburg,185 Leonard Street,2,1,0,4000.0
+2676,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+2677,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+2678,brooklyn,Prospect Lefferts Gardens,620 Parkside Avenue,2,1,0,2650.0
+2679,brooklyn,Sunset Park,4516 Sixth Avenue,1,1,0,1990.0
+2680,brooklyn,Park Slope,586 Pacific Street,3,2.5,1300,6000.0
+2681,brooklyn,Prospect Lefferts Gardens,584 New York Avenue,3,2,973,2880.0
+2682,brooklyn,Fort Greene,8 Vanderbilt Avenue,1,1,0,2795.0
+2683,brooklyn,Downtown Brooklyn,225 Schermerhorn Street,1,1,577,3578.0
+2684,brooklyn,Downtown Brooklyn,225 Schermerhorn Street,1,1,730,3726.0
+2685,brooklyn,New_Dev,250 Ashland Place,0.5,1,0,3409.0
+2686,brooklyn,New_Dev,250 Ashland Place,0.5,1,0,3350.0
+2687,brooklyn,Prospect Heights,662 Pacific Street,1,1,0,4250.0
+2688,brooklyn,Bushwick,123 Melrose Street,2,1,0,4225.0
+2689,brooklyn,Williamsburg,1 N 4th Place,0.5,1,538,3795.0
+2690,brooklyn,Bushwick,286 Stanhope Street,3,1,0,3272.0
+2691,brooklyn,Kensington,420 Mac Donald Avenue,2,1,0,2200.0
+2692,brooklyn,Bay Ridge,219 78th Street,0.5,1,0,1499.0
+2693,brooklyn,Bensonhurst,7111 19th Avenue,2,1,986,2300.0
+2694,brooklyn,Downtown Brooklyn,111 Lawrence Street,0.5,1,476,3341.0
+2695,brooklyn,Fort Greene,80 Dekalb Avenue,0.5,1,0,3135.0
+2696,brooklyn,Kensington,159 Tehama Street,1,1,0,1799.0
+2697,brooklyn,Boerum Hill,413 Pacific Street,0.5,1,0,3200.0
+2698,brooklyn,Gravesend,2606 Cropsey Avenue,1,1,0,1500.0
+2699,brooklyn,Fort Greene,129 Park Avenue,3,1,0,3199.0
+2700,brooklyn,Downtown Brooklyn,111 Lawrence Street,2,2,976,5447.0
+2701,brooklyn,Downtown Brooklyn,111 Lawrence Street,0.5,1,402,3227.0
+2702,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,3095.0
+2703,brooklyn,Bushwick,286 Stanhope Street,3,1,0,3272.0
+2704,brooklyn,Downtown Brooklyn,309 Gold Street,0.5,1,0,2947.0
+2705,brooklyn,Greenpoint,714 Leonard Street,2,1,0,2899.0
+2706,brooklyn,Bedford-Stuyvesant,28A Hart Street,2,1,0,3100.0
+2707,brooklyn,Brooklyn Heights,30 Hicks Street,0.5,1,0,2325.0
+2708,brooklyn,Bushwick,441 Irving Avenue,3,2,0,4150.0
+2709,brooklyn,Bushwick,441 Irving Avenue,2,2,0,3850.0
+2710,brooklyn,Bushwick,803 Wyckoff Avenue,3,2,0,3650.0
+2711,brooklyn,Bensonhurst,1920 72nd Street,3,1,1018,2600.0
+2712,brooklyn,Weeksville,1540 Park Place,1,1,0,2388.0
+2713,brooklyn,Ocean Hill,516 Bainbridge Street,3,2,0,2200.0
+2714,brooklyn,DUMBO,60 Water Street,2,1,0,6650.0
+2715,brooklyn,Williamsburg,2 N 6th Place,3,3,1670,9295.0
+2716,brooklyn,Downtown Brooklyn,10 City Point,0.5,1,0,3075.0
+2717,brooklyn,Fort Hamilton,9602 Fourth Avenue,0.5,1,0,4200.0
+2718,brooklyn,Stuyvesant Heights,704 Madison Street,2,1,540,2200.0
+2719,brooklyn,Downtown Brooklyn,257 Gold Street,0.5,1,0,2995.0
+2720,brooklyn,Canarsie,734 Snediker Avenue,2,1,0,2100.0
+2721,brooklyn,Park Slope,276 13th Street,2,1.5,936,4500.0
+2722,brooklyn,Crown Heights,711 Saint Mark's Avenue,3,1,0,2800.0
+2723,brooklyn,East Williamsburg,15 Judge Street,2,1,0,4250.0
+2724,brooklyn,Williamsburg,115 South 2nd Street,3,1,0,4795.0
+2725,brooklyn,Bensonhurst,1756 65th Street,3,1,0,2200.0
+2726,brooklyn,DUMBO,100 Jay Street,1,1,791,4995.0
+2727,brooklyn,Flatbush,2809 Clarendon Road,1,1.5,0,2860.0
+2728,brooklyn,Stuyvesant Heights,788 Madison Street,2,1,0,2630.0
+2729,brooklyn,Ocean Hill,9 Pleasant Place,3,1,1000,2575.0
+2730,brooklyn,Flatbush,2809 Clarendon Road,2,1.5,0,2860.0
+2731,brooklyn,Flatbush,2809 Clarendon Road,2,1.5,0,2655.0
+2732,brooklyn,Flatbush,2809 Clarendon Road,1,1.5,0,2399.0
+2733,brooklyn,Flatbush,2809 Clarendon Road,0.5,1,0,2225.0
+2734,brooklyn,Prospect Park South,200 East 18th Street,1,1,0,2100.0
+2735,brooklyn,New_Dev,146 Pierrepont Street,3,2,1778,15960.0
+2736,brooklyn,Flatbush,1363 Nostrand Avenue,3,1,0,3200.0
+2737,brooklyn,Brooklyn Heights,25 Pierrepont Street,1,1,0,3575.0
+2738,brooklyn,Bushwick,994 Hancock Street,2,1,1000,2800.0
+2739,brooklyn,Flatbush,2150 Bedford Avenue,0.5,1,0,1400.0
+2740,brooklyn,Downtown Brooklyn,1 Duffield Street,2,1,0,4400.0
+2741,brooklyn,Stuyvesant Heights,427 Pulaski Street,3,2,0,3250.0
+2742,brooklyn,Downtown Brooklyn,257 Gold Street,1,1,0,4095.0
+2743,brooklyn,Prospect Heights,18 Sixth Avenue,0.5,1,0,2975.0
+2744,brooklyn,Prospect Heights,18 Sixth Avenue,0.5,1,0,3200.0
+2745,brooklyn,Bedford-Stuyvesant,232 Tompkins Avenue,1,1,0,2500.0
+2746,brooklyn,Borough Park,1163 43rd Street,1,1,550,1850.0
+2747,brooklyn,Prospect Heights,18 Sixth Avenue,2,2,0,7875.0
+2748,brooklyn,Stuyvesant Heights,936 Madison Street,3,1,0,3099.0
+2749,brooklyn,Stuyvesant Heights,936 Madison Street,3,1,0,3099.0
+2750,brooklyn,Brooklyn Heights,145 Henry Street,0.5,1,0,3250.0
+2751,brooklyn,Bay Ridge,412 73rd Street,2,1,930,2500.0
+2752,brooklyn,Bushwick,851 Hart Street,3,2,2000,3750.0
+2753,brooklyn,Sunset Park,472 41st Street,1,1,700,2200.0
