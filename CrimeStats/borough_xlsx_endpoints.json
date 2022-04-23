@@ -1,0 +1,20 @@
+{
+  "bronx": [
+    "https://www1.nyc.gov/assets/nypd/downloads/excel/crime_statistics/cs-en-us-pbbx.xlsx"
+  ],
+  "brooklyn": [
+    "https://www1.nyc.gov/assets/nypd/downloads/excel/crime_statistics/cs-en-us-pbbs.xlsx",
+    "https://www1.nyc.gov/assets/nypd/downloads/excel/crime_statistics/cs-en-us-pbbn.xlsx"
+  ],
+  "manhattan": [
+    "https://www1.nyc.gov/assets/nypd/downloads/excel/crime_statistics/cs-en-us-pbms.xlsx",
+    "https://www1.nyc.gov/assets/nypd/downloads/excel/crime_statistics/cs-en-us-pbmn.xlsx"
+  ],
+  "queens": [
+    "https://www1.nyc.gov/assets/nypd/downloads/excel/crime_statistics/cs-en-us-pbqs.xlsx",
+    "https://www1.nyc.gov/assets/nypd/downloads/excel/crime_statistics/cs-en-us-pbqn.xlsx"
+  ],
+  "staten-island": [
+    "https://www1.nyc.gov/assets/nypd/downloads/excel/crime_statistics/cs-en-us-pbsi.xlsx"
+  ]
+}
